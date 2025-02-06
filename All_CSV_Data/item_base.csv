@@ -1,0 +1,1340 @@
+item_id,name_en,category,subcategory,rarity,buy_price,sell_price,carry_limit,points,icon_name,icon_color,description_en
+1,Potion,item,,1,66,8,10,,Liquid,Green,Restores a small amount of health.
+2,Mega Potion,item,,2,,16,10,,Liquid,Green,Restores a moderate amount of health.
+3,Max Potion,item,,3,,210,2,,Pellets,Gold,Fully restores health and maximizes the size of your Health Gauge.
+4,Ancient Potion,item,,5,,345,1,,Pellets,Gold,Fully restores health and maximizes the size of your Health and Stamina Gauges.
+5,Antidote,item,,1,60,6,10,,Liquid,Blue,A cure for poison.
+6,Herbal Medicine,item,,2,,25,5,,Pellets,Blue,Removes all traces of poison and restores a slight amount of health.
+7,Nulberry,item,,2,,120,10,,Seed,Blue,A mysterious berry that cures various blights.
+8,Energy Drink,item,,2,,6,10,,Liquid,Yellow,"A Guild-approved beverage that boosts your stamina. Helps shake off sleep, too!"
+9,Ration,item,,1,,3,10,,Meat,DarkBeige,Food that restores a bit of stamina.
+10,Rare Steak,item,,1,,3,10,,Meat,DarkBeige,Provides a moderate boost to your stamina. This one's still red in the middle.
+11,Well-done Steak,item,,2,,48,10,,Meat,Beige,Provides a moderate boost to your stamina and keeps it at max for a longer period. Meat done right!
+12,Burnt Meat,item,,1,,1,10,,Meat,Gray,Provides a small boost to your stamina. Can be eaten quickly.
+13,Cool Drink,item,,1,300,30,5,,Liquid,White,Provides temporary relief from extreme heat.
+1059,Hot Drink,item,,1,,25,5,,Liquid,DarkRed,Provides temporary relief from extreme cold.
+14,Nutrients,item,,2,,25,5,,Liquid,Cyan,Very slightly increases your maximum health level.
+15,Mega Nutrients,item,,3,,92,5,,Liquid,Cyan,Slightly increases your maximum health level.
+16,Immunizer,item,,3,,92,10,,Liquid,Beige,Boosts your natural ability to heal.
+17,Astera Jerky,item,,2,98,10,5,,Meat,Pink,"Juicy, dried meat made by Astera's chef. Boosts natural healing and cures bleeding."
+18,Dash Juice,item,,2,,29,5,,Liquid,Gold,Dulls one's sense of exhaustion. Reduces stamina depletion for a time.
+19,Might Seed,item,,2,,140,10,,Seed,Red,Temporarily strengthens your attacks when ingested by improving energy flow.
+20,Demondrug,item,,4,,67,5,,Liquid,Red,Boosts your attack power by filling you with—guess what?—demonic strength.
+21,Mega Demondrug,item,,5,,283,5,,Liquid,Red,Boosts your attack power even more than a regular Demondrug.
+22,Might Pill,item,,4,,280,5,,Pellets,Red,Temporarily endows you with the strength of a mighty god. Potent!
+23,Adamant Seed,item,,2,,110,10,,Seed,Beige,Temporarily raises your defense when ingested by hardening tissue.
+24,Armorskin,item,,4,,58,5,,Liquid,Beige,Boosts your defense by turning your skin as hard as rock.
+25,Mega Armorskin,item,,5,,269,5,,Liquid,Beige,Boosts your defense even more than a regular armorskin.
+26,Adamant Pill,item,,4,,260,5,,Pellets,Beige,Temporarily makes your skin as hard as adamant. Potent!
+27,Lifepowder,item,,4,,190,3,,Sac,LightBeige,Produces a healing cloud in the area around the user.
+1060,Dust of Life,item,,6,,690,2,,Sac,LightBeige,Produces a cloud in the area around the user with strong healing properties.
+28,Herbal Powder,item,,4,,315,3,,Sac,Blue,A mysterious powder that produces a cloud around the area that restores health and neutralizes poison.
+29,Demon Powder,item,,4,,315,3,,Sac,Red,A mysterious powder that produces a cloud around the area that temporarily strengthens attacks.
+30,Hardshell Powder,item,,4,,315,3,,Sac,Beige,A mysterious powder that produces a cloud around the area that temporarily strengthens defense.
+31,Honey,item,,2,,45,10,,Webbing,Beige,Highly nutritious honey. Combine this with Potions to craft Mega Potions for maximum potency.
+32,Herb,item,,1,,2,10,,Herb,Green,A primary ingredient in potions.
+33,Antidote Herb,item,,1,,2,10,,Herb,Blue,A primary ingredient in antidotes.
+34,Fire Herb,item,,2,,4,20,,Herb,Orange,"A wondrous, flammable plant. Useful for crafting explosives."
+35,Flowfern,item,,1,,4,20,,Herb,DarkBlue,This plant's leaves store a great amount of water. A component for making Water Ammo.
+36,Snow Herb,item,,2,,6,20,,Herb,White,A plant that radiates ice-cold air. Use in combinations to create freeze ammo.
+37,Sleep Herb,item,,1,,5,10,,Herb,Cyan,A plant containing sleeping agents. Used to craft tranquilizers.
+38,Ivy,item,,1,,8,10,,Herb,DarkGreen,A lightweight and extremely strong plant. Used to make nets for pitfall traps.
+1061,Hot Pepper,item,,1,,14,10,,Herb,DarkRed,A plant used for making hot drinks.
+1062,Gloamgrass Bud,item,,4,,40,4,,Herb,LightBeige,A plant with healing properties. Combine it with a Godbug to bring out its full potency.
+39,Smokenut,item,,1,,4,10,,Seed,White,A nut that produces a copious amount of smoke. Combine with other items to create smoke with various properties.
+40,Dragonfell Berry,item,,4,,78,10,,Seed,DarkRed,"A mysterious berry, rumored for eons to be loathed by dragons. Required to craft Dragon Ammo."
+41,Blue Mushroom,item,,2,,2,10,,Mushroom,Blue,A mushroom infused with power-enhancing effects. Used in restorative items.
+42,Mandragora,item,,3,,40,10,,Mushroom,Beige,A dangerous fungus said to draw the life out of people. Beware. Required to craft Max Potions.
+43,Nitroshroom,item,,2,,6,20,,Mushroom,Red,A hard-to-find mushroom with the power to generate blazing heat. Required to craft Gunpowder.
+44,Devil's Blight,item,,2,,60,10,,Mushroom,DarkRed,A very rare fungus that pulses with extreme heat. Add to a barrel bomb for a dramatically stronger blast.
+45,Parashroom,item,,3,,15,10,,Mushroom,Yellow,A mushroom that induces paralysis. Required to craft Tranq Bombs.
+46,Toadstool,item,,2,,8,10,,Mushroom,Violet,A poisonous fungus. Can be used as a toxin for knives.
+47,Exciteshroom,item,,3,,18,10,,Mushroom,DarkGreen,This one has a very strange aroma. Is it edible? Only one way to find out! Required to craft Farcasters.
+48,Chillshroom,item,,3,,18,10,,Mushroom,White,This mushroom is a primary ingredient in cool drinks.
+49,Bitterbug,item,,1,,2,10,,Bug,Blue,A sharp-tasting bug with innate healing abilities. Used as an ingredient in many medicines.
+50,Flashbug,item,,2,,48,10,,Bug,Gold,An insect that emits a powerful flash when it dies. Required to craft Flash Pods.
+51,Godbug,item,,4,,120,10,,Bug,White,An insect said to live a millennium. Combine it with other items to add their properties to the powder.
+52,Thunderbug,item,,4,,80,10,,Bug,Yellow,An insect that emits electricity when struck. Required to craft Shock Traps and Thunder Ammo.
+53,Baitbug,item,,3,,2,10,,Bait,Pink,"An insect used as fishing bait. A fish favorite, it practically races down the nearest gilly gullet."
+54,Kelbi Horn,item,,4,,52,99,,Fang,Green,"While not practical when forging equipment, Kelbi horns are a vital component of many items."
+55,Dash Extract,item,,4,,56,20,,Liquid,Gold,A mysterious substance culled from certain monsters that increases endurance.
+56,Nourishing Extract,item,,4,,122,20,,Liquid,White,Can be obtained from certain large monsters. Has the ability to amplify the effects of certain medicines.
+57,Screamer Sac,item,,2,,15,10,,Sac,Gray,A monster organ that emits an earsplitting sonic blast when ruptured. Used to craft screamer pods.
+58,Catalyst,item,,2,,48,5,,Sac,DarkGreen,Works with other materials to enhance their effects. Cannot be used by itself.
+59,Tranq Bomb,item,,3,,35,8,,Smoke,Red,A hand grenade used to capture monsters ensnared in traps. Can be slammed against the ground.
+60,Flash Pod,item,,2,,57,3,,Slinger,Gold,Slinger ammo that flashes brightly on impact. Fire it right under a monster's nose to blind it.
+61,Screamer Pod,item,,2,,45,3,,Slinger,Gray,"Used as ammo for your slinger. Emits a harsh, high-frequency sound that can disrupt sensitive monsters."
+62,Dung Pod,item,,2,,20,10,,Slinger,Beige,Slinger ammo that releases a strong odor on impact. Causes certain monsters to flee.
+63,Smoke Bomb,item,,2,,44,3,,Smoke,White,Creates a large cloud of smoke wherever it lands.
+64,Poison Smoke Bomb,item,,2,,60,5,,Smoke,Violet,Releases a toxic cloud of mist when used. Also popular as a household bug bomb.
+65,Farcaster,item,,3,,30,1,,Smoke,Green,Call for a wingdrake to transport you to the nearest camp. Can also be used during battles.
+1339,Banishing Ball,item,,9,,40,10,,Smoke,Beige,
+66,Raw Meat,item,,1,,5,10,,Meat,Red,"Meat carved from a monster. Can be cooked, combined, or used to set a trap."
+67,Poisoned Meat,item,,2,,19,10,,Meat,Violet,Raw meat that poisons whatever eats it. Makes great bait for traps.
+68,Tinged Meat,item,,2,,30,10,,Meat,Yellow,Raw meat that paralyzes whatever eats it. Makes great bait for traps.
+69,Drugged Meat,item,,2,,32,10,,Meat,Cyan,Raw meat that puts whatever eats it to sleep. Makes great bait for traps.
+70,Gunpowder,item,,2,,45,20,,Sac,Orange,A dangerous substance that explodes when struck or heated.
+71,Small Barrel,item,,1,80,8,10,,Barrel,Gold,"A small, empty barrel."
+72,Barrel Bomb,item,,2,156,16,10,,BarrelBomb,Gold,A small time bomb.
+73,Bounce Bomb,item,,2,150,18,5,,BarrelBomb,Cyan,Launches into the air when set. This modified bomb requires skill to use.
+74,Mega Bounce Bomb,item,,4,,68,5,,BarrelBomb,Cyan,An improved version of the bounce bomb. Requires some skill to use.
+75,Large Barrel,item,,2,210,21,5,,Barrel,Orange,"A large, empty barrel. Combine with gunpowder to make it into a bomb."
+76,Large Barrel Bomb,item,,3,518,52,2,,BarrelBomb,Orange,A powerful bomb triggered by external physical impact.
+77,Mega Barrel Bomb,item,,4,,80,2,,BarrelBomb,Orange,An upgraded large barrel bomb. Effective against large monsters.
+78,Spider Web,item,,1,,6,10,,Web,White,A very sticky web. Used to craft pitfall traps.
+79,Net,item,,2,,54,10,,Web,DarkGreen,A sturdy net that supports a certain amount of weight without breaking. Perfect for pitfall traps.
+80,Trap Tool,item,,3,200,20,2,,TrapTool,White,A must-have item for putting together pitfall traps and other kinds of traps.
+81,Pitfall Trap,item,,3,,200,1,,Trap,DarkGreen,A trap for catching certain large monsters. It is tripped by a heavy weight.
+82,Shock Trap,item,,3,,160,1,,Trap,Yellow,A trap that immobilizes a target. Use it to capture monsters.
+83,Rolled-up Dung,item,,1,,10,20,,Dung,DarkBeige,A ball of condensed monster dung. Used to make dung pods for your slinger.
+84,Dung,item,,1,,1,10,,Dung,DarkBeige,Exudes a prodigious smell. Used to make ammo for your slinger called dung pods.
+85,Arowana Bait,item,,2,150,15,10,,Bait,Green,A ball of bait favored by fish of the Arowana family.
+86,Gunpowderfish Bait,item,,2,150,15,10,,Bait,White,A ball of bait favored by fish of the Gunpowderfish family.
+87,Goldenfish Bait,item,,2,300,30,10,,Bait,Gold,A ball of bait favored by fish of the Goldenfish family.
+88,Boomerang,item,,4,150,15,5,,Boomerang,Gold,An unusually-shaped weapon from abroad that returns to its user when thrown.
+89,Binoculars,item,,1,50,5,1,,Binoculars,Gray,Allows you to see farther and observe from a distance.
+90,Powercharm,item,,5,36000,3600,1,,Sac,Red,An amulet that strengthens attacks. Just carrying this gives you demonic strength.
+91,Powertalon,item,,5,,6840,1,,Fang,Red,A charm that strengthens attacks. Its effects are amplified by the dragon parts it contains.
+92,Armorcharm,item,,5,24000,2400,1,,Sac,Beige,An amulet that increases defense. Just carrying this hardens your skin like stone.
+93,Armortalon,item,,5,,5040,1,,Fang,Beige,A charm that increases defense. Its effects are amplified by the dragon parts it contains.
+94,Needleberry,item,,1,,1,99,,Husk,DarkGreen,A nut covered in needle-like spines. Used to make spread ammo.
+95,Blastnut,item,,1,,4,30,,Husk,Beige,A nut used to make sticky ammo.
+96,Dragonstrike Nut,item,,2,,12,5,,Husk,DarkBeige,A nut that explodes on impact. Used to make wyvern ammo.
+97,Slashberry,item,,1,,4,30,,Husk,White,Used to make slicing ammo.
+98,Latchberry,item,,1,,4,99,,Husk,Blue,A nut that bears a spiral groove. Used to make pierce ammo.
+99,Bomberry,item,,2,,12,5,,Husk,DarkRed,A nut that ruptures on impact. Used to make cluster bombs.
+100,Flamenut,item,,2,,12,80,,Seed,Gray,Used to make gunpowder that increases ammo firepower.
+101,Blazenut,item,,2,,12,60,,Seed,Gray,Used to make gunpowder that greatly increases ammo firepower.
+102,Gunpowder Level 2,item,,2,16,1,80,,Sac,Gray,Combustible powder. Combine with level 1 ammo to raise its level.
+103,Gunpowder Level 3,item,,2,30,3,80,,Sac,Gray,Highly combustible powder. Combine with level 1 ammo to raise its level.
+1209,Blossom Fireworks,item,,3,,7,10,,BarrelBomb,Pink,Fireworks you receive for attending the Spring Blossom Fest. Light up the sky and enjoy the festivities!
+1210,Twilight Fireworks,item,,3,,7,10,,BarrelBomb,Blue,Fireworks you receive for attending the Summer Twilight Fest. Enjoy the summer heat with a bang!
+1211,Harvest Fireworks,item,,3,,7,10,,BarrelBomb,LightBeige,Fireworks you receive for attending the Autumn Harvest Fest. Dance till the ground lights up in a blaze!
+1212,Star Fireworks,item,,3,,7,10,,BarrelBomb,White,Fireworks you receive for attending the Winter Star Fest. Enjoy the festivities with a bang!
+1213,Appreciation Fireworks,item,,3,,7,10,,BarrelBomb,Gold,Fireworks you receive for attending the Appreciation Fest. Show your thanks by lighting these fireworks!
+114,Empty Phial,item,,1,5,1,99,,EmptyBottle,White,"A regular old empty phial. Nothing more, nothing less."
+104,Whetfish Fin,item,,2,,45,10,,Scale,Gold,"A fish fin used to sharpen weapons. Restores sharpness greatly, but good for fewer uses than a whetstone."
+105,Whetfish Fin+,item,,4,,45,5,,Scale,Gold,"A fish fin used to sharpen weapons. Works better than a whetstone, and can be reused if you're lucky."
+106,Sushifish Scale,item,,2,,45,10,,Scale,Beige,A scale from a Sushifish. Eat to restore a small amount of health. Also works to treat bleeding.
+107,Great Sushifish Scale,item,,4,,45,5,,Scale,Beige,"Scale from a Great Sushifish. Eat to get large health boost, a natural healing boost, and treat bleeding."
+108,Gunpowderfish Scale,item,,3,,150,5,,Scale,Gray,The scales of a Gunpowderfish. Combine with a large barrel bomb to dramatically increase its firepower.
+109,Great Gunpowderfish Scale,item,,4,,150,5,,Scale,Gray,The scales of a Great Gunpowderfish. Combine with a large barrel bomb to make a mega barrel bomb.
+110,Burst Arowana Scale,item,,2,,45,5,,Scale,Green,The scales of a Burst Arowana. Combine with fire herb to make a large amount of level 2 gunpowder.
+111,Great Burst Arowana Scale,item,,4,,45,5,,Scale,Green,The scales of a Great Burst Arowana. Combine with fire herb to make a vast amount of level 2 gunpowder.
+112,Bomb Arowana Scale,item,,2,,135,5,,Scale,Violet,The scales of a Bomb Arowana. Combine with fire herb to make a large amount of Lv3 gunpowder.
+113,Great Bomb Arowana Scale,item,,4,,135,5,,Scale,Violet,The scales of a Great Bomb Arowana. Combine with fire herb to make a vast amount of Lv3 gunpowder.
+115,Iron Ore,material,,4,,60,,,Ore,Gray,Ore that can be smelted into metal and used for many different purposes.
+116,Machalite Ore,material,,4,,160,,,Ore,Blue,Ore that's more difficult to procure than Iron Ore. Produces fine metal.
+117,Dragonite Ore,material,,4,,480,,,Ore,Green,An ore that yields metal superior to that of Machalite. Invaluable for making durable armor.
+118,Carbalite Ore,material,,6,,680,,,Ore,Violet,"Ore obtained from mining outcrops. Still under research, but known to yield highly pure metal."
+119,Fucium Ore,material,,6,,1020,,,Ore,Pink,"Ore obtained from the Elder's Recess. A mysterious metal, capable of fusing nearly any two materials together."
+682,Eltalite Ore,material,,9,,1280,,,Ore,Red,Ore obtained from mining outcrops. This transcendent ore refines into metal even stronger than carbalite.
+683,Meldspar Ore,material,,9,,1920,,,Ore,White,"Ore often found in the Rotten Vale. Malleable but strong, it is broadly used in creating alloys for crafting."
+120,Earth Crystal,material,,4,,80,,,Ore,White,Crystallized microbes prized as an abrasive when forging weapons. Mainly found in the Wildspire Waste.
+121,Coral Crystal,material,,4,,600,,,Ore,Blue,Crystal prized at the Smithy for use in high-grade abrasives. Mainly found in the Coral Highlands.
+122,Dragonvein Crystal,material,,6,,800,,,Ore,Red,Mined from high rank areas. Many expect this newly-discovered crystal to usher in a new era of metalwork.
+684,Spiritvein Crystal,material,,9,,1280,,,Ore,Violet,Mined from master rank areas. Little is known about these crystals save the complexity of their brilliance.
+123,Lightcrystal,material,,5,,1150,,,Ore,Gray,A precious and extremely hard substance with a faint glow. Sometimes used for crafting tools.
+124,Novacrystal,material,,7,,2440,,,Ore,White,"High quality Lightcrystal. Highly coveted for its rarity, it's used for only the finest of metalworking."
+784,Purecrystal,material,,10,,7320,,,Ore,Cyan,Very rare lightcrystal. Used by the forge workers to craft their tools due to its incredible hardness.
+125,Firecell Stone,material,,7,,1720,,,Ore,Beige,A magma-like deposit that only trained hands can work with. Armor made from it is first-class.
+695,Bathycite Ore,material,,9,,1620,,,Ore,Pink,Ore from the Coral Highlands. Formed by millennia of pressure acting upon the bones of ancient organisms.
+696,Gracium,material,,9,,1540,,,Ore,Blue,Ore from the Hoarfrost Reach. When the light catches this rare and useful metal it takes on a pale blue shine.
+126,Aquacore Ore,material,,4,,400,,,CharmOre,Blue,A valuable mineral used to create charms. Gives off a vibrant glow that mirrors the ocean.
+127,Spiritcore Ore,material,,6,,800,,,CharmOre,Gray,"A valuable mineral used to create charms. Gives off a warm, sunny glow."
+128,Dreamcore Ore,material,,7,,1200,,,CharmOre,Violet,A valuable mineral used to create charms. Gives off a blazing glow reminiscent of a bonfire.
+129,Dragoncore Ore,material,,8,,2000,,,CharmOre,Gold,A valuable mineral used to create charms. Gives off a mysterious glow that grants the holder sagely wisdom.
+1222,Phantomcore Ore,material,,10,,3200,,,CharmOre,Cyan,A valuable mineral used to create charms. Its otherworldly shimmering speaks to the power it contains.
+1223,Shadowcore Ore,material,,11,,4000,,,CharmOre,DarkPurple,A valuable mineral used to create charms. Its shine somehow saps the light away from its surroundings.
+135,Sturdy Bone,material,,4,,500,,,Bone,White,A bone used as crafting material. Can be found in bonepiles in the Coral Highlands and Rotten Vale.
+136,Quality Bone,material,,6,,750,,,Bone,White,A bone used as crafting material. Its ease of use and hardness allow it to be shaped into better gear.
+685,Thick Bone,material,,9,,1200,,,Bone,White,"Very rare bone used as crafting material. While laborious to work, it yields results like no other."
+137,Ancient Bone,material,,4,,400,,,Bone,Green,A bone used as crafting material. Can be found in bonepiles in the Ancient Forest. Its size evokes a certain primal quality.
+138,Boulder Bone,material,,4,,400,,,Bone,Gold,A bone used as crafting material. Can be found in bonepiles in the Wildspire Waste. Its size evokes a certain primal quality.
+139,Coral Bone,material,,4,,800,,,Bone,Pink,A bone used as crafting material. Can be found in bonepiles in the Coral Highlands. Its size evokes a certain primal quality.
+140,Warped Bone,material,,4,,800,,,Bone,DarkBeige,A bone used as crafting material. Can be found in bonepiles in the Rotten Vale. Its size evokes a certain primal quality.
+141,Brutal Bone,material,,6,,1200,,,Bone,Gray,A bone used as crafting material. Can be found in bonepiles in the Elder's Recess. Its size evokes a certain primal quality.
+143,Unknown Skull,material,,7,,1800,,,Bone,Gold,A rare material found in bonepiles in the Elder's Recess. It appears to be some kind of animal skull.
+697,Frozen Bone,material,,9,,2400,,,Bone,Blue,A bone found in bonepiles in the Hoarfrost Reach. Tempered by years of the tundra's unrelenting cold.
+142,Dragonbone Relic,material,,7,,1600,,,Bone,White,A high quality material found in bone piles. The only remains left of a species of dragon now lost to time.
+778,Dragonbone Artifact,material,,10,,2000,,,Bone,Violet,A very rare bone found in bonepiles. Evidence of an unknown elder dragon that once ruled the land.
+130,Armor Sphere,material,,4,,80,,,Sphere,Blue,Reacts uniquely to heat. Fuse this to armor to improve it by a tiny amount.
+131,Armor Sphere+,material,,5,,200,,,Sphere,Green,Reacts uniquely to heat. Fuse this to armor to improve it by a small amount.
+132,Advanced Armor Sphere,material,,6,,300,,,Sphere,Beige,Reacts uniquely to heat. Fuse this to armor to improve it.
+133,Hard Armor Sphere,material,,7,,400,,,Sphere,Violet,Reacts uniquely to heat. Fuse this to armor to significantly improve it.
+134,Heavy Armor Sphere,material,,8,,600,,,Sphere,Red,Reacts uniquely to heat. Fuse this to armor to greatly improve it.
+1220,King Armor Sphere,material,,9,,700,,,Sphere,Gold,Reacts uniquely to heat. Fuse this to armor to vastly improve it.
+1221,True Armor Sphere,material,,10,,800,,,Sphere,Cyan,Reacts uniquely to heat. Fuse this to armor to extremely improve it.
+1275,Dracolite Shard,material,,8,,100,,,Question,DarkRed,A small amount of the earth's energy lies within. It can awaken hidden powers when combined with special materials.
+1276,Dracolite,material,,9,,200,,,Question,DarkRed,The earth's energy lies within. It can awaken hidden powers when combined with special materials.
+1277,Large Dracolite,material,,10,,300,,,Question,DarkRed,A large amount of the earth's energy lies within. It can awaken hidden powers when combined with special materials.
+1278,Rigid Dracolite,material,,11,,400,,,Question,DarkRed,A great amount of the earth's energy lies within. It can awaken hidden powers when combined with special materials.
+1279,Pure Dracolite,material,,12,,500,,,Question,DarkRed,A vast amount of the earth's energy lies within. It can awaken hidden powers when combined with special materials.
+144,Great Hornfly,material,,5,,200,,,Bug,Gold,"Discovered by Botanical Research. An insect with a giant horn, massive shell, and butterfly-like wings."
+145,Sinister Cloth,material,,5,,350,,,Question,Gray,Suspect cloth the Tailraider Safari dug up from who-knows-where. Drips with an aura of pure evil.
+785,Ancient Fragment,material,,9,,540,,,Question,Gray,A metal scrap the Tailraider Safari found on a master rank outing. Hard enough to be useful for...something?
+1224,Dragonvein Shard,material,,4,,300,,,Ore,Gray,The leavings of special coal that contains the earth's energy within. Even these scraps make fine fuel.
+1225,Dragonvein Coal,material,,5,,600,,,Ore,Beige,Special coal that contains the earth's energy within. Prized as fuel at the Commission's new base.
+1226,Dragonvein Coal Chunk,material,,6,,900,,,Ore,Red,Special coal that contains the earth's energy within. A deposit this size can fuel a base for days.
+1227,Giant Dragonvein Coal,material,,7,,1200,,,Ore,Violet,Special coal that contains the earth's energy within. Quite huge. It's the ideal fuel for easy living!
+146,Monster Bone S,material,,4,,30,,,Bone,Gold,A material found in bonepiles. Indispensable for both hunting and daily life.
+147,Monster Bone M,material,,4,,300,,,Bone,Gold,"Bone obtained from large monsters. Strong yet flexible, it's as reliable as steel or wood."
+148,Monster Bone L,material,,4,,400,,,Bone,Gold,"Bone obtained from large monsters. Hard to work with due to its size, but vital when crafting larger items."
+149,Monster Bone+,material,,4,,500,,,Bone,Beige,"Bone obtained from large monsters. Hard to obtain, but vital for crafting powerful equipment."
+150,Monster Keenbone,material,,6,,800,,,Bone,Pink,Bone obtained from high rank large monsters. It has a razor-sharp tip that retains its strength after forging.
+151,Monster Hardbone,material,,6,,1200,,,Bone,Red,Precious bone obtained from high rank large monsters. Their rarity makes them highly sought after.
+686,Monster Toughbone,material,,9,,2000,,,Bone,DarkRed,Bone obtained from large master rank monsters. It emits a potent aura of near-limitless potential.
+786,Monster Slogbone,material,,10,,2300,,,Bone,Gray,Bone obtained from large master rank monsters. Far heavier than its outward appearance would suggest.
+787,Monster Solidbone,material,,10,,2600,,,Bone,LightBeige,Bone obtained from large master rank monsters. Sturdy enough to withstand even the most ferocious of impacts.
+152,Elder Dragon Bone,material,,7,,1600,,,Bone,Violet,A bone from an elder dragon. It exudes the great majesty of the beast that bore it.
+788,Large Elder Dragon Bone,material,,12,,3200,,,Bone,DarkPurple,"Material from master rank elder dragons. Equal parts austere and wild, it seems untouched by time."
+153,Sharp Claw,material,,4,,200,,,Fang,Gray,"Obtained from small fanged wyverns. Unlike wyvern claws, this is shaped to grip objects."
+154,Piercing Claw,material,,6,,800,,,Fang,Gray,Material from high rank small fanged wyverns. Sharp enough that it might serve as a makeshift knife.
+687,Tough Claw,material,,9,,2000,,,Fang,Gray,Material from master rank small fanged wyverns. So sharp and sturdy that it could be used as a weapon.
+155,Monster Fluid,material,,4,,200,,,Liquid,Cyan,Material obtained from small insects. Mixes with insect gastric fluids to form adhesive.
+156,Monster Broth,material,,6,,800,,,Liquid,Blue,Material from high rank insects. A rich broth made from only the thickest of monster juices.
+688,Monster Essence,material,,9,,2000,,,Liquid,Blue,"Material obtained from master rank small insects. The densest, most viscous fluids available. Very icky."
+157,Poison Sac,material,,4,,600,,,Sac,Violet,A monster organ that contains a lethal toxin. Handle with extreme care.
+158,Toxin Sac,material,,6,,1600,,,Sac,Violet,A monster organ filled with an extremely potent toxin. Just touching it is dangerous.
+698,Deadly Poison Sac,material,,9,,3400,,,Sac,Violet,A monster organ that contains an extremely virulent toxin. Handle with extreme care.
+159,Paralysis Sac,material,,4,,800,,,Sac,Yellow,A monster organ that contains paralyzing neurotoxins.
+160,Omniplegia Sac,material,,6,,1600,,,Sac,Yellow,A monster organ filled with potent neurotoxins. A single touch can cause paralysis.
+699,Ultraplegia Sac,material,,9,,3400,,,Sac,Yellow,A monster organ filled with highly concentrated neurotoxins. Handle with extreme care.
+161,Sleep Sac,material,,4,,800,,,Sac,Blue,A monster organ that contains a knockout powder capable of inducing sleep.
+162,Coma Sac,material,,6,,1600,,,Sac,Blue,A monster organ that contains dangerous powder. One whiff can induce a coma.
+779,Torpor Sac,material,,9,,3400,,,Sac,Blue,A monster organ that contains a sleeping agent capable of instantly knocking out even a raging monster.
+163,Flame Sac,material,,4,,800,,,Sac,Red,A monster organ filled with flammable powder. Handle with extreme care.
+164,Inferno Sac,material,,6,,1600,,,Sac,Red,A monster organ filled with powder that ignites if it so much as touches air. Danger!
+700,Conflagrant Sac,material,,9,,3400,,,Sac,Red,A monster organ that contains highly volatile and extremely explosive powder. Exquisitely dangerous.
+165,Aqua Sac,material,,4,,600,,,Sac,Cyan,A monster organ designed to hold and preserve water.
+166,Torrent Sac,material,,6,,1600,,,Sac,Cyan,A monster organ designed to hold and preserve copious amounts of water.
+701,Flood Sac,material,,9,,3400,,,Sac,Cyan,A monster organ designed to hold and preserve tremendous amounts of water.
+167,Frost Sac,material,,4,,1000,,,Sac,White,"A monster internal organ, filled with extremely low temperature fluid. Handle with care."
+168,Freezer Sac,material,,6,,2400,,,Sac,White,A monster organ with tremendous freezing power. Turns its surroundings to ice.
+702,Cryo Sac,material,,9,,4200,,,Sac,White,A monster organ that contains a potent freezing agent. Able to cover a broad area in ice instantaneously.
+169,Electro Sac,material,,4,,1000,,,Sac,Gold,"A monster organ that can store up electricity, which is released on impact."
+170,Thunder Sac,material,,6,,1600,,,Sac,Gold,A monster organ that can store up large amounts of high voltage electricity.
+703,Lightning Sac,material,,9,,3400,,,Sac,Gold,A monster organ that can store electricity as strong as lightning. It rumbles like thunder.
+171,Bird Wyvern Gem,material,,7,,4000,,,Gem,Blue,A valuable gem that can be harvested from bird wyverns. Said to fetch a high price on the market.
+789,Fey Wyvern Gem,material,,9,,8000,,,Gem,Blue,An exceptionally pure gem taken from a bird wyvern. Its fragility makes it difficult to carve.
+172,Wyvern Gem,material,,7,,4000,,,Gem,Cyan,"Throughout a wyvern's life, impurities gather and form this peculiar gem."
+790,Large Wyvern Gem,material,,9,,8000,,,Gem,Cyan,A wyvern gem that has grown further over the ages. Emits a mesmerizing shimmer.
+173,Elder Dragon Blood,material,,7,,1600,,,Liquid,Red,Contains an unknown compound. The object of much scholarly research.
+791,Pure Dragon Blood,material,,11,,4800,,,Liquid,Red,Elder dragon blood that contains a more potent mix of its mysterious ingredient.
+792,Large Elder Dragon Gem,material,,12,,21000,,,Gem,DarkRed,"A giant, ultra-rare stone that forms inside an Elder Dragon once in a millennium."
+174,Mosswine Hide,material,,4,,200,,,Hide,DarkGreen,A musty hide covered in moss.
+175,Warm Pelt,material,,4,,120,,,Hide,Green,"A pelt from a small animal. Used for many things, but mostly just regular clothes."
+176,High-quality Pelt,material,,6,,320,,,Hide,Beige,Rare pelt from a small animal. Feels wonderful to the touch and valued highly by the Commission.
+704,Prized Pelt,material,,9,,1020,,,Hide,Beige,"Very rare small monster material. Obtained by carving. Warm and durable, used to craft gear."
+705,Anteka Antler,material,,9,,460,,,Fang,White,Very rare Anteka material. Obtained by carving. Used for many purposes.
+177,Vespoid Shell,material,,4,,160,,,Bug,Gold,Vespoid material. Obtained by carving. Used for many purposes.
+179,Vespoid Carapace,material,,6,,460,,,Bug,Gold,Rare Vespoid material. Obtained by carving. Used for many purposes.
+178,Vespoid Wing,material,,4,,210,,,Webbing,Gold,"Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
+180,Vespoid Innerwing,material,,6,,560,,,Webbing,Gold,"Rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
+689,Vespoid Razorwing,material,,9,,1960,,,Webbing,Gold,"Very rare Vespoid material. Obtained by carving. Light and sharp, used in many weapons."
+181,Hornetaur Shell,material,,4,,260,,,Bug,Gray,Hornetaur material. Obtained by carving. Used for many purposes.
+184,Hornetaur Carapace,material,,6,,560,,,Bug,Gray,Rare Hornetaur material. Obtained by carving. Used for many purposes.
+182,Hornetaur Wing,material,,4,,310,,,Webbing,Gray,Hornetaur material. Obtained by carving. Used for many purposes.
+185,Hornetaur Innerwing,material,,6,,660,,,Webbing,Gray,"Rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons."
+690,Hornetaur Razorwing,material,,9,,2120,,,Webbing,Gray,"Very rare Hornetaur material. Obtained by carving. Light and sharp, used in many weapons."
+183,Hornetaur Head,material,,4,,360,,,Bug,Gray,"Hornetaur material. Obtained by carving. Unusual, used in select gear."
+186,Gajau Skin,material,,4,,220,,,Hide,DarkBeige,"Gajau material. Obtained by carving. Water-resistant, used to craft gear."
+188,Gajau Scale,material,,6,,420,,,Hide,DarkBeige,"Rare Gajau material. Obtained by carving. Water-resistant, used to craft gear."
+691,Gajau Thickhide,material,,9,,1680,,,Hide,DarkBeige,"Very rare Gajau material. Obtained by carving. Water-resistant, used to craft gear."
+187,Gajau Whisker,material,,4,,270,,,Body,DarkBeige,"Gajau material. Obtained by carving. Hardy, used to craft gear."
+189,Grand Gajau Whisker,material,,6,,520,,,Body,DarkBeige,"Rare Gajau material. Obtained by carving. Hardy, used to craft gear."
+692,Steel Gajau Whisker,material,,9,,1920,,,Body,DarkBeige,"Very rare Gajau material. Obtained by carving. Hardy, used to craft gear."
+190,Wingdrake Hide,material,,4,,180,,,Wing,DarkBeige,A material carved from wingdrakes. Lightweight and often used when crafting armor.
+191,Wingdrake Hide+,material,,6,,380,,,Wing,DarkBeige,A rare material carved from wingdrakes. Lightweight and often used when crafting armor.
+706,Wingdrake Finehide,material,,9,,1240,,,Wing,DarkBeige,"A very rare material carved from wingdrakes. Lightweight, used to craft gear."
+192,Barnos Hide+,material,,6,,720,,,Hide,DarkBeige,"Rare Barnos material. Obtained by carving. Supple, used to craft gear."
+193,Barnos Talon,material,,6,,820,,,Fang,DarkBeige,"Rare Barnos material. Obtained by carving. Unusual, used in select gear."
+707,Barnos Hardclaw,material,,9,,2280,,,Fang,DarkBeige,"Very rare Barnos material. Obtained by carving. Unusual, used in select gear."
+708,Cortos Hardclaw,material,,9,,1450,,,Fang,Cyan,"Very rare Cortos material. Obtained by carving. Unusual, used in select gear."
+194,Kestodon Shell,material,,4,,180,,,Carapace,Beige,"Kestodon material. Obtained by carving. Sturdy, used to craft gear."
+196,Kestodon Carapace,material,,6,,430,,,Carapace,Beige,"Superior Kestodon material. Obtained by carving. Sturdy, used to craft gear."
+693,Kestodon Husk,material,,9,,1320,,,Carapace,Beige,"Very rare Kestodon material. Obtained by carving. Sturdy, used to craft gear."
+195,Kestodon Scalp,material,,4,,230,,,Jaw,Beige,"Kestodon material. Obtained by carving. Unusual, used in select gear."
+197,Gastodon Carapace,material,,6,,760,,,Carapace,DarkRed,"Rare Gastodon material. Obtained by carving. Sturdy, used to craft gear."
+709,Gastodon Husk,material,,9,,2140,,,Carapace,DarkRed,"Very rare Gastodon material. Obtained by carving. Sturdy, used to craft gear."
+198,Gastodon Horn,material,,6,,860,,,Fang,DarkRed,"Rare Gastodon material. Obtained by carving. Unusual, used in select gear."
+199,Jagras Scale,material,,4,,140,,,Scale,Gold,Jagras material. Obtained by carving. Used for many purposes.
+201,Jagras Scale+,material,,6,,340,,,Scale,Gold,Rare Jagras material. Obtained by carving. Used for many purposes.
+710,Jagras Shard,material,,9,,960,,,Scale,Gold,Very rare Jagras material. Obtained by carving. Used for many purposes.
+200,Jagras Hide,material,,4,,180,,,Hide,Gold,"Jagras material. Obtained by carving. Supple, used to craft gear."
+202,Jagras Hide+,material,,6,,480,,,Hide,Gold,"Rare Jagras material. Obtained by carving. Supple, used to craft gear."
+203,Shamos Scale,material,,4,,220,,,Scale,Red,Shamos material. Obtained by carving. Used for many purposes.
+205,Shamos Scale+,material,,6,,420,,,Scale,Red,Rare Shamos material. Obtained by carving. Used for many purposes.
+694,Shamos Shard,material,,9,,1580,,,Scale,Red,Very rare Shamos material. Obtained by carving. Used for many purposes.
+204,Shamos Hide,material,,4,,280,,,Hide,Red,"Shamos material. Obtained by carving. Supple, used to craft gear."
+206,Shamos Hide+,material,,6,,480,,,Hide,Red,"Rare Shamos material. Obtained by carving. Supple, used to craft gear."
+207,Girros Scale,material,,4,,240,,,Scale,Gray,Girros material. Obtained by carving. Used for many purposes.
+210,Girros Scale+,material,,6,,460,,,Scale,Gray,Rare Girros material. Obtained by carving. Used for many purposes.
+711,Girros Shard,material,,9,,1760,,,Scale,Gray,Very rare Girros material. Obtained by carving. Used for many purposes.
+208,Girros Hide,material,,4,,300,,,Hide,Gray,"Girros material. Obtained by carving. Supple, used to craft gear."
+211,Girros Hide+,material,,6,,520,,,Hide,Gray,"Rare Girros material. Obtained by carving. Supple, used to craft gear."
+209,Girros Fang,material,,4,,260,,,Fang,Yellow,Girros material. Obtained by carving. Grants paralytic properties.
+712,Wulg Thickfur,material,,9,,1240,,,Hide,White,Very rare Wulg material. Obtained by carving. Used for many purposes.
+212,Great Jagras Scale,material,,4,,260,,,Scale,Gold,Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.
+216,Great Jagras Scale+,material,,6,,860,,,Scale,Gold,Rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.
+713,Great Jagras Shard,material,,9,,1320,,,Scale,Gold,Very rare Great Jagras material. Mostly obtained by carving. Broadly used for many purposes.
+213,Great Jagras Hide,material,,4,,360,,,Hide,Gold,Great Jagras material. Mostly obtained as a reward. Broadly used for many purposes.
+217,Great Jagras Hide+,material,,6,,1220,,,Hide,Gold,"Rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear."
+714,Great Jagras Thickhide,material,,9,,1840,,,Hide,Gold,"Very rare Great Jagras material. Mostly obtained as a reward. Supple, used to craft gear."
+215,Great Jagras Claw,material,,4,,420,,,Fang,Gold,"Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+218,Great Jagras Claw+,material,,6,,1620,,,Fang,Gold,"Rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+715,Great Jagras Hardclaw,material,,9,,2440,,,Fang,Gold,"Very rare Great Jagras material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+214,Great Jagras Mane,material,,4,,440,,,Body,Gold,Great Jagras material. Obtained by breaking its head. Used for many purposes.
+716,Great Jagras Mane+,material,,9,,2480,,,Body,Gold,Very rare Great Jagras material. Obtained by breaking its head. Used for many purposes.
+219,Kulu-Ya-Ku Scale,material,,4,,290,,,Scale,Beige,Kulu-Ya-Ku material. Mostly obtained as a reward. Broadly used for many purposes.
+223,Kulu-Ya-Ku Scale+,material,,6,,890,,,Scale,Beige,Rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.
+717,Kulu-Ya-Ku Shard,material,,9,,1350,,,Scale,Beige,Very rare Kulu-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.
+220,Kulu-Ya-Ku Hide,material,,4,,390,,,Hide,Beige,"Kulu-Ya-Ku material. Mostly obtained by carving. Supple, often used in gear."
+224,Kulu-Ya-Ku Hide+,material,,6,,1290,,,Hide,Beige,"Rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, often used in gear."
+718,Kulu-Ya-Ku Thickhide,material,,9,,1950,,,Hide,Beige,"Very rare Kulu-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
+221,Kulu-Ya-Ku Plume,material,,4,,460,,,Body,Orange,Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.
+225,Kulu-Ya-Ku Plume+,material,,6,,1660,,,Body,Orange,Rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.
+719,Large Kulu-Ya-Ku Plume,material,,9,,2500,,,Body,Orange,Very rare Kulu-Ya-Ku material. Obtained by breaking its forelimbs. Used for many purposes.
+222,Kulu-Ya-Ku Beak,material,,4,,490,,,Jaw,Beige,"Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons."
+226,Kulu-Ya-Ku Beak+,material,,6,,1660,,,Jaw,Beige,"Rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons."
+720,Large Kulu-Ya-Ku Beak,material,,9,,2550,,,Jaw,Beige,"Very rare Kulu-Ya-Ku material. Obtained by breaking its head. Hard, used in many weapons."
+227,Pukei-Pukei Scale,material,,4,,360,,,Scale,Lime,Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.
+232,Pukei-Pukei Scale+,material,,6,,950,,,Scale,Lime,Rare Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.
+721,Pukei-Pukei Shard,material,,9,,1580,,,Scale,Lime,Very rare Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.
+228,Pukei-Pukei Shell,material,,4,,470,,,Carapace,Lime,"Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
+233,Pukei-Pukei Carapace,material,,6,,1350,,,Carapace,Lime,"Rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
+722,Pukei-Pukei Cortex,material,,9,,2220,,,Carapace,Lime,"Very rare Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
+229,Pukei-Pukei Quill,material,,4,,640,,,Wing,Lime,Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.
+234,Pukei-Pukei Wing,material,,6,,1700,,,Wing,Lime,Rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.
+723,Pukei-Pukei Fellwing,material,,9,,2920,,,Wing,Lime,Very rare Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.
+230,Pukei-Pukei Sac,material,,4,,660,,,Sac,Lime,Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.
+235,Pukei-Pukei Sac+,material,,6,,1750,,,Sac,Lime,Rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.
+724,Large Pukei-Pukei Sac,material,,9,,2980,,,Sac,Lime,Very rare Pukei-Pukei material. Obtained by breaking its head. Grants poisonous properties.
+231,Pukei-Pukei Tail,material,,4,,620,,,Tail,Lime,"Rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear."
+725,Pukei-Pukei Lash,material,,9,,2860,,,Tail,Lime,"Very rare Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear."
+726,Coral Pukei-Pukei Shard,material,,9,,2340,,,Scale,Orange,Very rare Coral Pukei-Pukei material. Mostly obtained by carving. Broadly used for many purposes.
+727,Coral Pukei-Pukei Cortex,material,,9,,3360,,,Carapace,Orange,"Very rare Coral Pukei-Pukei material. Mostly obtained as a reward. Solid, used to craft gear."
+728,Coral Pukei-Pukei Fellwing,material,,9,,4460,,,Wing,Orange,Very rare Coral Pukei-Pukei material. Obtained by breaking its wings. Used for many purposes.
+729,Large Coral Pukei-Pukei Sac,material,,9,,4540,,,Sac,Orange,Very rare Coral Pukei-Pukei material. Obtained by breaking its head. Grants water element properties.
+730,Coral Pukei-Pukei Lash,material,,9,,4380,,,Tail,Orange,"Very rare Coral Pukei-Pukei material. Obtained by carving its severed tail. Unusual, used to craft gear."
+236,Barroth Shell,material,,4,,330,,,Carapace,Beige,Barroth material. Mostly obtained by carving. Broadly used for many purposes.
+242,Barroth Carapace,material,,6,,870,,,Carapace,Beige,Rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.
+731,Barroth Cortex,material,,9,,1470,,,Carapace,Beige,Very rare Barroth material. Mostly obtained by carving. Broadly used for many purposes.
+237,Barroth Ridge,material,,4,,480,,,Body,Beige,"Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
+243,Barroth Ridge+,material,,6,,1270,,,Body,Beige,"Rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
+732,Barroth Chine,material,,9,,2170,,,Body,Beige,"Very rare Barroth material. Mostly obtained as a reward. Solid, used to craft gear."
+238,Barroth Claw,material,,4,,630,,,Fang,Beige,"Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons."
+244,Barroth Claw+,material,,6,,1670,,,Fang,Beige,"Rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons."
+733,Barroth Hardclaw,material,,9,,2870,,,Fang,Beige,"Very rare Barroth material. Obtained by breaking its forelimbs. Hardy, used in many weapons."
+239,Barroth Scalp,material,,4,,870,,,Jaw,Beige,"Barroth material. Obtained by breaking its scalp. Tough, used in many weapons."
+734,Barroth Crown,material,,9,,3430,,,Jaw,Beige,"Very rare Barroth material. Obtained by breaking its scalp. Tough, used in many weapons."
+240,Barroth Tail,material,,4,,800,,,Tail,Beige,"Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear."
+735,Barroth Lash,material,,9,,3280,,,Tail,Beige,"Very rare Barroth material. Obtained by carving its severed tail. Stiff, used to craft gear."
+241,Fertile Mud,material,,4,,390,,,Dung,Beige,"Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear."
+736,Rich Mud,material,,9,,1610,,,Dung,Beige,"Very rare Barroth material. Obtained by breaking its mud covering. Unusual, used in select gear."
+245,Jyuratodus Scale,material,,4,,340,,,Scale,LightBeige,Jyuratodus material. Mostly obtained by carving. Used for many purposes.
+249,Jyuratodus Scale+,material,,6,,1040,,,Scale,LightBeige,Rare Jyuratodus material. Mostly obtained by carving. Used for many purposes.
+737,Jyuratodus Shard,material,,9,,1480,,,Scale,LightBeige,Very rare Jyuratodus material. Mostly obtained by carving. Used for many purposes.
+246,Jyuratodus Shell,material,,4,,490,,,Carapace,LightBeige,"Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear."
+250,Jyuratodus Carapace,material,,6,,1540,,,Carapace,LightBeige,"Rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear."
+738,Jyuratodus Cortex,material,,9,,2180,,,Carapace,LightBeige,"Very rare Jyuratodus material. Mostly obtained as a reward. Hardy, used to craft gear."
+247,Jyuratodus Fang,material,,4,,640,,,Fang,LightBeige,"Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons."
+251,Jyuratodus Fang+,material,,6,,2040,,,Fang,LightBeige,"Rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons."
+739,Jyuratodus Hardfang,material,,9,,2880,,,Fang,LightBeige,"Very rare Jyuratodus material. Obtained by breaking its head. Sharp, used in many weapons."
+248,Jyuratodus Fin,material,,4,,720,,,Body,LightBeige,Jyuratodus material. Obtained by breaking its back. Used for many purposes.
+252,Jyuratodus Fin+,material,,6,,2120,,,Body,LightBeige,Rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.
+740,Jyuratodus Grandfin,material,,9,,3040,,,Body,LightBeige,Very rare Jyuratodus material. Obtained by breaking its back. Used for many purposes.
+741,Beotodus Shard,material,,9,,1530,,,Scale,Blue,Very rare Beotodus material. Mostly obtained by carving. Used for many purposes.
+742,Beotodus Cortex,material,,9,,2230,,,Carapace,Blue,"Very rare Beotodus material. Mostly obtained as a reward. Hardy, used to craft gear."
+743,Beotodus Hardhorn,material,,9,,2930,,,Fang,Blue,"Very rare Beotodus material. Obtained by breaking its head. Sharp, used in many weapons."
+744,Beotodus Grandfin,material,,9,,3190,,,Body,Blue,Very rare Beotodus material. Obtained by breaking its back. Used for many purposes.
+253,Tobi-Kadachi Scale,material,,4,,360,,,Scale,Cyan,Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.
+258,Tobi-Kadachi Scale+,material,,6,,1050,,,Scale,Cyan,Rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.
+745,Tobi-Kadachi Shard,material,,9,,1490,,,Scale,Cyan,Very rare Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.
+254,Tobi-Kadachi Pelt,material,,4,,510,,,Hide,Cyan,"Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
+259,Tobi-Kadachi Pelt+,material,,6,,1550,,,Hide,Cyan,"Rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
+746,Tobi-Kadachi Thickfur,material,,9,,2190,,,Hide,Cyan,"Very rare Tobi-Kadachi material. Mostly obtained as a reward. Highly thunder-resistant, used to craft gear."
+255,Tobi-Kadachi Membrane,material,,4,,800,,,Wing,Cyan,"Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
+747,Tobi-Kadachi Membrane+,material,,9,,3200,,,Wing,Cyan,"Very rare Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
+256,Tobi-Kadachi Claw,material,,4,,660,,,Fang,Cyan,"Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
+260,Tobi-Kadachi Claw+,material,,6,,1650,,,Fang,Cyan,"Rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
+748,Tobi-Kadachi Hardclaw,material,,9,,2890,,,Fang,Cyan,"Very rare Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
+257,Tobi-Kadachi Electrode,material,,4,,720,,,Body,Cyan,Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.
+261,Tobi-Kadachi Electrode+,material,,6,,1750,,,Body,Cyan,Rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.
+749,Tobi-Kadachi Cathode,material,,9,,3070,,,Body,Cyan,Very rare Tobi-Kadachi material. Obtained by breaking its head. Grants thunder element properties.
+750,Viper Tobi-Kadachi Shard,material,,9,,2190,,,Scale,Orange,Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Broadly used for many purposes.
+751,Viper Tobi-Kadachi Thickfur,material,,9,,3290,,,Hide,Orange,"Very rare Viper Tobi-Kadachi material. Mostly obtained as a reward. Highly water-resistant, used to craft gear."
+752,Viper Tobi-Kadachi Membrane+,material,,9,,4700,,,Wing,Orange,"Very rare Viper Tobi-Kadachi material. Mostly obtained by carving. Supple, used to craft gear."
+753,Viper Tobi-Kadachi Hardclaw,material,,9,,4390,,,Fang,Orange,"Very rare Viper Tobi-Kadachi material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
+754,Viper Tobi-Kadachi Thorn,material,,9,,4570,,,Body,Orange,Very rare Viper Tobi-Kadachi material. Obtained by breaking its head. Grants poisonous properties.
+755,Banbaro Cortex,material,,9,,1540,,,Carapace,LightBeige,Very rare Banbaro material. Mostly obtained by carving. Broadly used for many purposes.
+756,Banbaro Chine,material,,9,,2240,,,Body,LightBeige,"Very rare Banbaro material. Mostly obtained as a reward. Solid, used to craft gear."
+757,Banbaro Great Horn,material,,9,,2940,,,Fang,LightBeige,"Very rare Banbaro material. Obtained by breaking its horns. Stout, used in many weapons."
+758,Banbaro Lash,material,,9,,3220,,,Tail,LightBeige,"Very rare Banbaro material. Obtained by carving its severed tail. Stiff, used to craft gear."
+262,Anjanath Scale,material,,4,,430,,,Scale,Pink,Anjanath material. Mostly obtained by carving. Broadly used for many purposes.
+268,Anjanath Scale+,material,,6,,1060,,,Scale,Pink,Rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.
+759,Anjanath Shard,material,,9,,2160,,,Scale,Pink,Very rare Anjanath material. Mostly obtained by carving. Broadly used for many purposes.
+263,Anjanath Pelt,material,,4,,630,,,Hide,Pink,"Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear."
+269,Anjanath Pelt+,material,,6,,1560,,,Hide,Pink,"Rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear."
+760,Anjanath Fur,material,,9,,3260,,,Hide,Pink,"Very rare Anjanath material. Mostly obtained as a reward. Highly heat-resistant, used to craft gear."
+264,Anjanath Fang,material,,4,,830,,,Fang,Pink,"Anjanath material. Obtained by breaking its head. Sharp, used in many weapons."
+270,Anjanath Fang+,material,,6,,2060,,,Fang,Pink,"Rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons."
+761,Anjanath Hardfang,material,,9,,4360,,,Fang,Pink,"Very rare Anjanath material. Obtained by breaking its head. Sharp, used in many weapons."
+265,Anjanath Nosebone,material,,4,,890,,,Bone,Pink,Anjanath material. Obtained by breaking its head. Unusual and difficult to handle.
+271,Anjanath Nosebone+,material,,6,,2120,,,Bone,Pink,"Rare Anjanath material. Obtained by breaking its head. Unusual, used in select gear."
+762,Heavy Anjanath Nosebone,material,,9,,4480,,,Bone,Pink,Very rare Anjanath material. Obtained by breaking its head. Used in select gear.
+266,Anjanath Tail,material,,4,,860,,,Tail,Pink,"Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear."
+763,Anjanath Lash,material,,9,,4420,,,Tail,Pink,"Very rare Anjanath material. Obtained by carving its severed tail. Stiff, used to craft gear."
+267,Anjanath Plate,material,,5,,2400,,,Plate,Pink,"Anjanath material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+272,Anjanath Gem,material,,7,,6000,,,Gem,Pink,A rare gem said to have formed within Anjanath tissue. Used to dramatically improve gear.
+793,Anjanath Mantle,material,,11,,12000,,,Mantle,Pink,Very rare Anjanath material. Used to craft weapons powerful enough to take over the world.
+794,Fulgur Anjanath Shard,material,,10,,2900,,,Scale,White,Very rare Fulgur Anjanath material. Mostly obtained by carving. Broadly used for many purposes.
+795,Fulgur Anjanath Thickfur,material,,10,,4400,,,Hide,White,Very rare Fulgur Anjanath material. Mostly obtained as a reward. Used to craft gear.
+796,Fulgur Anjanath Hardfang,material,,10,,5900,,,Fang,White,Very rare Fulgur Anjanath material. Obtained by breaking its head. Used in many weapons.
+797,Heavy Fulgur Anjanath Nosebone,material,,10,,6100,,,Bone,White,Very rare Fulgur Anjanath material. Obtained by breaking its head. Has a unique composition.
+798,Fulgur Anjanath Lash,material,,10,,6000,,,Tail,White,Very rare Fulgur Anjanath material. Obtained by carving its severed tail. Used to craft gear.
+799,Fulgur Anjanath Mantle,material,,11,,15000,,,Mantle,White,Very rare Fulgur Anjanath material. Used to craft weapons powerful enough to take over the world.
+273,Rathian Scale,material,,4,,460,,,Scale,Green,Rathian material. Mostly obtained by carving. Broadly used for many purposes.
+278,Rathian Scale+,material,,6,,1060,,,Scale,Green,Rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.
+800,Rathian Shard,material,,9,,2170,,,Scale,Green,Very rare Rathian material. Mostly obtained by carving. Broadly used for many purposes.
+274,Rathian Shell,material,,4,,660,,,Carapace,Green,"Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
+279,Rathian Carapace,material,,6,,1560,,,Carapace,Green,"Rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
+801,Rathian Cortex,material,,9,,3270,,,Carapace,Green,"Very rare Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
+275,Rathian Webbing,material,,4,,860,,,Wing,Green,"Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
+802,Rathian Weave,material,,9,,4370,,,Wing,Green,"Very rare Rathian material. Obtained by breaking its wings. Supple, used to craft gear."
+276,Rathian Spike,material,,4,,980,,,Body,Green,Rathian material. Obtained by carving its severed tail. Grants poisonous properties.
+280,Rathian Spike+,material,,6,,2240,,,Body,Green,Rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.
+803,Rathian Surspike,material,,9,,4510,,,Body,Green,Very rare Rathian material. Obtained by carving its severed tail. Grants poisonous properties.
+277,Rathian Plate,material,,5,,2400,,,Plate,Green,"Rathian material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+281,Rathian Ruby,material,,7,,6000,,,Gem,Green,A rare gem said to have formed within Rathian tissue. Used to dramatically improve gear.
+804,Rathian Mantle,material,,11,,12000,,,Mantle,Green,Very rare Rathian material. Used to craft weapons powerful enough to take over the world.
+282,Pink Rathian Scale+,material,,6,,1260,,,Scale,Pink,Rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.
+805,Pink Rathian Shard,material,,9,,2430,,,Scale,Pink,Very rare Pink Rathian material. Mostly obtained by carving. Broadly used for many purposes.
+283,Pink Rathian Carapace,material,,6,,1860,,,Carapace,Pink,"Rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
+806,Pink Rathian Cortex,material,,9,,3530,,,Carapace,Pink,"Very rare Pink Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
+807,Gold Rathian Shard,material,,11,,4350,,,Scale,Gold,Very rare Gold Rathian material. Mostly obtained by carving. Broadly used for many purposes.
+808,Gold Rathian Cortex,material,,11,,6650,,,Carapace,Gold,"Very rare Gold Rathian material. Mostly obtained as a reward. Solid, used to craft gear."
+809,Gold Rathian Surspike,material,,11,,9150,,,Body,Gold,Very rare Gold Rathian material. Obtained by carving its severed tail. Compatible with poison.
+284,Tzitzi-Ya-Ku Scale,material,,4,,440,,,Scale,Blue,Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.
+288,Tzitzi-Ya-Ku Scale+,material,,6,,840,,,Scale,Blue,Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.
+764,Tzitzi-Ya-Ku Shard,material,,9,,1300,,,Scale,Blue,Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Broadly used for many purposes.
+285,Tzitzi-Ya-Ku Hide,material,,4,,640,,,Hide,Blue,"Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
+289,Tzitzi-Ya-Ku Hide+,material,,6,,1240,,,Hide,Blue,"Rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
+765,Tzitzi-Ya-Ku Thickhide,material,,9,,1900,,,Hide,Blue,"Very rare Tzitzi-Ya-Ku material. Mostly obtained as a reward. Supple, used to craft gear."
+286,Tzitzi-Ya-Ku Claw,material,,4,,840,,,Fang,Blue,"Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons."
+290,Tzitzi-Ya-Ku Claw+,material,,6,,1640,,,Fang,Blue,"Rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons."
+766,Tzitzi-Ya-Ku Hardclaw,material,,9,,2500,,,Fang,Blue,"Very rare Tzitzi-Ya-Ku material. Mostly obtained by carving. Sharp, used in many weapons."
+287,Tzitzi-Ya-Ku Photophore,material,,4,,920,,,Body,Blue,"Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes."
+291,Tzitzi-Ya-Ku Photophore+,material,,6,,1680,,,Body,Blue,"Rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Unusual, used for many purposes."
+767,Tzitzi-Ya-Ku Photomembrane,material,,9,,2600,,,Body,Blue,Very rare Tzitzi-Ya-Ku material obtained by breaking its pulse organs. Used for many purposes.
+292,Paolumu Pelt,material,,4,,650,,,Hide,White,Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.
+296,Paolumu Pelt+,material,,6,,1570,,,Hide,White,Rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.
+810,Paolumu Thickfur,material,,9,,3240,,,Hide,White,Very rare Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.
+293,Paolumu Scale,material,,4,,450,,,Scale,White,"Paolumu material. Mostly obtained by carving. Solid, used to craft gear."
+297,Paolumu Scale+,material,,6,,1070,,,Scale,White,"Rare Paolumu material. Mostly obtained by carving. Solid, used to craft gear."
+811,Paolumu Shard,material,,9,,2140,,,Scale,White,"Very rare Paolumu material. Mostly obtained by carving. Solid, used to craft gear."
+294,Paolumu Shell,material,,4,,950,,,Carapace,Pink,Paolumu material. Obtained by breaking its tail. Used for many purposes.
+298,Paolumu Carapace+,material,,6,,2140,,,Carapace,Pink,Rare Paolumu material. Obtained by breaking its tail. Used for many purposes.
+812,Paolumu Cortex,material,,9,,4380,,,Carapace,Pink,Very rare material from Paolumu and its subspecies. Obtained by breaking its tail.
+295,Paolumu Webbing,material,,4,,850,,,Wing,White,"Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
+299,Paolumu Wing,material,,6,,2070,,,Wing,White,"Rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
+813,Paolumu Fellwing,material,,9,,4340,,,Wing,White,"Very rare Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
+814,Nightshade Paolumu Thickfur,material,,9,,3300,,,Hide,Violet,Very rare Nightshade Paolumu material. Mostly obtained as a reward. Broadly used for many purposes.
+815,Nightshade Paolumu Shard,material,,9,,2200,,,Scale,Violet,"Very rare Nightshade Paolumu material. Mostly obtained by carving. Solid, used to craft gear."
+816,Nightshade Paolumu Fellwing,material,,9,,4400,,,Wing,Violet,"Very rare Nightshade Paolumu material. Obtained by breaking its wings. Lightweight, used to craft gear."
+300,Great Girros Scale,material,,4,,450,,,Scale,Gray,Great Girros material. Mostly obtained by carving. Broadly used for many purposes.
+305,Great Girros Scale+,material,,6,,1060,,,Scale,Gray,Rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.
+768,Great Girros Shard,material,,9,,1310,,,Scale,Gray,Very rare Great Girros material. Mostly obtained by carving. Broadly used for many purposes.
+301,Great Girros Hide,material,,4,,650,,,Hide,Gray,"Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
+306,Great Girros Hide+,material,,6,,1560,,,Hide,Gray,"Rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
+769,Great Girros Thickhide,material,,9,,1910,,,Hide,Gray,"Very rare Great Girros material. Mostly obtained as a reward. Supple, used to craft gear."
+302,Great Girros Hood,material,,4,,950,,,Body,Gray,Great Girros material. Obtained by breaking its head. Unusual and difficult to handle.
+307,Great Girros Hood+,material,,6,,2180,,,Body,Gray,"Rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear."
+770,Great Girros Hardhood,material,,9,,2730,,,Body,Gray,"Very rare Great Girros material. Obtained by breaking its head. Unusual, used in select gear."
+303,Great Girros Fang,material,,4,,750,,,Fang,Gray,Great Girros material. Obtained by breaking its head. Grants paralytic properties.
+308,Great Girros Fang+,material,,6,,2060,,,Fang,Gray,Rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.
+771,Great Girros Hardfang,material,,9,,2130,,,Fang,Gray,Very rare Great Girros material. Obtained by breaking its head. Grants paralytic properties.
+304,Great Girros Tail,material,,4,,850,,,Tail,Gray,"Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear."
+772,Great Girros Lash,material,,9,,2510,,,Tail,Gray,"Very rare Great Girros material. Obtained by carving its severed tail. Stiff, used to craft gear."
+309,Radobaan Scale,material,,4,,480,,,Scale,White,Radobaan material. Mostly obtained by carving. Broadly used for many purposes.
+314,Radobaan Scale+,material,,6,,1080,,,Scale,White,Rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.
+780,Radobaan Shard,material,,9,,2150,,,Scale,White,Very rare Radobaan material. Mostly obtained by carving. Broadly used for many purposes.
+310,Radobaan Shell,material,,4,,680,,,Carapace,White,"Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
+315,Radobaan Carapace,material,,6,,1580,,,Carapace,White,"Rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
+817,Radobaan Cortex,material,,9,,3250,,,Carapace,White,"Very rare Radobaan material. Mostly obtained as a reward. Solid, used to craft gear."
+311,Radobaan Oilshell,material,,4,,960,,,Body,White,"Radobaan material. Obtained by carving its severed tail. Impact-resistant, used to craft gear."
+818,Radobaan Oilshell+,material,,9,,4400,,,Body,White,"Very rare Radobaan material. Obtained by carving its severed tail. Impact-resistant, used to craft gear."
+312,Wyvern Bonemass,material,,4,,880,,,Bone,White,"Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes."
+819,Large Wyvern Bonemass,material,,9,,4350,,,Bone,White,"Very rare Radobaan material. Obtained by collecting rare drops. Highly dense, used for many purposes."
+313,Radobaan Marrow,material,,4,,1120,,,Body,White,"Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+316,Radobaan Medulla,material,,6,,2240,,,Body,White,"Rare Radobaan material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+317,Legiana Scale,material,,4,,540,,,Scale,Blue,Legiana material. Mostly obtained by carving. Broadly used for many purposes.
+323,Legiana Scale+,material,,6,,1230,,,Scale,Blue,Rare Legiana material. Mostly obtained by carving. Broadly used for many purposes.
+820,Legiana Shard,material,,10,,2840,,,Scale,Blue,Very rare Legiana material. Mostly obtained by carving. Broadly used for many purposes.
+318,Legiana Hide,material,,4,,790,,,Hide,Blue,"Legiana material. Mostly obtained as a reward. Solid, used to craft gear."
+324,Legiana Hide+,material,,6,,1830,,,Hide,Blue,"Rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear."
+821,Legiana Thickhide,material,,10,,4340,,,Hide,Blue,"Very rare Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear."
+319,Legiana Claw,material,,4,,1040,,,Fang,Blue,Legiana material. Mostly obtained by carving. Grants ice element properties.
+325,Legiana Claw+,material,,6,,2430,,,Fang,Blue,Rare Legiana material. Mostly obtained by carving. Grants ice element properties.
+822,Legiana Hardclaw,material,,10,,5840,,,Fang,Blue,Very rare Legiana material. Mostly obtained by carving. Grants ice element properties.
+320,Legiana Webbing,material,,4,,1080,,,Wing,Blue,"Legiana material. Obtained by breaking its wings. Supple, used to craft gear."
+326,Legiana Wing,material,,6,,2460,,,Wing,Blue,"Rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear."
+823,Legiana Fellwing,material,,10,,5880,,,Wing,Blue,"Very rare Legiana material. Obtained by breaking its wings. Supple, used to craft gear."
+321,Legiana Tail Webbing,material,,4,,1160,,,Tail,Blue,"Legiana material. Obtained by breaking its tail. Supple, used to craft gear."
+824,Legiana Tail Webbing+,material,,10,,5920,,,Tail,Blue,"Very rare Legiana material. Obtained by breaking its tail. Supple, used to craft gear."
+322,Legiana Plate,material,,5,,3000,,,Plate,Blue,"Legiana material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+327,Legiana Gem,material,,7,,7200,,,Gem,Blue,A rare gem said to have formed within Legiana tissue. Used to dramatically improve gear.
+825,Legiana Mantle,material,,11,,15000,,,Mantle,Blue,Very rare Legiana material. Used to craft weapons powerful enough to take over the world.
+826,Rimed Hide,material,,10,,5460,,,Hide,White,"Very rare Shrieking Legiana material. Mostly obtained as a reward. Lightweight, used to craft gear."
+827,Obsidian Icetalon,material,,10,,7360,,,Fang,Gray,Very rare Shrieking Legiana material. Mostly obtained by carving. Grants ice element properties.
+828,Stark Wing,material,,10,,7420,,,Wing,Gray,"Very rare Shrieking Legiana material. Obtained by breaking its wings. Supple, used to craft gear."
+328,Odogaron Scale,material,,4,,560,,,Scale,DarkRed,Odogaron material. Mostly obtained by carving. Broadly used for many purposes.
+334,Odogaron Scale+,material,,6,,1240,,,Scale,DarkRed,Rare Odogaron material. Mostly obtained by carving. Broadly used for many purposes.
+781,Odogaron Shard,material,,10,,2850,,,Scale,DarkRed,Very rare Odogaron material. Mostly obtained by carving. Broadly used for many purposes.
+329,Odogaron Sinew,material,,4,,810,,,Body,DarkRed,"Odogaron material. Mostly obtained as a reward. Solid, used to craft gear."
+335,Odogaron Sinew+,material,,6,,1840,,,Body,DarkRed,"Rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear."
+829,Hard Odogaron Sinew,material,,10,,4350,,,Body,DarkRed,"Very rare Odogaron material. Mostly obtained as a reward. Solid, used to craft gear."
+330,Odogaron Claw,material,,4,,1060,,,Fang,DarkRed,"Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+336,Odogaron Claw+,material,,6,,2440,,,Fang,DarkRed,"Rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+830,Odogaron Hardclaw,material,,10,,5850,,,Fang,DarkRed,"Very rare Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+331,Odogaron Fang,material,,4,,1120,,,Fang,DarkRed,"Odogaron material. Obtained by breaking its head. Sharp, used in many weapons."
+337,Odogaron Fang+,material,,6,,2480,,,Fang,DarkRed,"Rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons."
+831,Odogaron Hardfang,material,,10,,5900,,,Fang,DarkRed,"Very rare Odogaron material. Obtained by breaking its head. Sharp, used in many weapons."
+332,Odogaron Tail,material,,4,,1240,,,Tail,DarkRed,"Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear."
+832,Odogaron Lash,material,,10,,6000,,,Tail,DarkRed,"Very rare Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear."
+333,Odogaron Plate,material,,5,,3000,,,Plate,DarkRed,"Odogaron material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+338,Odogaron Gem,material,,7,,7200,,,Gem,DarkRed,A rare gem said to have formed within Odogaron tissue. Used to dramatically improve gear.
+833,Odogaron Mantle,material,,11,,15000,,,Mantle,DarkRed,Very rare Odogaron material. Used to craft weapons powerful enough to take over the world.
+834,Ebony Odogaron Shard,material,,10,,3580,,,Scale,Gray,Very rare Ebony Odogaron material. Mostly obtained by carving. Broadly used for many purposes.
+835,Hard Ebony Odogaron Sinew,material,,10,,5480,,,Body,Gray,"Very rare Ebony Odogaron material. Mostly obtained as a reward. Solid, used to craft gear."
+836,Ebony Odogaron Hardclaw,material,,10,,7380,,,Fang,Gray,"Very rare Ebony Odogaron material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+837,Ebony Odogaron Hardfang,material,,10,,7460,,,Fang,Gray,"Very rare Ebony Odogaron material. Obtained by breaking its head. Sharp, used in many weapons."
+838,Ebony Odogaron Lash,material,,10,,7620,,,Tail,Gray,"Very rare Ebony Odogaron material. Obtained by carving its severed tail. Stiff, used to craft gear."
+839,Ebony Odogaron Mantle,material,,11,,18000,,,Mantle,Gray,Very rare Ebony Odogaron material. Used to craft weapons powerful enough to take over the world.
+339,Rathalos Scale,material,,4,,590,,,Scale,Red,Rathalos material. Mostly obtained by carving. Broadly used for many purposes.
+346,Rathalos Scale+,material,,6,,1250,,,Scale,Red,Rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.
+782,Rathalos Shard,material,,10,,2870,,,Scale,Red,Very rare Rathalos material. Mostly obtained by carving. Broadly used for many purposes.
+340,Rathalos Shell,material,,4,,840,,,Carapace,Red,"Rathalos material. Mostly obtained as a reward. Solid, used to craft gear."
+347,Rathalos Carapace,material,,6,,1850,,,Carapace,Red,"Rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear."
+840,Rathalos Cortex,material,,10,,4370,,,Carapace,Red,"Very rare Rathalos material. Mostly obtained as a reward. Solid, used to craft gear."
+341,Rathalos Webbing,material,,4,,1180,,,Wing,Red,"Rathalos material. Obtained by breaking its wings. Supple, used to craft gear."
+348,Rathalos Wing,material,,6,,2500,,,Wing,Red,"Rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear."
+841,Rathalos Fellwing,material,,10,,5940,,,Wing,Red,"Very rare Rathalos material. Obtained by breaking its wings. Supple, used to craft gear."
+342,Rathalos Tail,material,,4,,1270,,,Tail,Red,Rathalos material. Obtained by carving its severed tail. Compatible with fire element.
+842,Rathalos Lash,material,,10,,6010,,,Tail,Red,Very rare Rathalos material. Obtained by carving its severed tail. Compatible with fire element.
+343,Rath Wingtalon,material,,4,,1090,,,Fang,Red,"Material from Rathian and Rathalos. Obtained by breaking its wings. Sharp, used in many weapons."
+843,Rath Wingtalon+,material,,10,,5870,,,Fang,Red,Very rare material from Rathian and Rathalos. Obtained by breaking its wings.
+344,Rathalos Marrow,material,,4,,1360,,,Body,Red,Rathalos material. Mostly obtained by carving. Grants fire element properties.
+349,Rathalos Medulla,material,,6,,2600,,,Body,Red,Rare Rathalos material. Obtained by carving. Grants fire element properties.
+345,Rathalos Plate,material,,5,,3000,,,Plate,Red,"Rathalos material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+350,Rathalos Ruby,material,,7,,7200,,,Gem,Red,A rare gem said to have formed within Rathalos tissue. Almost too nice to use.
+844,Rathalos Mantle,material,,11,,15000,,,Mantle,Red,Very rare Rathalos material. Used to craft weapons powerful enough to take over the world.
+351,Azure Rathalos Scale+,material,,6,,1450,,,Scale,Blue,Rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.
+845,Azure Rathalos Shard,material,,10,,3550,,,Scale,Blue,Very rare Azure Rathalos material. Mostly obtained by carving. Broadly used for many purposes.
+352,Azure Rathalos Carapace,material,,6,,2150,,,Carapace,Blue,"Rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear."
+846,Azure Rathalos Cortex,material,,10,,5450,,,Carapace,Blue,"Very rare Azure Rathalos material. Mostly obtained as a reward. Solid, used to craft gear."
+353,Azure Rathalos Tail,material,,6,,3000,,,Tail,Blue,Rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.
+847,Azure Rathalos Lash,material,,10,,7500,,,Tail,Blue,Very rare Azure Rathalos material. Obtained by carving its severed tail. Compatible with fire element.
+354,Azure Rathalos Wing,material,,6,,2850,,,Wing,Blue,"Rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear."
+848,Azure Rathalos Fellwing,material,,10,,7350,,,Wing,Blue,"Very rare Azure Rathalos material. Obtained by breaking its wings. Supple, used to craft gear."
+849,Silver Rathalos Shard,material,,11,,4370,,,Scale,Gray,Very rare Silver Rathalos material. Mostly obtained by carving. Broadly used for many purposes.
+850,Silver Rathalos Cortex,material,,11,,6670,,,Carapace,Gray,"Very rare Silver Rathalos material. Mostly obtained as a reward. Solid, used to craft gear."
+851,Silver Rathalos Fellwing,material,,11,,9140,,,Wing,Gray,"Very rare Silver Rathalos material. Obtained by breaking its wings. Supple, used to craft gear."
+852,Silver Rathalos Lash,material,,11,,9480,,,Tail,Gray,Very rare Silver Rathalos material. Obtained by carving its severed tail. Compatible with fire element.
+853,Rath Gleam,material,,11,,8970,,,Liquid,Gold,Very rare material from Rathian or Rathalos. Obtained by breaking the head.
+355,Diablos Shell,material,,4,,620,,,Carapace,DarkBeige,Diablos material. Mostly obtained by carving. Broadly used for many purposes.
+361,Diablos Carapace,material,,6,,1260,,,Carapace,DarkBeige,Rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.
+783,Diablos Cortex,material,,10,,2880,,,Carapace,DarkBeige,Very rare Diablos material. Mostly obtained by carving. Broadly used for many purposes.
+356,Diablos Ridge,material,,4,,870,,,Body,DarkBeige,"Diablos material. Mostly obtained as a reward. Solid, used to craft gear."
+362,Diablos Ridge+,material,,6,,1860,,,Body,DarkBeige,"Rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear."
+854,Diablos Chine,material,,10,,4380,,,Body,DarkBeige,"Very rare Diablos material. Mostly obtained as a reward. Solid, used to craft gear."
+357,Diablos Tailcase,material,,4,,1240,,,Body,DarkBeige,"Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle."
+855,Diablos Tailcase+,material,,10,,5960,,,Body,DarkBeige,"Very rare Diablos material. Obtained by carving its severed tail. Sturdy, but difficult to handle."
+358,Diablos Fang,material,,4,,1120,,,Fang,DarkBeige,"Diablos material. Mostly obtained by carving. Sharp, used in many weapons."
+359,Twisted Horn,material,,4,,1360,,,Fang,DarkBeige,"Diablos material. Obtained by breaking its horns. Stout, used in many weapons."
+363,Majestic Horn,material,,6,,2980,,,Fang,DarkBeige,"Rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons."
+856,Twisted Stouthorn,material,,10,,7540,,,Fang,DarkBeige,"Very rare Diablos material. Obtained by breaking its horns. Stout, used in many weapons."
+857,Diablos Hardhorn,material,,11,,15000,,,Fang,DarkBeige,Very rare material from Diablos and its subspecies. Obtained by breaking its horns.
+360,Diablos Marrow,material,,4,,1480,,,Body,DarkBeige,"Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+364,Blos Medulla,material,,6,,3040,,,Body,DarkBeige,"Rare Diablos material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+365,Black Diablos Carapace,material,,6,,1450,,,Carapace,Gray,Rare Black Diablos material. Mostly obtained by carving. Broadly used for many purposes.
+858,Black Diablos Cortex,material,,10,,3540,,,Carapace,Gray,Very rare Black Diablos material. Mostly obtained by carving. Broadly used for many purposes.
+366,Black Diablos Ridge+,material,,6,,2150,,,Body,Gray,"Rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear."
+859,Black Diablos Chine,material,,10,,5440,,,Body,Gray,"Very rare Black Diablos material. Mostly obtained as a reward. Solid, used to craft gear."
+367,Black Spiral Horn+,material,,6,,5700,,,Fang,Gray,"Rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons."
+860,Blackcurl Stouthorn,material,,10,,8140,,,Fang,Gray,"Very rare Black Diablos material. Obtained by breaking its horns. Stout, used in many weapons."
+381,Dodogama Scale+,material,,6,,1030,,,Scale,Blue,Rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.
+773,Dodogama Shard,material,,9,,1520,,,Scale,Blue,Very rare Dodogama material. Mostly obtained by carving. Broadly used for many purposes.
+382,Dodogama Hide+,material,,6,,1530,,,Hide,Blue,"Rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear."
+774,Dodogama Thickhide,material,,9,,2220,,,Hide,Blue,"Very rare Dodogama material. Mostly obtained as a reward. Supple, used to craft gear."
+383,Dodogama Jaw,material,,6,,2120,,,Jaw,Blue,Rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.
+775,Dodogama Mandible,material,,9,,3280,,,Jaw,Blue,Very rare Dodogama material. Obtained by breaking its head. Unusual and difficult to handle.
+384,Dodogama Talon,material,,6,,2060,,,Fang,Blue,"Rare Dodogama material. Obtained by breaking its forelegs. Heavy, used in many weapons."
+776,Dodogama Hardclaw,material,,9,,3040,,,Fang,Blue,"Very rare Dodogama material. Obtained by breaking its forelegs. Heavy, used in many weapons."
+385,Dodogama Tail,material,,6,,2210,,,Tail,Blue,"Rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons."
+777,Dodogama Lash,material,,9,,3520,,,Tail,Blue,"Very rare Dodogama material. Obtained by carving its severed tail. Tough, used in many weapons."
+386,Lavasioth Scale+,material,,6,,1280,,,Scale,Gray,Rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.
+861,Lavasioth Shard,material,,10,,2860,,,Scale,Gray,Very rare Lavasioth material. Mostly obtained by carving. Broadly used for many purposes.
+387,Lavasioth Carapace,material,,6,,1880,,,Carapace,Gray,"Rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear."
+862,Lavasioth Cortex,material,,10,,4360,,,Carapace,Gray,"Very rare Lavasioth material. Mostly obtained as a reward. Solid, used to craft gear."
+388,Lavasioth Fang+,material,,6,,2480,,,Fang,Gray,"Rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons."
+863,Lavasioth Hardfang,material,,10,,5860,,,Fang,Gray,"Very rare Lavasioth material. Obtained by breaking its head. Sharp, used in many weapons."
+389,Lavasioth Fin+,material,,6,,2560,,,Body,Gray,Rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.
+864,Lavasioth Grandfin,material,,10,,5920,,,Body,Gray,Very rare Lavasioth material. Obtained by breaking its dorsal fin. Used for many purposes.
+390,Uragaan Scale+,material,,6,,1460,,,Scale,Gold,Rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.
+865,Uragaan Shard,material,,10,,2890,,,Scale,Gold,Very rare Uragaan material. Mostly obtained by carving. Broadly used for many purposes.
+391,Uragaan Carapace,material,,6,,2160,,,Carapace,Gold,"Rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear."
+866,Uragaan Cortex,material,,10,,4390,,,Carapace,Gold,"Very rare Uragaan material. Mostly obtained as a reward. Solid, used to craft gear."
+392,Uragaan Jaw,material,,6,,2980,,,Jaw,Gold,"Rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear."
+867,Uragaan Jaw+,material,,10,,6070,,,Jaw,Gold,"Very rare Uragaan material. Obtained from breaking its jaw. Unusual, used in select gear."
+393,Uragaan Scute,material,,6,,2880,,,Body,Gold,"Rare Uragaan material. Obtained by carving its severed tail. Highly heat-resistant, used to craft gear."
+868,Uragaan Scute+,material,,10,,5470,,,Body,Gold,"Very rare Uragaan material. Obtained by carving its severed tail. Highly heat-resistant, used to craft gear."
+394,Uragaan Marrow,material,,6,,3100,,,Body,Gold,"Rare Uragaan material. A valuable find, used to fortify gear. Said to be quite hard to come by."
+395,Uragaan Ruby,material,,7,,8400,,,Gem,Gold,A rare gem said to have formed within Uragaan tissue. Used to dramatically improve gear.
+869,Uragaan Pallium,material,,11,,15000,,,Mantle,Gold,Very rare Uragaan material. Used to craft weapons powerful enough to take over the world.
+396,Lava Nugget,material,,6,,1580,,,Ore,Beige,"A rare conglomerate or ore found growing on an Uragaan. Comprised of various ores, melted together."
+870,Barioth Cortex,material,,10,,2910,,,Carapace,White,"Very rare Barioth material. Mostly obtained by carving. Solid, used to craft gear."
+871,Barioth Thickfur,material,,10,,4410,,,Hide,White,Very rare Barioth material. Mostly obtained as a reward. Broadly used for many purposes.
+872,Barioth Hardclaw,material,,10,,5910,,,Fang,White,"Very rare Barioth material. Obtained as a reward and by carving. Sharp, used in many weapons."
+873,Barioth Greatspike,material,,10,,6020,,,Body,White,"Very rare Barioth material. Obtained by breaking its wings. Tough, used in many weapons."
+874,Barioth Lash,material,,10,,6130,,,Tail,White,"Very rare Barioth material. Obtained by carving its severed tail. Stiff, used to craft gear."
+875,Amber Hardfang,material,,10,,6240,,,Fang,Beige,"Very rare Barioth material. Obtained by breaking its head. Sharp, used in many weapons."
+1309,Silversnow Pelt,material,,11,,4900,,,Hide,White,Very rare Frostfang Barioth material. Mostly obtained as a reward. Broadly used for many purposes.
+1310,Bergcrusher Claw,material,,11,,7600,,,Fang,White,"Very rare Frostfang Barioth material. Obtained as a reward and by carving. Sharp, used in many weapons."
+1307,Silverwhite Frostfang,material,,11,,10300,,,Fang,White,"Very rare Frostfang Barioth material. Obtained by breaking its head. Sharp, used in many weapons."
+876,Nargacuga Shard,material,,10,,2940,,,Scale,Gray,"Very rare Nargacuga material. Mostly obtained by carving. Solid, used to craft gear."
+877,Nargacuga Blackfur+,material,,10,,4440,,,Hide,Gray,"Very rare Nargacuga material. Mostly obtained as a reward. Solid, used to craft gear."
+878,Nargacuga Lash,material,,10,,6220,,,Tail,Gray,"Very rare Nargacuga material. Obtained by carving its severed tail. Stiff, used to craft gear."
+879,Nargacuga Tailspear,material,,10,,6340,,,Body,Gray,Very rare Nargacuga material. Obtained by collecting rare drops. Broadly used for many purposes.
+880,Nargacuga Cutwing+,material,,10,,5940,,,Wing,Gray,"Very rare Nargacuga material. Obtained by breaking its wings. Sharp, used in many weapons."
+881,Nargacuga Hardfang,material,,10,,6080,,,Fang,Gray,"Very rare Nargacuga material. Obtained by breaking its head. Tough, used in many weapons."
+882,Nargacuga Mantle,material,,11,,15000,,,Mantle,Gray,Very rare Nargacuga material. Used to craft weapons powerful enough to take over the world.
+883,Tigrex Shard,material,,10,,2920,,,Scale,Gold,Very rare Tigrex material. Mostly obtained by carving. Broadly used for many purposes.
+884,Tigrex Cortex,material,,10,,4420,,,Carapace,Gold,"Very rare Tigrex material. Mostly obtained as a reward. Solid, used to craft gear."
+885,Tigrex Lash,material,,10,,6160,,,Tail,Gold,"Very rare Tigrex material. Obtained by carving its severed tail. Stiff, used to craft gear."
+886,Tigrex Hardclaw,material,,10,,6040,,,Fang,Gold,"Very rare Tigrex material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+887,Tigrex Hardfang,material,,10,,5920,,,Fang,Gold,"Very rare Tigrex material. Obtained by breaking its head. Sharp, used in many weapons."
+888,Tigrex Mantle,material,,11,,15000,,,Mantle,Gold,Very rare Tigrex material. Used to craft weapons powerful enough to take over the world.
+889,Brute Tigrex Shard,material,,10,,3640,,,Scale,Gray,Very rare Brute Tigrex material. Mostly obtained by carving. Broadly used for many purposes.
+890,Brute Tigrex Cortex,material,,10,,5540,,,Carapace,Gray,"Very rare Brute Tigrex material. Mostly obtained as a reward. Solid, used to craft gear."
+891,Brute Tigrex Hardclaw,material,,10,,7440,,,Fang,Gray,Very rare Brute Tigrex material. Obtained by breaking its forelegs. Used in many weapons.
+892,Brute Tigrex Hardfang,material,,10,,7720,,,Fang,Gray,Very rare Brute Tigrex material. Obtained by breaking its head. Used in many weapons.
+893,Glavenus Shard,material,,10,,2930,,,Scale,Red,"Very rare Glavenus material. Mostly obtained by carving. Solid, used to craft gear."
+894,Glavenus Cortex,material,,10,,4430,,,Carapace,DarkPurple,"Very rare Glavenus material. Mostly obtained as a reward. Solid, used to craft gear."
+895,Glavenus Hardfang,material,,10,,5930,,,Fang,DarkPurple,"Very rare Glavenus material. Obtained by breaking its head. Sharp, used in many weapons."
+896,Glavenus Hellshell,material,,10,,6190,,,Carapace,DarkPurple,"Very rare Glavenus material. Obtained by breaking its back. Highly heat-resistant, used to craft gear."
+897,Glavenus Tailedge,material,,10,,6450,,,Tail,DarkPurple,"Very rare Glavenus material. Obtained by carving its severed tail. Stiff, used to craft gear."
+898,Molten Bursa,material,,10,,6060,,,Sac,Red,"Very rare Glavenus material. Obtained by collecting rare drops. Unusual, used to craft gear."
+899,Glavenus Mantle,material,,11,,15000,,,Mantle,Red,Very rare Glavenus material. Used to craft weapons powerful enough to take over the world.
+900,Acidic Glavenus Shard,material,,10,,3570,,,Scale,Cyan,"Very rare Acidic Glavenus material. Mostly obtained by carving. Solid, used to craft gear."
+901,Acidic Glavenus Cortex,material,,10,,5470,,,Carapace,Cyan,"Very rare Acidic Glavenus material. Mostly obtained as a reward. Solid, used to craft gear."
+902,Acidic Glavenus Hardfang,material,,10,,7370,,,Fang,Cyan,Very rare Acidic Glavenus material. Obtained by breaking its head. Used in many weapons.
+903,Acidic Glavenus Spineshell,material,,10,,7510,,,Carapace,Cyan,Very rare Acidic Glavenus material. Obtained by breaking its back. Often used to craft gear.
+904,Acidic Glavenus Tailedge,material,,10,,7650,,,Tail,Cyan,Very rare Acidic Glavenus material. Obtained by carving its severed tail. Used to craft gear.
+905,Honed Acidcryst,material,,10,,7440,,,Body,Gold,"Very rare Acidic Glavenus material. Obtained by collecting rare drops. Unusual, used to craft gear."
+906,Brachydios Cortex,material,,10,,2950,,,Carapace,DarkBlue,Very rare Brachydios material. Mostly obtained by carving. Broadly used for many purposes.
+907,Fine Brachydios Ebonshell,material,,10,,4450,,,Body,DarkBlue,"Very rare Brachydios material. Mostly obtained as a reward. Solid, used to craft gear."
+908,Brachydios Crown,material,,10,,5950,,,Jaw,DarkBlue,"Very rare Brachydios material. Obtained by breaking its head. Tough, used in many weapons."
+909,Glowing Slime,material,,10,,4600,,,Liquid,Green,"Very rare Brachydios material. Obtained by collecting rare drops. Highly dense, used for many purposes."
+910,Brachydios Pounder+,material,,10,,6100,,,Body,DarkBlue,"Very rare Brachydios material. Obtained by breaking its forelimbs. Tough, used to craft gear."
+911,Brachydios Lash,material,,10,,6250,,,Tail,DarkBlue,"Very rare Brachydios material. Obtained by carving its severed tail. Stiff, used to craft gear."
+912,Brachydios Pallium,material,,11,,15000,,,Mantle,DarkBlue,Very rare Brachydios material. Used to craft weapons powerful enough to take over the world.
+1282,Indestructible Ebonshell,material,,11,,7800,,,Carapace,LightBeige,"Very rare Raging Brachydios material. The sturdiest material known, capable of withstanding any blast."
+1283,Brach Warhead,material,,11,,10600,,,Jaw,LightBeige,Very rare Raging Brachydios material. A skull that rage has turned into something far worse.
+1284,Flashpoint Slime,material,,11,,7900,,,Liquid,Red,Very rare Raging Brachydios material. Red Brachydios slime at its most volatile.
+1285,Brach Obliterator,material,,11,,10900,,,Body,LightBeige,Very rare Raging Brachydios material. A violent core capable of instantly obliterating targets.
+1286,Immortal Reactor,material,,12,,24000,,,Mantle,LightBeige,Very rare Raging Brachydios material. A rare organ used to render slime more volatile when in peril.
+913,Garuga Shard,material,,10,,3620,,,Scale,Violet,Very rare Yian Garuga material. Mostly obtained by carving. Broadly used for many purposes.
+914,Garuga Cortex,material,,10,,5520,,,Carapace,Violet,"Very rare Yian Garuga material. Mostly obtained as a reward. Solid, used to craft gear."
+915,Garuga Auricle,material,,10,,5920,,,Body,Violet,"Very rare Yian Garuga material. Obtained by breaking its head. Supple, used to craft gear."
+916,Fancy Beak,material,,10,,6040,,,Jaw,Violet,"Very rare Yian Garuga material. Obtained by breaking its head. Stout, used in many weapons."
+917,Garuga Fellwing,material,,10,,7540,,,Wing,Violet,"Very rare Yian Garuga material. Obtained by breaking its wings. Supple, used to craft gear."
+918,Garuga Lash,material,,10,,7660,,,Tail,Violet,"Very rare Yian Garuga material. Obtained by carving its severed tail. Stiff, used to craft gear."
+919,Garuga Silverpelt,material,,10,,7420,,,Body,White,Very rare Yian Garuga material. Obtained by breaking its back. Used for many purposes.
+920,Scratched Shell,material,,10,,6660,,,Carapace,Violet,"Very rare Scarred Yian Garuga material. Mostly obtained as a reward. Special, hardened material."
+921,Zinogre Cortex,material,,9,,5560,,,Carapace,Cyan,"Very rare Zinogre material. Mostly obtained as a reward. Solid, used to craft gear."
+922,Zinogre Electrofur+,material,,9,,3660,,,Body,Cyan,"Very rare Zinogre material. Mostly obtained as a reward. Solid, used to craft gear."
+923,Zinogre Hardhorn,material,,9,,7780,,,Fang,Cyan,"Very rare Zinogre material. Obtained by breaking its head. Stout, used in many weapons."
+924,Zinogre Hardclaw,material,,9,,7460,,,Fang,Cyan,"Very rare Zinogre material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+925,Zinogre Lash,material,,9,,8100,,,Tail,Cyan,"Very rare Zinogre material. Obtained by carving its severed tail. Stiff, used to craft gear."
+926,Zinogre Deathly Shocker,material,,9,,7620,,,Carapace,Cyan,Very rare Zinogre material. Mostly obtained by carving. Compatible with thunder element.
+927,Fulgurbug,material,,10,,4600,,,Bug,Blue,"Very rare Zinogre material, obtained with capture net while it's toppled. Compatible with thunder element."
+928,Zinogre Skymerald,material,,11,,18000,,,Mantle,Cyan,Very rare Zinogre material. Used to craft weapons powerful enough to take over the world.
+1241,Stygian Zinogre Cortex,material,,9,,6630,,,Carapace,Gray,"Very rare Stygian Zinogre material. Mostly obtained as a reward. Solid, used to craft gear."
+1242,Stygian Zinogre Dragonlocks,material,,9,,4330,,,Body,Gray,"Very rare Stygian Zinogre material. Mostly obtained as a reward. Solid, used to craft gear."
+1243,Stygian Zinogre Hardhorn,material,,9,,9190,,,Fang,Gray,"Very rare Stygian Zinogre material. Obtained by breaking its head. Stout, used in many weapons."
+1244,Stygian Zinogre Hardclaw,material,,9,,8930,,,Fang,Gray,"Very rare Stygian Zinogre material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+1245,Stygian Zinogre Lash,material,,9,,9450,,,Tail,Gray,"Very rare Stygian Zinogre material. Obtained by carving its severed tail. Stiff, used to craft gear."
+1246,Stygian Zinogre Dragonhold,material,,9,,9060,,,Carapace,Gray,Very rare Stygian Zinogre material. Mostly obtained by carving. Compatible with dragon element.
+1247,Dracophage Bug,material,,10,,5520,,,Bug,Gray,Very rare Stygian Zinogre material. Can be gathered when it's toppled. Grants dragon element properties.
+1248,Stygian Zinogre Skymerald,material,,11,,21000,,,Mantle,Gray,Very rare Stygian Zinogre material. Used to craft weapons powerful enough to take over the world.
+397,Bazelgeuse Scale+,material,,6,,1600,,,Scale,White,Rare Bazelgeuse material. Mostly obtained by carving. Broadly used for many purposes.
+929,Bazelgeuse Shard,material,,11,,4220,,,Scale,White,Very rare Seething Bazelgeuse material. Mostly obtained by carving. Used for many purposes.
+398,Bazelgeuse Carapace,material,,6,,2400,,,Carapace,White,"Rare Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear."
+930,Flickering Silvershell,material,,11,,6520,,,Carapace,White,"Very rare Seething Bazelgeuse material. Mostly obtained as a reward. Solid, used to craft gear."
+399,Bazelgeuse Tail,material,,6,,3600,,,Tail,White,"Rare Bazelgeuse material. Obtained by carving its severed tail. Stiff, used to craft gear."
+931,Bazelgeuse Flail,material,,11,,8880,,,Tail,White,Very rare Seething Bazelgeuse material. Obtained by carving its severed tail. Used to craft gear.
+400,Bazelgeuse Fuse,material,,6,,4000,,,Body,Red,Rare Bazelgeuse material. Obtained by breaking its head. Grants blast element properties.
+932,Distilled Blast Fluid,material,,11,,8920,,,Liquid,Red,Very rare Seething Bazelgeuse material. Obtained by breaking its head. Compatible with blast element.
+401,Bazelgeuse Talon,material,,6,,3200,,,Fang,White,Rare Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.
+933,Bazelgeuse Hardclaw,material,,11,,8840,,,Fang,White,Very rare Seething Bazelgeuse material. Mostly obtained by carving. Compatible with blast element.
+402,Bazelgeuse Wing,material,,6,,3400,,,Wing,White,"Rare Bazelgeuse material. Obtained by breaking its wings. Hard, used in many weapons."
+934,Scorching Silverwing,material,,11,,8860,,,Wing,White,Very rare Seething Bazelgeuse material. Obtained by breaking its wings. Used in many weapons.
+403,Bazelgeuse Gem,material,,7,,9600,,,Gem,White,A rare gem said to have formed within Bazelgeuse tissue. Used to dramatically improve gear.
+935,Bazelgeuse Mantle,material,,11,,21000,,,Mantle,White,Very rare Seething Bazelgeuse material. Used to craft weapons powerful enough to take over the world.
+404,Deviljho Scale,material,,6,,1600,,,Scale,DarkGreen,Rare Deviljho material. Mostly obtained by carving. Broadly used for many purposes.
+936,Deviljho Shard,material,,11,,4240,,,Scale,DarkGreen,Very rare Savage Deviljho material. Mostly obtained by carving. Broadly used for many purposes.
+405,Deviljho Hide,material,,6,,2400,,,Hide,DarkGreen,"Rare Deviljho material. Mostly obtained as a reward. Supple, used to craft gear."
+937,Deviljho Blackpiel,material,,11,,6540,,,Hide,DarkGreen,"Very rare Savage Deviljho material. Mostly obtained as a reward. Tough, used to craft gear."
+406,Deviljho Tallfang,material,,6,,3200,,,Fang,DarkGreen,"Rare Deviljho material. Obtained by breaking its head. Stout, used in many weapons."
+938,Vile Fang,material,,11,,9000,,,Fang,DarkGreen,Very rare Savage Deviljho material. Obtained by breaking its head. Used in many weapons.
+407,Deviljho Talon,material,,6,,3400,,,Fang,DarkGreen,Rare Deviljho material. Mostly obtained by carving. Compatible with dragon element.
+939,Deviljho Ripper,material,,11,,8920,,,Fang,DarkGreen,Very rare Savage Deviljho material. Mostly obtained by carving. Compatible with dragon element.
+408,Deviljho Scalp,material,,6,,4000,,,Jaw,DarkGreen,"Rare Deviljho material. Obtained by breaking its head. Unusual, used in select gear."
+409,Deviljho Tail,material,,6,,3600,,,Tail,DarkGreen,"Rare Deviljho material. Obtained by carving its severed tail. Stiff, used to craft gear."
+940,Deviljho Flail,material,,11,,9200,,,Tail,DarkGreen,Very rare Savage Deviljho material. Obtained by carving its severed tail. Used to craft gear.
+410,Deviljho Saliva,material,,6,,2200,,,Liquid,DarkGreen,Rare Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.
+941,Black Blood,material,,11,,8840,,,Liquid,DarkRed,Very rare Savage Deviljho material. Obtained by collecting rare drops. Unusual and difficult to handle.
+411,Deviljho Gem,material,,7,,9600,,,Gem,DarkGreen,A rare gem said to have formed within Deviljho tissue. Used to dramatically improve gear.
+942,Deviljho Crook,material,,11,,21000,,,Mantle,DarkGreen,Very rare Savage Deviljho material. Used to craft weapons powerful enough to take over the world.
+1069,Rajang Hardhorn,material,,11,,9370,,,Fang,Gold,"Very rare Rajang material. Obtained by breaking its horns. Stout, used in many weapons."
+1070,Rajang Hardfang,material,,11,,8990,,,Fang,Gold,"Very rare Rajang material. Mostly obtained by carving. Sharp, used in many weapons."
+1071,Rajang Wildpelt,material,,11,,6690,,,Body,Gray,"Very rare Rajang material. Mostly obtained as a reward. Supple, used to craft gear."
+1072,Rajang Hardclaw,material,,11,,9180,,,Fang,Gray,"Very rare Rajang material. Obtained by breaking its forelimbs. Sharp, used in many weapons."
+1073,Rajang Tail,material,,11,,9750,,,Tail,Gold,"Very rare Rajang material. Obtained by breaking its tail. Stiff, used to craft gear."
+1074,Gold Rajang Pelt+,material,,11,,21000,,,Body,Gold,"Very rare Rajang material. Hard to obtain, but greatly increases the effectiveness of equipment."
+1287,Rajang Apoplexy,material,,11,,7800,,,Body,Gold,"Very rare Furious Rajang material. A long, fine mane that is extremely robust."
+1288,Ghoulish Gold Gorer,material,,11,,10900,,,Fang,Gold,"Very rare Furious Rajang material. A golden horn that, even when broken, is filled with the rage of a Rajang"
+1289,Rajang Heart,material,,12,,24000,,,Mantle,Red,Very rare Furious Rajang material. Its flesh-searing rage unleashes massive power with every beat.
+368,Kirin Hide,material,,4,,750,,,Hide,White,Kirin material. Mostly obtained by carving. Broadly used for many purposes.
+372,Kirin Hide+,material,,7,,1630,,,Hide,White,Rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.
+943,Kirin Finehide,material,,11,,4300,,,Hide,White,Very rare Kirin material. Mostly obtained by carving. Broadly used for many purposes.
+369,Kirin Tail,material,,4,,1000,,,Body,White,Kirin material. Mostly obtained as a reward. Compatible with thunder element.
+373,Kirin Thundertail,material,,7,,2430,,,Body,White,Rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.
+944,Kirin Thundertail+,material,,11,,6600,,,Body,White,Very rare Kirin material. Mostly obtained as a reward. Compatible with thunder element.
+370,Kirin Mane,material,,4,,1250,,,Body,White,"Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear."
+945,Kirin Silvermane,material,,11,,8900,,,Body,White,"Very rare Kirin material. Mostly obtained by carving. Highly thunder-resistant, used to craft gear."
+371,Kirin Thunderhorn,material,,4,,1750,,,Fang,Blue,Kirin material. Obtain by breaking its horn. Grants thunder element properties.
+374,Kirin Azure Horn,material,,7,,3200,,,Fang,Blue,Rare Kirin material. Obtain by breaking its horn. Grants thunder element properties.
+946,Kirin Azure Horn+,material,,11,,9100,,,Fang,Blue,Very rare Kirin material. Obtained by breaking its horn. Grants thunder element properties.
+375,Zorah Magdaros Heat Scale,material,,6,,800,,,Scale,Gray,Zorah Magdaros material. Mostly obtained as a reward. Broadly used for many purposes.
+376,Zorah Magdaros Carapace,material,,6,,1200,,,Carapace,Gray,"Zorah Magdaros material. Obtained as a rare drop or by mining. Solid, used to craft gear."
+377,Zorah Magdaros Ridge,material,,6,,1400,,,Body,Gray,"Rare Zorah Magdaros material. Mostly obtained as a reward. Stout, used in many weapons."
+378,Zorah Magdaros Pleura,material,,6,,1600,,,Body,Gray,"Rare Zorah Magdaros material. Obtained by breaking its chest. Heavy, used to craft armor."
+379,Zorah Magdaros Magma,material,,6,,3200,,,Ore,Red,Rare Zorah Magdaros material. Obtained by breaking its head. Unusual and difficult to handle.
+380,Zorah Magdaros Gem,material,,7,,6000,,,Gem,Gray,A rare gem said to have formed within Zorah Magdaros tissue. Holds untold potential.
+412,Immortal Dragonscale,material,,7,,2100,,,Scale,Gray,Rare Nergigante material. Mostly obtained by carving. Broadly used for many purposes.
+947,Immortal Shard,material,,11,,4380,,,Scale,Gray,Very rare Ruiner Nergigante material. Mostly obtained by carving. Broadly used for many purposes.
+413,Nergigante Carapace,material,,7,,3200,,,Carapace,Gray,"Rare Nergigante material. Mostly obtained as a reward. Solid, used to craft gear."
+948,Nergigante Cortex,material,,11,,6680,,,Carapace,Gray,"Very rare Ruiner Nergigante material. Mostly obtained as a reward. Solid, used to craft gear."
+414,Nergigante Tail,material,,7,,4300,,,Tail,Gray,"Rare Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear."
+949,Nergigante Flail,material,,11,,8980,,,Tail,Gray,"Very rare Ruiner Nergigante material. Obtained by carving its severed tail. Stiff, used to craft gear."
+415,Nergigante Horn+,material,,7,,5000,,,Fang,Gray,"Rare Nergigante material. Obtained by breaking its horns. Stout, used in many weapons."
+950,Annihilating Greathorn,material,,11,,9340,,,Fang,Gray,"Very rare Ruiner Nergigante material. Obtained by breaking its horns. Stout, used in many weapons."
+416,Nergigante Talon,material,,7,,4500,,,Fang,Gray,"Rare Nergigante material. Mostly obtained by carving. Sharp, used in many weapons."
+951,Nergigante Hardclaw,material,,11,,9160,,,Fang,Gray,"Very rare Ruiner Nergigante material. Mostly obtained by carving. Sharp, used in many weapons."
+417,Nergigante Regrowth Plate,material,,7,,3400,,,Body,White,"Rare Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear."
+952,Eternal Regrowth Plate,material,,11,,6860,,,Body,White,"Very rare Ruiner Nergigante material. Obtained by collecting rare drops. Unusual, used to craft gear."
+418,Nergigante Gem,material,,8,,12000,,,Gem,Gray,A rare gem said to have formed within Nergigante tissue. Holds untold potential.
+953,Crystal Shard,material,,11,,4340,,,Scale,Blue,Very rare Velkhana material. Mostly obtained by carving. Broadly used for many purposes.
+954,Velkhana Cortex,material,,11,,6640,,,Carapace,Blue,"Very rare Velkhana material. Mostly obtained as a reward. Solid, used to craft gear."
+955,Velkhana Fellwing,material,,11,,8940,,,Wing,Blue,"Very rare Velkhana material. Obtained by breaking its wings. Supple, used to craft gear."
+956,Velkhana Crownhorn,material,,11,,9640,,,Tail,Blue,"Very rare Velkhana material. Obtained by breaking its head. Stout, used in many weapons."
+957,Velkhana Lash,material,,11,,9220,,,Fang,Blue,"Very rare Velkhana material. Obtained by carving its severed tail. Stiff, used to craft gear."
+958,Velkhana Hardclaw,material,,11,,9080,,,Fang,Blue,"Very rare Velkhana material. Obtained by collecting rare drops. Sharp, used in many weapons."
+959,Velkhana Crystal,material,,12,,21000,,,Mantle,Blue,Very rare Velkhana material. Used to craft weapons powerful enough to take over the world.
+428,Teostra Carapace,material,,7,,3400,,,Carapace,Red,"Rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear."
+960,Teostra Cortex,material,,11,,6580,,,Carapace,Red,"Very rare Teostra material. Mostly obtained as a reward. Solid, used to craft gear."
+429,Teostra Mane,material,,7,,3400,,,Body,Red,"Rare Teostra material. Obtained by breaking its head. Highly fire-resistant, used to craft gear."
+961,Teostra Mane+,material,,11,,6580,,,Body,Red,Very rare Teostra material. Obtained by breaking its head. Highly fire-resistant.
+430,Teostra Tail,material,,7,,4900,,,Tail,Red,"Rare Teostra material. Obtained by carving its severed tail. Stiff, used to craft gear."
+962,Teostra Lash,material,,11,,9040,,,Tail,Red,Very rare Teostra material. Obtained by carving its severed tail. Used to craft gear.
+431,Teostra Horn+,material,,7,,5500,,,Fang,Red,"Rare Teostra material. Obtained by breaking its head. Stout, used in many weapons."
+963,Teostra Hardhorn,material,,11,,9280,,,Fang,Red,Very rare Teostra material. Obtained by breaking its head. Used in many weapons.
+427,Fire Dragon Scale+,material,,7,,2300,,,Scale,Red,Rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.
+964,Hellfire Shard,material,,11,,4280,,,Scale,Red,Very rare Teostra material. Mostly obtained by carving. Broadly used for many purposes.
+432,Teostra Claw+,material,,7,,4700,,,Fang,Red,"Rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons."
+965,Fire Dragon Hardclaw,material,,11,,8960,,,Fang,Red,"Very rare Teostra material. Mostly obtained by carving. Sharp, used in many weapons."
+433,Teostra Webbing,material,,7,,4500,,,Wing,Red,"Rare Teostra material. Obtained by breaking its wings. Supple, used to craft gear."
+966,Teostra Fellwing,material,,11,,8880,,,Wing,Red,Very rare Teostra material. Obtained by breaking its wings. Used to craft gear.
+434,Teostra Powder,material,,7,,3600,,,Sac,Red,"Rare Teostra material. Obtained by collecting rare drops. Unusual, used in select gear."
+435,Teostra Gem,material,,8,,12000,,,Gem,Red,A rare gem said to have formed within Teostra tissue. Within it lies unimaginable power.
+437,Lunastra Carapace,material,,7,,3400,,,Carapace,Blue,"Rare Lunastra material. Mostly obtained as a reward. Solid, used to craft gear."
+967,Lunastra Cortex,material,,11,,6610,,,Carapace,Blue,"Very rare Lunastra material. Mostly obtained as a reward. Solid, used to craft gear."
+438,Lunastra Mane,material,,7,,3400,,,Body,Blue,"Rare Lunastra material. Obtained by collecting rare drops. Valuable, fire resistant material."
+968,Lunastra Mane+,material,,11,,6610,,,Body,Blue,"Very rare Lunastra material. Obtained by collecting rare drops. Valuable, fire resistant material."
+440,Lunastra Tail,material,,7,,4900,,,Tail,Blue,"Rare Lunastra material. Obtained by carving its severed tail. Stiff, used to craft gear."
+969,Lunastra Lash,material,,11,,9130,,,Tail,Blue,Very rare Lunastra material. Obtained by carving its severed tail. Used to craft gear.
+441,Lunastra Horn,material,,7,,5500,,,Fang,Blue,"Rare Lunastra material. Obtained by breaking its head. Stout, used in many weapons."
+970,Lunastra Hardhorn,material,,11,,9460,,,Fang,Blue,Very rare Lunastra material. Obtained by breaking its head. Used in many weapons.
+436,Lunastra Scale+,material,,7,,2300,,,Scale,Blue,Rare Lunastra material. Mostly obtained by carving. Broadly used for many purposes.
+971,Lunastra Shard,material,,11,,4310,,,Scale,Blue,Very rare Lunastra material. Mostly obtained by carving. Used for many purposes.
+439,Lunastra Wing,material,,7,,4500,,,Wing,Blue,"Rare Lunastra material. Obtained by breaking its wings. Supple, used to craft gear."
+972,Lunastra Fellwing,material,,11,,8910,,,Wing,Blue,Very rare Lunastra material. Obtained by breaking its wings. Used to craft gear.
+442,Lunastra Gem,material,,8,,12000,,,Gem,Blue,A rare gem said to have formed within Lunastra tissue. Within it lies unimaginable power.
+444,Daora Carapace,material,,7,,3300,,,Carapace,Gray,"Rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear."
+973,Daora Cortex,material,,11,,6560,,,Carapace,Gray,"Very rare Kushala Daora material. Mostly obtained as a reward. Solid, used to craft gear."
+443,Daora Dragon Scale+,material,,7,,2200,,,Scale,Gray,Rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.
+974,Daora Shard,material,,11,,4260,,,Scale,Gray,Very rare Kushala Daora material. Mostly obtained by carving. Broadly used for many purposes.
+445,Daora Webbing,material,,7,,4300,,,Wing,Gray,"Rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear."
+975,Daora Fellwing,material,,11,,8800,,,Wing,Gray,"Very rare Kushala Daora material. Obtained by breaking its wings. Lightweight, used to craft gear."
+446,Daora Horn+,material,,7,,4500,,,Fang,Gray,"Rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons."
+976,Daora Hardhorn,material,,11,,8920,,,Fang,Gray,"Very rare Kushala Daora material. Obtained by breaking its head. Stout, used in many weapons."
+447,Daora Tail,material,,7,,4800,,,Tail,Gray,"Rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear."
+977,Daora Lash,material,,11,,9100,,,Tail,Gray,"Very rare Kushala Daora material. Obtained by carving its severed tail. Stiff, used to craft gear."
+448,Daora Claw+,material,,7,,4400,,,Fang,Gray,Rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.
+978,Daora Hardclaw,material,,11,,8860,,,Fang,Gray,Very rare Kushala Daora material. Mostly obtained by carving. Imbued with potent ice element.
+449,Daora Gem,material,,8,,12000,,,Gem,Gray,A rare gem said to have formed within Kushala Daora tissue. Holds untold potential.
+419,Deceased Scale,material,,7,,2250,,,Scale,White,Rare Vaal Hazak material. Mostly obtained by carving. Broadly used for many purposes.
+979,Deceased Shard,material,,11,,4320,,,Scale,White,Very rare Blackveil Vaal Hazak material. Mostly obtained by carving. Used for many purposes.
+420,Vaal Hazak Carapace,material,,7,,3350,,,Carapace,White,"Rare Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear."
+980,Vaal Hazak Cortex,material,,11,,6620,,,Carapace,White,"Very rare Blackveil Vaal Hazak material. Mostly obtained as a reward. Solid, used to craft gear."
+421,Vaal Hazak Membrane,material,,7,,3500,,,Body,DarkRed,Rare Vaal Hazak material. Obtained by collecting rare drops. Grants dragon element properties.
+981,Deathweaver Membrane,material,,11,,6740,,,Body,DarkRed,Very rare Blackveil Vaal Hazak material. Obtained from rare drops. Grants dragon element properties.
+422,Vaal Hazak Tail,material,,7,,4900,,,Tail,White,"Rare Vaal Hazak material. Obtained by carving its severed tail. Stiff, used to craft gear."
+982,Vaal Hazak Flail,material,,11,,9280,,,Tail,White,Very rare Blackveil Vaal Hazak material. Obtained by carving its severed tail. Used to craft gear.
+423,Vaal Hazak Fang+,material,,7,,4600,,,Fang,White,"Rare Vaal Hazak material. Obtained by breaking its head. Sharp, used in many weapons."
+983,Shadowpierce Fang,material,,11,,9040,,,Fang,White,Very rare Blackveil Vaal Hazak material. Obtained by breaking its head. Used in many weapons.
+424,Vaal Hazak Talon,material,,7,,4750,,,Fang,White,"Rare Vaal Hazak material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+984,Vaal Hazak Hardclaw,material,,11,,9160,,,Fang,White,Very rare Blackveil Vaal Hazak material. Obtained by breaking its forelegs. Used in many weapons.
+425,Vaal Hazak Wing,material,,7,,4450,,,Wing,White,"Rare Vaal Hazak material. Obtained by breaking its torso. Light yet firm, used to craft gear."
+985,Vaal Hazak Fellwing,material,,11,,8920,,,Wing,White,Very rare Blackveil Vaal Hazak material. Obtained by breaking its torso. Used to craft gear.
+426,Vaal Hazak Gem,material,,8,,12000,,,Gem,White,A rare gem said to have formed within Vaal Hazak tissue. Holds untold potential.
+986,Namielle Finehide,material,,11,,4360,,,Hide,Violet,Very rare Namielle material. Mostly obtained by carving. Broadly used for many purposes.
+987,Namielle Fellwing,material,,11,,8960,,,Wing,Orange,"Very rare Namielle material. Obtained by breaking its wings. Supple, used to craft gear."
+988,Namielle Whisker,material,,11,,9600,,,Body,Violet,Very rare Namielle material. Obtained by breaking its head. Grants thunder element properties.
+989,Namielle Lash,material,,11,,9280,,,Tail,Violet,"Very rare Namielle material. Obtained by carving its severed tail. Stiff, used to craft gear."
+990,Namielle Hardclaw,material,,11,,9120,,,Fang,Violet,"Very rare Namielle material. Obtained by breaking its forelegs. Sharp, used in many weapons."
+450,Xeno'jiiva Soulscale,material,,7,,3000,,,Scale,White,Rare Xeno'jiiva material. The burnt scale still radiates vestiges of the hereafter.
+451,Xeno'jiiva Shell,material,,7,,4000,,,Carapace,White,"A rare piece of Xeno'jiiva shell, tempered to act as a vessel for the flames of the underworld."
+452,Xeno'jiiva Veil,material,,7,,4300,,,Body,Blue,A rare Xeno'jiiva organ that stores energy that can be released in a violent torrent.
+453,Xeno'jiiva Tail,material,,7,,6000,,,Tail,White,"A rare, strong Xeno'jiiva tail that can brush aside all enemies in a single lash."
+454,Xeno'jiiva Horn,material,,7,,5600,,,Fang,White,"A rare Xeno'jiiva horn. During growth, it's theorized that it helps control the beast's power."
+455,Xeno'jiiva Claw,material,,7,,5300,,,Fang,White,"A rare Xeno'jiiva claw, said to cleave soul from flesh."
+456,Xeno'jiiva Wing,material,,7,,5000,,,Wing,White,A rare Xeno'jiiva wing. The wing membrane shines with the divine light of a powerful deity.
+457,Xeno'jiiva Gem,material,,8,,15000,,,Gem,White,A phantasmal gem formed inside the tissue of Xeno'jiiva. The power it holds defies comprehension.
+1250,Safi'jiiva Shard,material,,11,,4900,,,Scale,Red,Very rare Safi'jiiva material. Mostly obtained by carving. Its maturation has caused patterns to appear.
+1251,Safi'jiiva Cortex,material,,11,,7600,,,Carapace,Red,Very rare Safi'jiiva material. Mostly obtained as a reward. Its maturation has created complex layers to appear.
+1252,Pulsing Dragonshell,material,,11,,8100,,,Body,Red,"Very rare Safi'jiiva material. Eternal time, along with its inherent power has caused brilliant light to seep out."
+1253,Safi'jiiva Lash,material,,11,,11800,,,Tail,Red,Very rare Safi'jiiva material. Obtained by carving its severed tail. A single swipe is said to cause cyclones.
+1254,Safi'jiiva Hardhorn,material,,11,,11300,,,Fang,Red,Very rare Safi'jiiva material. Obtained by breaking its horns. Excessive growth has caused the horns to curl.
+1255,Safi'jiiva Hardclaw,material,,11,,10800,,,Fang,Red,Very rare Safi'jiiva material. Obtained by breaking its legs. Touch them to feel the torrent of the earth below.
+1256,Safi'jiiva Fellwing,material,,11,,10300,,,Wing,Red,Very rare Safi'jiiva material. Obtained by breaking its wings. Feel the oppressive power of the emperor.
+1257,Zionium Crystal,material,,12,,24000,,,Mantle,Red,Very rare Safi'jiiva material. The grand energy of the descended emperor lies within its core.
+458,Kulve Taroth Golden Scale,material,,7,,3000,,,Scale,Gold,Rare Kulve Taroth material. Mostly obtained as a reward. Many have fallen trying to obtain just one of these.
+1292,Kulve Taroth Golden Scale+,material,,11,,9000,,,Scale,Gold,Very rare Kulve Taroth material. Mostly obtained as a reward. Many have fallen trying to obtain just one of these.
+459,Kulve Taroth Golden Shell,material,,7,,4000,,,Carapace,Gold,Rare Kulve Taroth material. Mostly obtained as a reward. Its value is tied to its brilliant gold shine.
+1293,Kulve Taroth Golden Shell+,material,,11,,12000,,,Carapace,Gold,Very rare Kulve Taroth material. Mostly obtained as a reward. Its value is tied to its brilliant gold shine.
+460,Kulve Taroth Golden Nugget,material,,7,,1000,,,Ore,Gold,Rare Kulve Taroth material. Obtained by collecting rare drops. Emits an exotic light towards those that look at it.
+1294,Kulve Taroth Golden Nugget+,material,,11,,3000,,,Ore,Gold,Very rare Kulve Taroth material. Obtained from rare drops. Emits an exotic light to those that look at it.
+461,Kulve Taroth Golden Spiralhorn,material,,7,,6000,,,Fang,Gold,Rare Kulve Taroth material. Obtained by breaking its head. It defiantly glows despite its age and weight.
+1295,Kulve Taroth Golden Spiralhorn+,material,,11,,18000,,,Fang,Gold,Very rare Kulve Taroth material. Obtained by breaking its head. It glows despite its age and weight.
+462,Kulve Taroth Golden Tailshell,material,,7,,5000,,,Body,Gold,Rare Kulve Taroth material. Obtained by breaking its tail. It shimmers a lustrous gold.
+1296,Kulve Taroth Golden Tailshell+,material,,11,,15000,,,Body,Gold,Very rare Kulve Taroth material. Obtained by breaking its tail. It shimmers a lustrous gold.
+463,Kulve Taroth Golden Glimstone,material,,8,,15000,,,Gem,Gold,A rare gem said to have formed within Kulve Taroth tissue. Within it lies unimaginable power.
+1297,Golden Dragonsphire,material,,12,,24000,,,Mantle,Gold,Very rare Kulve Taroth material. A gem rumored to stain the world gold once obtained.
+663,Kulve Taroth Emperor Nugget,material,,8,,2000,,,Ore,White,A glittering white gold nugget from Kulve Taroth. Bring it to the Smithy to craft new equipment!
+991,Shara Ishvalda Tenderscale,material,,11,,7600,,,Scale,White,Very rare Shara Ishvalda material. Mostly obtained by carving. Broadly used for its extreme versatility.
+992,Shara Ishvalda Boulderplate,material,,11,,4900,,,Carapace,DarkBeige,"Very rare Shara Ishvalda material. Mostly obtained as a reward. Solid, used to craft gear."
+993,Shara Ishvalda Tenderplate,material,,11,,10300,,,Jaw,White,Very rare Shara Ishvalda material. Obtained by breaking its head. Used in many weapons.
+994,Shara Ishvalda Petalstone,material,,11,,4900,,,Ore,DarkBeige,Very rare Shara Ishvalda material. Obtained by collecting rare drops. Used to craft gear.
+995,Shara Ishvalda Tenderclaw,material,,11,,10300,,,Fang,White,Very rare Shara Ishvalda material. Obtained by breaking its wingarms. Used in many weapons.
+996,Shara Ishvalda Gem,material,,12,,24000,,,Mantle,White,Very rare Shara Ishvalda material. Used to craft weapons powerful enough to take over the world.
+1300,Alatreon Pallium,material,,11,,8800,,,Carapace,Violet,Very rare Alatreon material. Mostly obtained as a reward. The bearer receives heaven's love.
+1301,Alatreon Mantle,material,,11,,7800,,,Scale,Violet,Very rare Alatreon material. Mostly obtained by carving. Said to contain every element within.
+1302,Alatreon Riptalon,material,,11,,8000,,,Fang,Violet,Very rare Alatreon material. Emits malevolence that makes one think of only evil intentions.
+1303,Alatreon Direwing,material,,11,,10700,,,Wing,Violet,"Very rare Alatreon material. Rumored to be capable of ripping through space, time, and the world."
+1304,Alatreon Diretail,material,,11,,11100,,,Tail,Violet,"Very rare Alatreon material. Obtained by carving its severed tail. Is this real, or merely a dream?"
+1305,Skyswayer,material,,11,,11500,,,Fang,Violet,Very rare Alatreon material. These convoluted horns are the finest specimen known to exist.
+1306,Azure Dragonsphire,material,,12,,24000,,,Mantle,Violet,Very rare Alatreon material. Obtaining this brilliant gem heralds the end of the world.
+1311,Fatalis Shard,material,,11,,,,,Scale,Gray,
+1312,Fatalis Cortex,material,,11,,,,,Carapace,Gray,
+1313,Fatalis Pectus,material,,11,,,,,Carapace,Gray,
+1314,Fatalis Hardhorn,material,,11,,,,,Fang,Gray,
+1315,Fatalis Evil Eye,material,,11,,,,,Jaw,Gold,
+1316,Fatalis Fellwing,material,,11,,,,,Wing,Gray,
+464,Behemoth Mane,material,,7,,8000,,,Body,Violet,Rare Behemoth material. Tinged with magical power that can summon meteors from the heavens.
+465,Behemoth Bone,material,,7,,7000,,,Bone,Violet,Rare Behemoth material. Bone so absurdly strong that it can even knock out legendary heroes.
+466,Behemoth Great Horn,material,,8,,15000,,,Fang,Violet,Rare Behemoth material. The ominous light that this horn emits leaves even the Warriors of Light shaken.
+467,Behemoth Shearclaw,material,,8,,10000,,,Fang,Violet,Rare Behemoth material. These claws cut down weaker prey in a single blow.
+468,Behemoth Tail,material,,8,,12000,,,Tail,Violet,"Rare Behemoth material. A thick, muscular tail that sweeps away all threats."
+469,Aetheryte Shard,material,,7,,5000,,,Ore,White,"A fragment of a glittering crystal. Contains an unknown, otherworldly energy called ""aether."""
+673,Leshen Claw,material,,6,,3000,,,Fang,DarkGreen,A rare sharp leshen claw. One hit is enough to leave a deep gash on its victim.
+664,Ancient Leshen Claw,material,,7,,3600,,,Fang,DarkGreen,"Rare material. The claw of an ancient leshen, worshipped as an indigenous god in another world."
+665,Leshen Skull,material,,7,,4000,,,Jaw,DarkGreen,"Proof of defeating a leshen. In another world, hunters hang this from their horse saddle to show off."
+666,Ancient Leshen Skull,material,,8,,5000,,,Jaw,DarkGreen,Rare ancient leshen material. Embued with powerful magic and harboring unfathomable darkness.
+667,Cursed Bone,material,,6,,2800,,,Bone,DarkGreen,Rare material. The bone of a creature that fell prey to a leshen's cunning cruelty.
+668,Ancient Cursed Bone,material,,7,,3400,,,Bone,DarkGreen,Rare ancient leshen material. A bone entangled in countless magical branches.
+669,Leshen Antlers,material,,6,,3400,,,Fang,DarkGreen,"Rare material. The horrifying antlers of a leshen, nourished by the innate powers of primeval woods."
+670,Ancient Leshen Antlers,material,,7,,4000,,,Fang,DarkGreen,"Rare ancient leshen material. Huge, solemn antlers that inspire fear in other creatures."
+671,Leshen Resin,material,,6,,2600,,,Liquid,DarkGreen,A lump of resin excreted by a leshen. Contains arcane components that should be handled with care.
+674,Mutagen,material,,8,,9600,,,Liquid,DarkGreen,A substance used to augment a witcher's abilities. Redeem at the Resource Center for something nice!?
+470,Streamstone Shard,material,,6,,1000,,,Streamstone,Violet,"A rare stone taken from a tempered monster. The longer a beast's reign of terror, the larger the shard."
+471,Streamstone,material,,7,,2000,,,Streamstone,Violet,"A rare stone taken from a tempered monster. A crystal of pure power, born of a beast's endless desires."
+472,Gleaming Streamstone,material,,8,,3000,,,Streamstone,Violet,A rare stone taken from a tempered monster. Proof that it ruled for an age as a tyrant unchallenged.
+473,Warrior's Streamstone: Sword,material,,6,,10000,,,Streamstone,White,A material used by champions of old. Used to bring out the hidden power in long swords and great swords.
+474,Warrior's Streamstone: Blade,material,,6,,10000,,,Streamstone,White,A material used by champions of old. Used to bring out the hidden power in swords and shields and dual blades.
+475,Warrior's Streamstone: Hammer,material,,6,,10000,,,Streamstone,White,A material used by champions of old. Used to bring out the hidden power in hammers and hunting horns.
+476,Warrior's Streamstone: Lance,material,,6,,10000,,,Streamstone,White,A material used by champions of old. Used to bring out the hidden power in lances and gunlances.
+477,Warrior's Streamstone: Axe,material,,6,,10000,,,Streamstone,White,A material used by champions of old. Used to bring out the hidden power in switch axes and charge blades.
+478,Warrior's Streamstone: Shaft,material,,6,,10000,,,Streamstone,White,A material used by champions of old. Used to bring out the hidden power in insect glaives and bows.
+479,Warrior's Streamstone: Ranged,material,,6,,10000,,,Streamstone,White,A material used by champions of old. Used to bring out the hidden power in light bowguns and heavy bowguns.
+480,Hero's Streamstone: Sword,material,,8,,20000,,,Streamstone,Beige,A material used by legendary heroes. Used to bring out the hidden power in long swords and great swords.
+481,Hero's Streamstone: Blade,material,,8,,20000,,,Streamstone,Beige,A material used by legendary heroes. Used to bring out the hidden power in swords and shields and dual blades.
+482,Hero's Streamstone: Hammer,material,,8,,20000,,,Streamstone,Beige,A material used by legendary heroes. Used to bring out the hidden power in hammers and hunting horns.
+483,Hero's Streamstone: Lance,material,,8,,20000,,,Streamstone,Beige,A material used by legendary heroes. Used to bring out the hidden power in lances and gunlances.
+484,Hero's Streamstone: Axe,material,,8,,20000,,,Streamstone,Beige,A material used by legendary heroes. Used to bring out the hidden power in switch axes and charge blades.
+485,Hero's Streamstone: Shaft,material,,8,,20000,,,Streamstone,Beige,A material used by legendary heroes. Used to bring out the hidden power in insect glaives and bows.
+486,Hero's Streamstone: Ranged,material,,8,,20000,,,Streamstone,Beige,A material used by legendary heroes. Used to bring out the hidden power in light bowguns and heavy bowguns.
+997,Decayed Crystal,material,,9,,800,,,Ore,Green,Ore obtained in the Guiding Lands' forest region. Subterranean energy has caused the ore to crystallize.
+998,Forest Crystal,material,,9,,1200,,,Ore,Green,Ore obtained in the Guiding Lands' forest region. Greater underground energy has yielded larger crystals.
+1075,Prosperous Crystal,material,,10,,1600,,,Ore,Green,Ore obtained in the Guiding Lands' forest region. The energy it holds is palpable to the touch.
+1076,Guiding Forest Crystal,material,,11,,2000,,,Ore,Green,Ore obtained in the Guiding Lands' forest region. A massive crystal formed by miraculous earthen energy.
+999,Cracked Crystal,material,,9,,800,,,Ore,Beige,Ore obtained in the Guiding Lands' wildspire region. Subterranean energy has caused the ore to crystallize.
+1000,Wasteland Crystal,material,,9,,1200,,,Ore,Beige,Ore obtained in the Guiding Lands' wildspire region. Greater underground energy has yielded larger crystals.
+1001,Serene Crystal,material,,10,,1600,,,Ore,Beige,Ore obtained in the Guiding Lands' wildspire region. The energy it holds is palpable to the touch.
+1002,Guiding Wasteland Crystal,material,,11,,2000,,,Ore,Beige,Ore obtained in the Guiding Lands' wildspire region. A massive crystal formed by miraculous earthen energy.
+1003,Pale Crystal,material,,9,,800,,,Ore,Violet,Ore obtained in the Guiding Lands' coral region. Subterranean energy has caused the ore to crystallize.
+1004,Reef Crystal,material,,9,,1200,,,Ore,Violet,Ore obtained in the Guiding Lands' coral region. Greater underground energy has yielded larger crystals.
+1077,Deepsea Crystal,material,,10,,1600,,,Ore,Violet,Ore obtained in the Guiding Lands' coral region. The energy it holds is palpable to the touch.
+1005,Guiding Reef Crystal,material,,11,,2000,,,Ore,Violet,Ore obtained in the Guiding Lands' coral region. A massive crystal formed by miraculous earthen energy.
+1006,Distorted Crystal,material,,9,,800,,,Ore,Beige,Ore obtained in the Guiding Lands' rotted region. Subterranean energy has caused the ore to crystallize.
+1007,Effluvial Crystal,material,,9,,1200,,,Ore,Beige,Ore obtained in the Guiding Lands' rotted region. Greater underground energy has yielded larger crystals.
+1008,Twilight Crystal,material,,10,,1600,,,Ore,Beige,Ore obtained in the Guiding Lands' rotted region. The energy it holds is palpable to the touch.
+1078,Guiding Effluvial Crystal,material,,11,,2000,,,Ore,Beige,Ore obtained in the Guiding Lands' rotted region. A massive crystal formed by miraculous earthen energy.
+1079,Melted Crystal,material,,9,,800,,,Ore,Red,Ore obtained in the Guiding Lands' volcanic region. Subterranean energy has caused the ore to crystallize.
+1080,Magma Crystal,material,,9,,1200,,,Ore,Red,Ore obtained in the Guiding Lands' volcanic region. Greater underground energy has yielded larger crystals.
+1081,Hellfire Crystal,material,,10,,1600,,,Ore,Red,Ore obtained in the Guiding Lands' volcanic region. The energy it holds is palpable to the touch.
+1082,Guiding Magma Crystal,material,,11,,2000,,,Ore,Red,Ore obtained in the Guiding Lands' volcanic region. A massive crystal formed by miraculous earthen energy.
+1258,Frozen Crystal,material,,9,,800,,,Ore,White,Ore obtained in the Guiding Lands' tundra region. Subterranean energy has caused the ore to crystallize.
+1259,Rime Crystal,material,,9,,1200,,,Ore,White,Ore obtained in the Guiding Lands' tundra region. Greater underground energy has yielded larger crystals.
+1260,Daybreak Crystal,material,,10,,1600,,,Ore,White,Ore obtained in the Guiding Lands' tundra region. The energy it holds is palpable to the touch.
+1261,Guiding Rime Crystal,material,,11,,2000,,,Ore,White,Ore obtained in the Guiding Lands' tundra region. A massive crystal formed by miraculous earthen energy.
+1009,Mossy Greatbone,material,,9,,800,,,Bone,Green,Bone obtained in the Guiding Lands' forest region. Subterranean energy has altered its material properties.
+1010,Woodland Greatbone,material,,9,,1200,,,Bone,Green,"Bone obtained in the Guiding Lands' forest region. Weathered as it is, its weight attests to its power."
+1045,Slumbering Greatbone,material,,10,,1600,,,Bone,Green,Bone obtained in the Guiding Lands' forest region. Its curious form suggests untold potential.
+1046,Guiding Forest Dragonbone,material,,11,,2000,,,Bone,Green,"Bone obtained in the Guiding Lands' forest region. Traces of a bygone overlord, drawn by an unknown force."
+1011,Weathered Cragbone,material,,9,,800,,,Bone,Beige,Bone obtained in the Guiding Lands' wildspire region. Subterranean energy has altered its material properties.
+1012,Wasteland Cragbone,material,,9,,1200,,,Bone,Beige,"Bone obtained in the Guiding Lands' wildspire region. Weathered as it is, its weight attests to its power."
+1013,Tempered Cragbone,material,,10,,1600,,,Bone,Beige,Bone obtained in the Guiding Lands' wildspire region. Its curious form suggests untold potential.
+1014,Guiding Wasteland Dragonbone,material,,11,,2000,,,Bone,Beige,"Bone obtained in the Guiding Lands' wildspire region. Traces of a bygone overlord, drawn by an unknown force."
+1015,Vivid Crimsonbone,material,,9,,800,,,Bone,Pink,Bone obtained in the Guiding Lands' coral region. Subterranean energy has altered its material properties.
+1016,Coral Crimsonbone,material,,9,,1200,,,Bone,Pink,"Bone obtained in the Guiding Lands' coral region. Weathered as it is, its weight attests to its power."
+1083,Vibrant Crimsonbone,material,,10,,1600,,,Bone,Pink,Bone obtained in the Guiding Lands' coral region. Its curious form suggests untold potential.
+1017,Guiding Reef Dragonbone,material,,11,,2000,,,Bone,Pink,"Bone obtained in the Guiding Lands' coral region. Traces of a bygone overlord, drawn by an unknown force."
+1018,Malformed Frenzybone,material,,9,,800,,,Bone,Beige,Bone obtained in the Guiding Lands' rotted region. Subterranean energy has altered its material properties.
+1019,Effluvial Frenzybone,material,,9,,1200,,,Bone,Beige,"Bone obtained in the Guiding Lands' rotted region. Weathered as it is, its weight attests to its power."
+1020,Afflicted Frenzybone,material,,10,,1600,,,Bone,Beige,Bone obtained in the Guiding Lands' rotted region. Its curious form suggests untold potential.
+1084,Guiding Rotted Dragonbone,material,,11,,2000,,,Bone,Beige,"Bone obtained in the Guiding Lands' rotted region. Traces of a bygone overlord, drawn by an unknown force."
+1085,Simmering Wildbone,material,,9,,800,,,Bone,Red,Bone obtained in the Guiding Lands' volcanic region. Subterranean energy has altered its material properties.
+1086,Volcanic Wildbone,material,,9,,1200,,,Bone,Red,"Bone obtained in the Guiding Lands' volcanic region. Weathered as it is, its weight attests to its power."
+1087,Dragonscorched Wildbone,material,,10,,1600,,,Bone,Red,Bone obtained in the Guiding Lands' volcanic region. Its curious form suggests untold potential.
+1088,Guiding Volcanic Dragonbone,material,,11,,2000,,,Bone,Red,"Bone obtained in the Guiding Lands' volcanic region. Traces of a bygone overlord, drawn by an unknown force."
+1262,Hoary Icebone,material,,9,,800,,,Bone,Blue,Bone obtained in the Guiding Lands' tundra region. Subterranean energy has altered its material properties.
+1263,Tundra Icebone,material,,9,,1200,,,Bone,Blue,"Bone obtained in the Guiding Lands' tundra region. Weathered as it is, its weight attests to its power."
+1264,Everfrost Icebone,material,,10,,1600,,,Bone,Blue,Bone obtained in the Guiding Lands' tundra region. Its curious form suggests untold potential.
+1265,Guiding Tundra Dragonbone,material,,11,,2000,,,Bone,Blue,"Bone obtained in the Guiding Lands' tundra region. Traces of a bygone overlord, drawn by an unknown force."
+1021,Fierce Dragonvein Bone,material,,9,,2000,,,Bone,DarkRed,Bone obtained from large monsters in the Guiding Lands. Visibly stronger for having absorbed earthen energy.
+1022,Heavy Dragonvein Bone,material,,9,,2500,,,Bone,Gray,Bone obtained from large monsters in the Guiding Lands. Notably heavier for having absorbed earthen energy.
+1023,Dragonvein Solidbone,material,,10,,3000,,,Bone,Beige,Bone obtained from large monsters in the Guiding Lands. Strong as steel after absorbing earthen energy.
+1024,Elder Dragonvein Bone,material,,11,,3500,,,Bone,Violet,Bone obtained from elder dragons in the Guiding Lands. More imposing for having absorbed earthen energy.
+1089,Spiritvein Slogbone,material,,9,,4000,,,Bone,Gray,Bone obtained from tempered monsters in the Guiding Lands. Imbued with the same power as a streamstone.
+1047,Spiritvein Solidbone,material,,10,,4500,,,Bone,Beige,Bone obtained from tempered monsters in the Guiding Lands. Drew in earthen energy to slake its endless thirst.
+1048,Elder Spiritvein Bone,material,,11,,5000,,,Bone,Violet,Bone obtained from tempered monsters in the Guiding Lands. Proof of their status as true masters of the land.
+1090,Spiritvein Gem Shard,material,,10,,7000,,,Streamstone,White,Gem obtained from tempered monsters in the Guiding Lands. Even a tiny sliver holds miraculous potential.
+1091,Spiritvein Gem,material,,11,,14000,,,Streamstone,White,Gem obtained from tempered monsters in the Guiding Lands. Raw subterranean power given form.
+1092,Great Spiritvein Gem,material,,11,,21000,,,Streamstone,White,Gem obtained from tempered monsters in the Guiding Lands. Rife with power from the dawn of creation.
+1093,Rugged Mane,material,,9,,2000,,,Body,Gold,Very rare Great Jagras material. The Guiding Lands' energy fortifies the monsters living there.
+1094,Colorful Plume,material,,9,,2000,,,Body,Orange,Very rare Kulu-Ya-Ku material. The Guiding Lands' energy fortifies the monsters living there.
+1095,Fragrant Poison Sac,material,,9,,2000,,,Sac,Lime,Very rare Pukei-Pukei material. The Guiding Lands' energy fortifies the monsters living there.
+1096,Tempered Poison Sac,material,,9,,4000,,,Sac,Lime,Very rare Tempered Pukei-Pukei material. A product of the brutal power struggle in the Guiding Lands.
+1097,Hydrated Sac,material,,9,,2500,,,Sac,Orange,Very rare Coral Pukei-Pukei material. The Guiding Lands' energy fortifies the monsters living there.
+1098,Tempered Torrent Sac,material,,9,,4500,,,Sac,Orange,Very rare Tempered Coral Pukei-Pukei material. A product of the brutal power struggle in the Guiding Lands.
+1099,Muddy Crown,material,,9,,2000,,,Jaw,Beige,Very rare Barroth material. The Guiding Lands' energy fortifies the monsters living there.
+1100,Tempered Crown,material,,9,,4000,,,Jaw,Beige,Very rare Tempered Barroth material. A product of the brutal power struggle in the Guiding Lands.
+1101,Blinding Cathode,material,,9,,2000,,,Body,Cyan,Very rare Tobi-Kadachi material. The Guiding Lands' energy fortifies the monsters living there.
+1102,Tempered Cathode,material,,9,,4000,,,Body,Cyan,Very rare Tempered Tobi-Kadachi material. A product of the brutal power struggle in the Guiding Lands.
+1266,Enticing Viperthorn,material,,9,,2500,,,Body,Orange,Very rare Viper Tobi-Kadachi material. The Guiding Lands' energy fortifies the monsters living there.
+1267,Tempered Viperthorn,material,,9,,4500,,,Body,Orange,Very rare Tempered Viper Tobi-Kadachi material. A product of the brutal power struggle in the Guiding Lands.
+1103,Ancient Great Horn,material,,9,,2000,,,Fang,LightBeige,Very rare Banbaro material. The Guiding Lands' energy fortifies the monsters living there.
+1104,Tempered Great Horn,material,,9,,4000,,,Fang,LightBeige,Very rare Tempered Banbaro material. A product of the brutal power struggle in the Guiding Lands.
+1105,Flickering Flamepelt,material,,9,,2500,,,Hide,Pink,Very rare Anjanath material. The Guiding Lands' energy fortifies the monsters living there.
+1106,Tempered Flamepelt,material,,9,,4500,,,Hide,Pink,Very rare Tempered Anjanath material. A product of the brutal power struggle in the Guiding Lands.
+1107,Crackling Thunderpelt,material,,10,,3500,,,Hide,White,Very rare Fulgur Anjanath material. The Guiding Lands' energy fortifies the monsters living there.
+1108,Tempered Thunderpelt,material,,10,,5500,,,Hide,White,Very rare Tempered Fulgur Anjanath material. A product of the brutal power struggle in the Guiding Lands.
+1109,Queen's Scale,material,,9,,2500,,,Scale,Green,Very rare Rathian material. The Guiding Lands' energy fortifies the monsters living there.
+1055,Tempered Green Scale,material,,9,,4500,,,Scale,Green,Very rare Tempered Rathian material. A product of the brutal power struggle in the Guiding Lands.
+1110,Pink Scale,material,,9,,2500,,,Scale,Pink,Very rare Pink Rathian material. The Guiding Lands' energy fortifies the monsters living there.
+1056,Tempered Pink Scale,material,,9,,4500,,,Scale,Pink,Very rare Tempered Pink Rathian material. A product of the brutal power struggle in the Guiding Lands.
+1111,Dazzling Photophore+,material,,9,,2000,,,Body,Blue,Very rare Tzitzi-Ya-Ku material. The Guiding Lands' energy fortifies the monsters living there.
+1112,Rubbery Shell,material,,9,,2500,,,Carapace,Pink,Very rare Paolumu material. The Guiding Lands' energy fortifies the monsters living there.
+1113,Tempered Rubbery Shell,material,,9,,4500,,,Carapace,Pink,Very rare Tempered Paolumu material. A product of the brutal power struggle in the Guiding Lands.
+1114,Obsidian Fur,material,,9,,2500,,,Hide,Violet,Very rare Nightshade Paolumu material. The Guiding Lands' energy fortifies the monsters living there.
+1115,Tempered Hide,material,,9,,4500,,,Hide,Violet,Very rare Tempered Nightshade Paolumu material. A product of the brutal power struggle in the Guiding Lands.
+1116,Night Hood,material,,9,,2000,,,Body,Gray,Very rare Great Girros material. The Guiding Lands' energy fortifies the monsters living there.
+1117,Inkstained Oilshell+,material,,9,,2500,,,Body,White,Very rare Radobaan material. The Guiding Lands' energy fortifies the monsters living there.
+1118,Tempered Oilshell+,material,,9,,4500,,,Body,White,Very rare Tempered Radobaan material. A product of the brutal power struggle in the Guiding Lands.
+1119,Heavy Jaw,material,,9,,2000,,,Jaw,Blue,Very rare Dodogama material. The Guiding Lands' energy fortifies the monsters living there.
+1120,Incandescent Magmafin,material,,10,,3000,,,Body,Gray,Very rare Lavasioth material. The Guiding Lands' energy fortifies the monsters living there.
+1121,Tempered Magmafin,material,,10,,5000,,,Body,Gray,Very rare Tempered Lavasioth material. A product of the brutal power struggle in the Guiding Lands.
+1122,Metallic Scute,material,,10,,3000,,,Body,Gold,Very rare Uragaan material. The Guiding Lands' energy fortifies the monsters living there.
+1123,Tempered Scute,material,,10,,5000,,,Body,Gold,Very rare Tempered Uragaan material. A product of the brutal power struggle in the Guiding Lands.
+1281,Coldblooded Icefang,material,,10,,3000,,,Fang,Orange,Very rare Barioth material. The Guiding Lands' energy fortifies the monsters living there.
+1280,Tempered Icefang,material,,10,,5000,,,Fang,Orange,Very rare Tempered Barioth material. A product of the brutal power struggle in the Guiding Lands.
+1124,Sinister Silverpelt,material,,10,,4500,,,Body,White,Very rare Yian Garuga material. The Guiding Lands' energy fortifies the monsters living there.
+1125,Tempered Silverpelt,material,,10,,6500,,,Body,White,Very rare Scarred Yian Garuga material. A product of the brutal power struggle in the Guiding Lands.
+1126,Smooth Icehide,material,,10,,3000,,,Hide,Blue,Very rare Legiana material. The Guiding Lands' energy fortifies the monsters living there.
+1127,Tempered Icehide,material,,10,,5000,,,Hide,Blue,Very rare Tempered Legiana material. A product of the brutal power struggle in the Guiding Lands.
+1268,Crystal Frozenhide,material,,10,,3500,,,Hide,White,Very rare Shrieking Legiana material. The Guiding Lands' energy fortifies the monsters living there.
+1269,Tempered Frosthide,material,,10,,5500,,,Hide,White,Very rare Tempered Shrieking Legiana material. A product of the brutal power struggle in the Guiding Lands.
+1128,Fatal Rendclaw,material,,10,,3000,,,Fang,DarkRed,Very rare Odogaron material. The Guiding Lands' energy fortifies the monsters living there.
+1129,Tempered Rendclaw,material,,10,,5000,,,Fang,DarkRed,Very rare Tempered Odogaron material. A product of the brutal power struggle in the Guiding Lands.
+1130,Soulrender Talon,material,,10,,3500,,,Fang,White,Very rare Ebony Odogaron material. The Guiding Lands' energy fortifies the monsters living there.
+1131,Tempered Talon,material,,10,,5500,,,Fang,White,Very rare Tempered Ebony Odogaron material. A product of the brutal power struggle in the Guiding Lands.
+1132,King's Scale,material,,10,,3000,,,Scale,Red,Very rare Rathalos material. The Guiding Lands' energy fortifies the monsters living there.
+1057,Tempered Red Scale,material,,10,,5000,,,Scale,Red,Very rare Tempered Rathalos material. A product of the brutal power struggle in the Guiding Lands.
+1133,Azure Scale,material,,10,,3500,,,Scale,Blue,Very rare Azure Rathalos material. The Guiding Lands' energy fortifies the monsters living there.
+1058,Tempered Azure Scale,material,,10,,5500,,,Scale,Blue,Very rare Tempered Azure Rathalos material. A product of the brutal power struggle in the Guiding Lands.
+1134,Twisted Bravehorn,material,,10,,3000,,,Fang,DarkBeige,Very rare Diablos material. The Guiding Lands' energy fortifies the monsters living there.
+1135,Twisted Temperhorn,material,,10,,5000,,,Fang,DarkBeige,Very rare Tempered Diablos material. A product of the brutal power struggle in the Guiding Lands.
+1136,Blackcurl Tyranthorn,material,,10,,3500,,,Fang,Gray,Very rare Black Diablos material. The Guiding Lands' energy fortifies the monsters living there.
+1137,Blackcurl Temperhorn,material,,10,,5500,,,Fang,Gray,Very rare Tempered Black Diablos material. A product of the brutal power struggle in the Guiding Lands.
+1138,Assassin Cutwing,material,,10,,3000,,,Wing,Gray,Very rare Nargacuga material. The Guiding Lands' energy fortifies the monsters living there.
+1139,Tempered Cutwing,material,,10,,5000,,,Wing,Gray,Very rare Tempered Nargacuga material. A product of the brutal power struggle in the Guiding Lands.
+1140,Smoldering Tailedge,material,,10,,3000,,,Tail,White,Very rare Glavenus material. The Guiding Lands' energy fortifies the monsters living there.
+1141,Tempered Tailedge,material,,10,,5000,,,Tail,White,Very rare Tempered Glavenus material. A product of the brutal power struggle in the Guiding Lands.
+1142,Honed Tailblade,material,,10,,3500,,,Tail,Cyan,Very rare Acidic Glavenus material. The Guiding Lands' energy fortifies the monsters living there.
+1143,Tempered Tailblade,material,,10,,5500,,,Tail,Cyan,Very rare Tempered Acidic Glavenus material. A product of the brutal power struggle in the Guiding Lands.
+1144,Glossy Ebonshell,material,,10,,3000,,,Body,Blue,Very rare Brachydios material. The Guiding Lands' energy fortifies the monsters living there.
+1145,Tempered Ebonshell,material,,10,,5000,,,Body,Blue,Very rare Tempered Brachydios material. A product of the brutal power struggle in the Guiding Lands.
+1146,Strongman's Jaw,material,,10,,3000,,,Jaw,Gold,Very rare Tigrex material. The Guiding Lands' energy fortifies the monsters living there.
+1147,Tempered Jaw,material,,10,,5000,,,Jaw,Gold,Very rare Tempered Tigrex material. A product of the brutal power struggle in the Guiding Lands.
+1148,Shuddering Darkjaw,material,,10,,4500,,,Jaw,Gray,Very rare Brute Tigrex material. The Guiding Lands' energy fortifies the monsters living there.
+1049,Tempered Ebonjaw,material,,10,,6500,,,Jaw,Gray,Very rare Tempered Brute Tigrex material. A product of the brutal power struggle in the Guiding Lands.
+1149,Charged Deathly Shocker,material,,10,,4500,,,Carapace,Cyan,Very rare Zinogre material. The Guiding Lands' energy fortifies the monsters living there.
+1150,Tempered Shocker,material,,10,,6500,,,Carapace,Cyan,Very rare Tempered Zinogre material. A product of the brutal power struggle in the Guiding Lands.
+1151,Crimson Blastscale,material,,11,,4000,,,Scale,White,Very rare Seething Bazelgeuse material. The Guiding Lands' energy fortifies the monsters living there.
+1152,Tempered Blastscale,material,,11,,6000,,,Scale,White,Very rare Tempered Seething Bazelgeuse material. A product of the brutal power struggle in the Guiding Lands.
+1153,Bloodstained Ebonhide,material,,11,,4000,,,Hide,DarkGreen,Very rare Savage Deviljho material. The Guiding Lands' energy fortifies the monsters living there.
+1154,Spattered Hide,material,,11,,6000,,,Hide,DarkGreen,Very rare Tempered Savage Deviljho material. A product of the brutal power struggle in the Guiding Lands.
+1155,Solemn Azure Horn,material,,11,,4000,,,Fang,Blue,Very rare Kirin material. The Guiding Lands' energy fortifies the monsters living there.
+1156,Tempered Azure Horn,material,,11,,6000,,,Fang,Blue,Very rare Tempered Kirin material. A product of the brutal power struggle in the Guiding Lands.
+1157,Hellfire Mane,material,,11,,4000,,,Body,Red,Very rare Teostra material. The Guiding Lands' energy fortifies the monsters living there.
+1158,Tempered Crimson Mane,material,,11,,6000,,,Body,Red,Very rare Tempered Teostra material. A product of the brutal power struggle in the Guiding Lands.
+1159,Stormcall Steelwing,material,,11,,4000,,,Wing,Gray,Very rare Kushala Daora material. The Guiding Lands' energy fortifies the monsters living there.
+1160,Tempered Steelwing,material,,11,,6000,,,Wing,Gray,Very rare Tempered Kushala Daora material. A product of the brutal power struggle in the Guiding Lands.
+1161,Azure Mane,material,,11,,4500,,,Body,Blue,Very rare Lunastra material. The Guiding Lands' energy fortifies the monsters living there.
+1162,Tempered Azure Mane,material,,11,,6500,,,Body,Blue,Very rare Tempered Lunastra material. A product of the brutal power struggle in the Guiding Lands.
+1163,Aurora Crownhorn,material,,11,,4000,,,Fang,Blue,Very rare Velkhana material. The Guiding Lands' energy fortifies the monsters living there.
+1164,Tempered Crownhorn,material,,11,,6000,,,Fang,Blue,Very rare Tempered Velkhana material. A product of the brutal power struggle in the Guiding Lands.
+1165,Twilight Fang,material,,11,,4000,,,Fang,White,Very rare Blackveil Vaal Hazak material. The Guiding Lands' energy fortifies the monsters living there.
+1166,Tempered Twilight Fang,material,,11,,6000,,,Fang,White,Very rare Tempered Blackveil Vaal Hazak material. A product of the brutal power struggle in the Guiding Lands.
+1167,Enchanting Finehide,material,,11,,4000,,,Hide,Violet,Very rare Namielle material. The Guiding Lands' energy fortifies the monsters living there.
+1168,Tempered Trancehide,material,,11,,6000,,,Fang,Gray,Very rare Tempered Namielle material. A product of the brutal power struggle in the Guiding Lands.
+1169,Extinction Greathorn,material,,11,,6500,,,Fang,Gray,Very rare Ruiner Nergigante material. The Guiding Lands' energy fortifies the monsters living there.
+1270,Annihilating Temperhorn,material,,11,,9000,,,Fang,Gray,Very rare Tempered Ruiner Nergigante material. A product of the brutal power struggle in the Guiding Lands.
+1170,Moonlight Scale,material,,11,,6500,,,Scale,Gold,Very rare Gold Rathian material. The Guiding Lands' energy fortifies the monsters living there.
+1271,Tempered Gold Scale,material,,11,,9000,,,Scale,Gold,Very rare Tempered Gold Rathian material. A product of the brutal power struggle in the Guiding Lands.
+1171,Scorching Scale,material,,11,,6500,,,Scale,Gray,Very rare Silver Rathalos material. The Guiding Lands' energy fortifies the monsters living there.
+1172,Tempered Silver Scale,material,,11,,9000,,,Scale,Gray,Very rare Tempered Silver Rathalos material. A product of the brutal power struggle in the Guiding Lands.
+1272,Gushing Dragonhold,material,,11,,4500,,,Carapace,Gray,Very rare Stygian Zinogre material. The Guiding Lands' energy fortifies the monsters living there.
+1273,Tempered Dragonhold,material,,11,,6500,,,Carapace,Gray,Very rare Tempered Stygian Zinogre material. A product of the brutal power struggle in the Guiding Lands.
+1173,Bloodthirsty Glimmerpelt,material,,11,,4500,,,Body,Gold,Very rare Rajang material. The Guiding Lands' energy fortifies the monsters living there.
+1174,Tempered Glimmerpelt,material,,11,,6500,,,Body,Gold,Very rare Tempered Rajang material. A product of the brutal power struggle in the Guiding Lands.
+487,Voucher,material,,4,,500,,,Voucher,Gray,Redeem this for a special meal with stronger effects than usual.
+1228,Gourmet Voucher,material,,5,,1000,,,Voucher,Gold,"The ultimate ticket, granting you a free meal using only the freshest of ingredients."
+488,First Wyverian Print,material,,4,,,,,Voucher,Green,"A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot."
+489,Deluxe First Wyverian Print,material,,4,,,,,Voucher,Green,"A ticket with a handprint, used by the First Wyverians. You can exchange it for items at the Melding Pot."
+1229,Sublime First Wyverian Print,material,,6,,,,,Voucher,Red,"A ticket with a handprint, used by the First Wyverians. Exchange it for useful items at the Melding Pot."
+490,Steel Wyverian Print,material,,4,,,,,Voucher,DarkBeige,"A ticket with a handprint, used by the First Wyverians. Exchange it for materials at the Melding Pot."
+491,Silver Wyverian Print,material,,4,,,,,Voucher,White,"A ticket with a handprint, used by the First Wyverians. Exchange it for rare materials at the Melding Pot."
+492,Gold Wyverian Print,material,,4,,,,,Voucher,Gold,"A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot."
+1230,Celestial Wyverian Print,material,,9,,,,,Voucher,Cyan,"A ticket with a handprint, used by the First Wyverians. Exchange it for very rare materials at the Melding Pot."
+1231,Steel Melding Ticket,material,,6,,10,,,Voucher,Gray,A ticket with a peculiar melding recipe printed on it. Give it to the Seliana Melder and...!?
+1232,Silver Melding Ticket,material,,7,,50,,,Voucher,White,A ticket with a special melding recipe printed on it. Give it to the Seliana Melder and...!?
+1233,Gold Melding Ticket,material,,10,,100,,,Voucher,Gold,A ticket with a surprising melding recipe printed on it. Give it to the Seliana Melder and...!?
+1234,Astral Melding Ticket,material,,11,,500,,,Voucher,Cyan,A ticket with a miraculous melding recipe printed on it. Give it to the Seliana Melder and...!?
+495,Commendation,material,,5,,,,,Voucher,Beige,A ticket awarded for demonstrating courage. Collect them and something wonderful may happen!
+496,High Commendation,material,,7,,,,,Voucher,Beige,A ticket awarded for demonstrating tremendous courage. Collect them and something wonderful may happen!
+1025,Conqueror's Seal,material,,9,,,,,Voucher,Beige,A prize claimed only by those who have overcome myriad trials. Proves the bearer's valor beyond question.
+497,Research Commission Ticket,material,,7,,,,,Voucher,Cyan,A ticket issued by the commander to those who have aided the Research Commission. Show it to the Smithy!
+1026,Research Commission Ticket+,material,,11,,,,,Voucher,Cyan,A ticket issued by the commander to those who greatly aid the Research Commission. Show it to the Smithy!
+493,Tailraider Voucher,material,,4,,200,,,Voucher,LightBeige,Proof of friendship with the Lynians of the new continent. Show it to the Smithy and see what happens!
+494,Gajalaka Sketch,material,,4,,200,,,Voucher,LightBeige,Proof of friendship with the Gajalaka tribes of the new continent. Show it to the Smithy and see what happens!
+1027,Boaboa Ticket,material,,9,,500,,,Voucher,LightBeige,Proof of friendship with the Lynians of the Hoarfrost Reach. Show it to the Smithy and see what happens!
+510,Spring Blossom Ticket,material,,4,,200,,,Voucher,Pink,A ticket you receive for attending the Spring Blossom Fest. Can be exchanged for special equipment or fireworks.
+511,Summer Twilight Ticket,material,,4,,200,,,Voucher,Blue,A ticket you receive for attending the Summer Twilight Fest. Can be exchanged for special equipment or fireworks.
+512,Autumn Harvest Ticket,material,,4,,200,,,Voucher,Beige,A ticket you receive for attending the Autumn Harvest Fest. Can be exchanged for special equipment or fireworks.
+513,Winter Star Ticket,material,,4,,200,,,Voucher,White,A ticket you receive for attending the Winter Star Fest. Can be exchanged for special equipment or fireworks.
+514,Appreciation Ticket,material,,4,,200,,,Voucher,Gold,A ticket you receive for attending the Appreciation Fest. Can be exchanged for special equipment or fireworks.
+515,Spring Insect Field Guide,material,,4,,200,,,Book,Pink,A field guide containing must-know info about Great Hornflies. Show it to the Smithy for a...novel armor set.
+516,Summer Insect Field Guide,material,,4,,200,,,Book,Gold,A field guide containing new info about Great Hornflies. Show it to the smithy for a...novel armor set.
+517,Vaal Hazak Ticket,material,,8,,800,,,Voucher,Gray,"A ticket bearing Vaal Hazak, engulfed in eternal darkness. Redeem at the Smithy to make novel equipment."
+518,Kirin Ticket,material,,8,,800,,,Voucher,White,"A ticket bearing Kirin, caressed by lightning. Redeem at the Smithy to make novel equipment."
+654,Teostra Ticket,material,,8,,800,,,Voucher,Red,"A ticket bearing Teostra, ruling over purgatory. Redeem at the Smithy to make novel equipment."
+655,Lunastra Ticket,material,,8,,800,,,Voucher,Blue,"A ticket with Lunastra and Teostra, roaring in unison. Redeem at the Smithy for special equipment."
+656,Kushala Daora Ticket,material,,8,,800,,,Voucher,Gray,"A ticket bearing Kushala Daora, commanding the winds. Redeem at the Smithy to make novel equipment."
+672,Nergigante Ticket,material,,8,,800,,,Voucher,Gray,"A ticket bearing Nergigante, utter destruction incarnate. Redeem at the Smithy to make novel equipment."
+657,Zorah Magdaros Ticket,material,,8,,800,,,Voucher,Gray,"A ticket bearing Zorah, trampling over the New World. Redeem at the Smithy to make novel equipment."
+658,Xeno'jiiva Ticket,material,,8,,800,,,Voucher,White,"A ticket bearing Xeno'jiiva, elder dragon transcended. Redeem at the Smithy to make novel equipment."
+1298,Namielle Ticket,material,,12,,1600,,,Voucher,Violet,"A ticket bearing Namielle, master of the torrent. Redeem at the Smithy to make novel equipment."
+1336,Velkhana Ticket,material,,12,,1600,,,Voucher,Blue,
+1337,Zinogre Ticket,material,,10,,800,,,Vocuher,Cyan,
+1338,Brute Tigrex Ticket,material,,10,,800,,,Voucher,Gray,
+1308,Frostfang Ticket,material,,11,,1400,,,Voucher,Gray,Proof that you've hunted a tempered Frostfang Barioth. Bring it to the Smithy for a nice surprise!
+519,Black Bandage,material,,6,,400,,,Question,Gray,Cloth made from the glossy black hide of a monster. Not obtainable by normal means.
+520,Black Crystal Ticket,material,,6,,400,,,Voucher,Gray,A ticket you can trade for a crystal that emits a darkness-sucking light. Not obtainable by normal means.
+531,First Fleet Ticket,material,,4,,400,,,Voucher,Red,A ticket with the First Fleet's flag and emblem. Redeem at the Smithy for something nice!?
+680,Beetle Ticket,material,,4,,400,,,Voucher,Green,A ticket with the heroic black ruler drawn on it. Redeem at the Resource Center for something nice!?
+523,Mega Man Ticket,material,,6,,400,,,Voucher,Blue,A ticket for a special Mega Man tie-in. Gives you access to special 8-bit retro Palico equipment.
+524,Azure Star Shard,material,,4,,200,,,Ore,Blue,"Special material given to those who complete USJ's challenge. Glows a beautiful, transparent blue."
+525,Azure Stargem,material,,6,,400,,,Gem,Blue,Special material for those who overcome the USJ challenge. Shines a miraculous blue.
+526,Red Orb,material,,8,,800,,,Gem,Red,Blood of demonic beings condensed into stone. Can be used to craft stylish devil hunter equipment.
+527,Master Craftsman's Blueprint,material,,6,,800,,,Voucher,Gray,"A blueprint for a revolutionary Great Sword, designed by a famed craftsman."
+528,Bushi Ticket,material,,4,,400,,,Voucher,Red,A voucher given to those who assisted in the special investigation. Be sure to show it to the Resource Center!
+678,Glamour Prism,material,,8,,800,,,Streamstone,Violet,A strange stone that projects illusions. Show this to the Resource Center and...!?
+679,Senu's Feather,material,,4,,400,,,Question,LightBeige,"A feather from Senu, loyal to an assassin who stands against injustice and oppression. Show it to the Smithy."
+529,Downy Crake Ticket,material,,4,,400,,,Voucher,White,A ticket with a pair of Downy Crakes drawn on it. Redeem at the Smithy for something nice!?
+530,Bristly Crake Ticket,material,,4,,400,,,Voucher,Green,A ticket with a large Bristly Crake drawn on it. Redeem at the Smithy for something nice!?
+521,Kulu-Ya-Ku Ticket,material,,6,,400,,,Voucher,LightBeige,A ticket given to those who help with Kulu-Ya-Ku research. Includes a very accurate sketch.
+522,Wiggler Ticket,material,,6,,400,,,Voucher,Blue,A ticket given to those who help with Wiggler research. Comes with a rough sketch from a researcher.
+675,Faux Ticket,material,,4,,400,,,Voucher,Gold,A ticket with a Mosswine and Felyne drawn on it. Redeem at the Resource Center for something nice!?
+676,Faux Ticket II,material,,4,,400,,,Voucher,Cyan,A ticket with a Wiggler and eyepatch drawn on it. Redeem at the Resource Center for something nice!?
+677,Faux Ticket III,material,,4,,400,,,Voucher,LightBeige,A ticket with a Kulu-Ya-Ku drawn on it. Redeem at the Resource Center for something nice!?
+1028,Thermae Ticket,material,,9,,,,,Voucher,LightBeige,A ticket issued to the most fervent of hot springs fanatics. Bring it to the Smithy for a nice surprise!
+1029,Steam Ticket,material,,11,,,,,Voucher,Gray,A ticket issued by the Tech Chief to those who support the Steamworks. Show it to the Smithy!
+1030,Joyful Ticket,material,,9,,400,,,Voucher,Orange,A ticket you receive for attending the Holiday Joy Fest. Exchange it for special equipment or items.
+1175,VIP Joyful Ticket,material,,12,,10000,,,Voucher,Orange,A rare ticket obtained during the Holiday Joy Fest. Can be used to craft layered armor and charms.
+1031,Gratitude Ticket,material,,9,,400,,,Voucher,Blue,A ticket you receive for attending the Grand Appreciation Fest. Exchange it for special equipment or items.
+1176,VIP Gratitude Ticket,material,,12,,10000,,,Voucher,Blue,A rare ticket obtained during the Grand Appreciation Fest. Can be used to craft layered armor and charms.
+1290,Full Bloom Ticket,material,,9,,400,,,Voucher,DarkRed,A ticket you receive for attending the Full Bloom Fest. Can be exchanged for special equipment or items.
+1331,VIP Full Bloom Ticket,material,,12,,10000,,,Voucher,DarkRed,
+1332,Sizzling Spice Ticket,material,,9,,400,,,Voucher,Orange,
+1333,VIP Sizzling Spice Ticket,material,,12,,10000,,,Voucher,Orange,
+1334,Fun Fright Ticket,material,,9,,400,,,Voucher,Violet,
+1335,VIP Fun Fright Ticket,material,,12,,10000,,,Voucher,Violet,
+1050,Freezer Ticket,material,,9,,500,,,Voucher,Blue,Named for the new Hoarfrost Reach invention that keeps food cold! Bring it to the Smithy for a nice surprise!
+1032,Pearlspring Ticket,material,,9,,500,,,Voucher,White,A ticket featuring a Pearlspring Macaque bathing in a spring. Bring it to the Smithy for a nice surprise!
+1177,Black Eagle Blueprint,material,,10,,800,,,Voucher,Blue,"A blueprint left by the Black Eagle, an elder dragon-obsessed hunter. Show it to the Smithy and see what happens!"
+1178,Wiggler Pot,material,,9,,500,,,Question,Gold,"Lynians crafted this pot to house Wigglers, hence its name. Show it to the Smithy and see what happens!"
+1208,S.T.A.R.S. Badge,material,,12,,1500,,,Coin,Gold,"A special badge for R.P.D.'s special forces division, S.T.A.R.S. Traded for special gear and decor."
+1033,Penguin Ticket,material,,10,,800,,,Voucher,White,A pair of Duffel Penguins adorn this ticket. Their expression is unreadable. Show it to the Smithy!
+1034,Sealed Dragon Cloth,material,,10,,800,,,Voucher,DarkRed,"A cloth used to seal the corpse of a dreaded elder dragon. Truth or lie, the ominousness is palatable."
+1179,Buff Ticket,material,,10,,800,,,Voucher,DarkBeige,The product of you defining those muscles and getting pumped up! Show it to the Smithy!
+1051,Pickaxe Ticket,material,,10,,800,,,Voucher,Gray,Blueprints for hunters who need a handy companion when searching for rare ores. Show it to the Smithy!
+1035,Wyverian Ticket,material,,10,,800,,,Voucher,Green,Proof of your friendly relations with the Wyverians. A mysterious seal is printed on it. Show it to the Smithy!
+1052,Fest Ticket,material,,10,,800,,,Voucher,Gold,"A gold foil leaf ticket, used as decoration for the guild's festivals. Bring it to the Smithy and...!?"
+1053,Unity Symbol,material,,10,,800,,,Voucher,Red,Recent good tidings from friends the world over. They speak of unreal tales! Show it to the Smithy!
+1054,Meaty Canteen Ticket,material,,10,,800,,,Voucher,DarkBeige,"The chef's cooked up a juicy and beefy meal, just for you! Show this order to the Smithy!"
+1329,Azure Era Seal,material,,11,,1000,,,Voucher,Blue,
+1330,Large Azure Era Gem,material,,12,,1500,,,Gem,Blue,
+1291,Whetfish Ticket,material,,10,,800,,,Voucher,Gold,"A ticket from the Piscine Researcher, with various Whetfish prints. Show it to the Smithy and see what happens!"
+1299,Downy Crake Ticket II,material,,10,,800,,,Voucher,Gray,"A ticket featuring an adult Downy Crake, drawn with care. Show it to the Smithy and see what happens!"
+1318,Shepherd Hare Ticket,material,,10,,800,,,Voucher,Beige,
+1319,Spirited Canteen Ticket,material,,10,,800,,,Voucher,Yellow,
+1320,Goldspring Ticket,material,,10,,800,,,Voucher,Gold,
+1321,Herbivore Ticket I,material,,10,,800,,,Voucher,Green,
+1322,Herbivore Ticket II,material,,10,,800,,,Voucher,Beige,
+1323,Inner Eye Ticket,material,,10,,1600,,,Voucher,Beige,
+1324,Black Bandana,material,,10,,800,,,Question,Gray,
+1325,Scarf Ticket,material,,10,,800,,,Voucher,Cyan,
+1326,Buff Ticket+,material,,12,,1600,,,Voucher,Beige,
+1327,Chocolate,material,,10,,800,,,Question,Beige,
+1328,Artemis's Notebook,material,,11,,800,,,Book,Beige,
+498,Pukei Coin,material,,4,,500,,,Coin,Lime,A coin given to those who have bested a Pukei-Pukei in the Arena.
+499,Kulu Coin,material,,4,,500,,,Coin,LightBeige,A coin given to those who have bested a Kulu-Ya-Ku in the Arena.
+500,Rathian Coin,material,,4,,500,,,Coin,Green,A coin given to those who have bested a Rathian in the Arena.
+501,Tzitzi Coin,material,,4,,800,,,Coin,Blue,A coin given to those who have bested a Tzitzi-Ya-Ku in the Arena.
+502,Barroth Coin,material,,4,,800,,,Coin,Beige,A coin given to those who have bested a Barroth in the Arena.
+503,Gama Coin,material,,4,,800,,,Coin,Blue,A coin given to those who have bested a Dodogama in the Arena.
+504,Rathalos Coin,material,,4,,800,,,Coin,Red,A coin given to those who have bested a Rathalos in the Arena.
+505,Brute Coin,material,,4,,1500,,,Coin,White,A coin given to those who have bested multiple brute wyverns at the same time in the Arena.
+506,Flying Coin,material,,4,,1500,,,Coin,DarkBeige,A coin given to those who have bested multiple flying wyverns at the same time in the Arena.
+507,Pinnacle Coin,material,,4,,800,,,Coin,Red,A commemorative coin bestowed on hunters who have mastered the craft. The value of its sheen? Priceless.
+508,Hunter King Coin,material,,6,,1200,,,Coin,White,A silver coin given to true hunters. It shines with all the glory of the Hunter King.
+509,Ace Hunter Coin,material,,8,,2000,,,Coin,Gold,A golden coin given to hunters at the pinnacle of their field. Only a small handful ever know such honor.
+1036,Banbaro Coin,material,,9,,1200,,,Coin,DarkBeige,A coin given to those who have bested a Banbaro in the master rank Arena.
+1037,Paolumu Coin,material,,9,,1200,,,Coin,White,A coin given to those who have bested a Paolumu in the master rank Arena.
+1038,Nargacuga Coin,material,,9,,1200,,,Coin,Gray,A coin given to those who have bested a Nargacuga in the master rank Arena.
+1039,Glavenus Coin,material,,9,,1200,,,Coin,DarkRed,A coin given to those who have bested a Glavenus in the master rank Arena.
+1040,Odogaron Coin,material,,9,,1200,,,Coin,DarkRed,A coin given to those who have bested a Odogaron in the master rank Arena.
+1041,Zinogre Coin,material,,9,,1200,,,Coin,Cyan,A coin given to those who have bested a Zinogre in the master rank Arena.
+1042,Black Belt Coin,material,,9,,1500,,,Coin,Gray,A black coin with an abyssal gleam awarded to those who complete master rank Arena quests.
+1043,Hero King Coin,material,,10,,2000,,,Coin,Gold,A gleaming golden coin awarded to those who complete especially tough master rank Arena quests.
+1044,Tigrex Coin,material,,11,,5000,,,Coin,DarkBeige,A coin given to those who have bested a Tigrex in the master rank Arena.
+1274,Dragonforce Chunk,material,,12,,1000,,,Question,Red,"A fragment carved from Safi'jiiva. Has an otherworldly feel, as if power is being born within. (Appraised after assignment)"
+532,Watcher Lens,material,,,,,,,Question,Gray,
+533,Nora Brave Trophy,material,,,,,,,Bone,Gold,
+534,SFV Ticket,material,,4,,200,,,Voucher,White,
+535,SFV Ticket III,material,,6,,400,,,Voucher,Blue,
+536,SFV Ticket II,material,,6,,400,,,Voucher,Red,
+537,Steel Egg,material,trade,4,,1000,,,Egg,Gray,"An egg of glittering steel. Valuable and rare, but of no use to a hunter. (Trade-in Item)"
+538,Silver Egg,material,trade,4,,10000,,,Egg,White,"An egg of glittering silver. Valuable and rare, but of no use to a hunter. (Trade-in Item)"
+539,Golden Egg,material,trade,4,,20000,,,Egg,Gold,"An egg of glittering gold. Super valuable and rare, but of no use to a hunter. (Trade-in Item)"
+540,Chipped Scale,material,trade,4,,500,,,Scale,Gray,"Acquired by using the Bandit Mantle. Chipped, but still prized by collectors. (Trade-in Item)"
+541,Large Scale,material,trade,4,,1000,,,Scale,LightBeige,Acquired by using the Bandit Mantle. Consistently popular among collectors. (Trade-in Item)
+542,Beautiful Scale,material,trade,5,,2000,,,Scale,White,Acquired by using the Bandit Mantle. In perpetual demand among collectors. (Trade-in Item)
+543,Lustrous Scale,material,trade,6,,3000,,,Scale,Cyan,Acquired by using the Bandit Mantle. A source of pride for any collector. (Trade-in Item)
+544,Glimmering Scale,material,trade,7,,5000,,,Scale,Gold,Acquired by using the Bandit Mantle. A must-have for any collector. (Trade-in Item)
+1180,Giant Scale,material,trade,9,,8000,,,Scale,LightBeige,Acquired by using the Bandit Mantle. Its size consistently amazes collectors. (Trade-in Item)
+1181,Magnificent Scale,material,trade,10,,10000,,,Scale,DarkRed,Acquired by using the Bandit Mantle. Makes any collector's mouth water. (Trade-in Item)
+545,Bhernastone,material,trade,4,,400,,,Ore,Cyan,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
+546,Dundormarin,material,trade,4,,800,,,Ore,Blue,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
+547,Loc Lac Ore,material,trade,5,,1500,,,Ore,LightBeige,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
+548,Val Habar Quartz,material,trade,6,,2000,,,Ore,White,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
+549,Minegardenite,material,trade,7,,5000,,,Ore,Gold,"An Old World import. Beautiful, but not suitable for crafting. (Trade-in Item)"
+550,Golden Scale,material,trade,4,,1000,,,Scale,Gold,The scales of a Goldenfish. They shimmer like only pure gold can. (Trade-in Item)
+551,Golden Scale+,material,trade,5,,10000,,,Scale,Gold,The scales of a Great Goldenfish. Trades at the same price as actual gold. (Trade-in Item)
+552,Platinum Scale,material,trade,4,,2000,,,Scale,White,The scales of a Platinumfish. They give off a beautiful gleam. (Trade-in Item)
+553,Platinum Scale+,material,trade,5,,20000,,,Scale,White,The scales of a Great Platinumfish. Their shine is nigh on blinding. (Trade-in Item)
+554,Gilded Scale,material,trade,4,,500,,,Scale,Gold,The scales of a Goldenfry. Used by artisans in their crafts. (Trade-in Item)
+555,Gilded Scale+,material,trade,5,,5000,,,Scale,Gold,The scales of a Great Goldenfry. Used in the very finest of crafts. (Trade-in Item)
+1239,Emerald Shell,material,trade,4,,1500,,,Carapace,Cyan,"An emerald Helmcrab carapace, every bit as lovely as its gem namesake. (Trade-in Item)"
+558,Gold Chip Fragment,material,trade,4,,300,,,Ore,Gold,A fragment that a Copper Calappa harvested from a Kulve Taroth track. (Trade-in Item)
+1240,Gold Nugget Fragment,material,trade,4,,900,,,Ore,Gold,A fragment that can only be harvested from a very heavy Taroth track. (Trade-in Item)
+556,Golden Fragment,material,trade,4,,750,,,Ore,Gold,A fragment of pure gold. It fetches a high price despite its size. (Trade-in Item)
+557,Golden Chunk,material,trade,4,,1500,,,Ore,Gold,A precious lump of gold. Its brilliance can bewitch the purest of hearts. (Trade-in Item)
+1182,Magnificent Pelt,material,trade,10,,9000,,,Hide,Gold,Acquired by using the Bandit Mantle. Makes any collector's mouth water. (Trade-in Item)
+559,Normal Ammo 1,hidden,,4,,,,,Ammo,White,"Ammo for novices. Gets the job done, but it doesn't pack much oomph."
+560,Normal Ammo 2,ammo,,2,3,1,99,,Ammo,White,Non-specialized ammo. More powerful than Normal Ammo 1. Capacity: 99
+561,Normal Ammo 3,ammo,,3,,2,99,,Ammo,White,Ammo made with high-quality gunpowder. Each shot packs considerable punch. Capacity: 99
+562,Pierce Ammo 1,ammo,,1,4,2,60,,Ammo,Blue,Armor-piercing ammo that deals multiple hits to some monsters. Capacity: 60
+563,Pierce Ammo 2,ammo,,2,8,2,60,,Ammo,Blue,High-grade armor-piercing ammo. Deals more hits than Pierce Ammo 1. Capacity: 60
+564,Pierce Ammo 3,ammo,,3,,3,60,,Ammo,Blue,Max-grade armor-piercing ammo. Deals numerous hits. Capacity: 60
+565,Spread Ammo 1,ammo,,1,4,1,80,,Ammo,DarkGreen,Ammo that covers a wide area. Deals multiple hits at close range. Capacity: 80
+566,Spread Ammo 2,ammo,,2,8,2,70,,Ammo,DarkGreen,High-grade ammo that covers a wide area. Deals more hits than Spread Ammo 1. Capacity: 70
+567,Spread Ammo 3,ammo,,3,,2,60,,Ammo,DarkGreen,Max-grade ammo that covers a wide area and deals numerous hits. Capacity: 60
+568,Sticky Ammo 1,ammo,,1,12,2,9,,Ammo,Beige,Powerful ammo that lodges in a target and explodes. Also stuns. Capacity: 9
+569,Sticky Ammo 2,ammo,,2,24,3,9,,Ammo,Beige,Very powerful ammo that lodges in a target and explodes. Also stuns. Capacity: 9
+570,Sticky Ammo 3,ammo,,3,,4,9,,Ammo,Beige,Extremely powerful ammo that lodges in a target and explodes. Also stuns. Capacity: 9
+571,Cluster Bomb 1,ammo,,2,30,6,3,,Ammo,DarkRed,Ammo that fragments into three shells upon impact. Beware of friendly fire! Capacity: 3
+572,Cluster Bomb 2,ammo,,3,60,6,3,,Ammo,DarkRed,Ammo that fragments into four shells upon impact. Beware of friendly fire! Capacity: 3
+573,Cluster Bomb 3,ammo,,4,,10,3,,Ammo,DarkRed,Ammo that fragments into five shells upon impact. Beware of friendly fire! Capacity: 3
+574,Flaming Ammo,ammo,,2,20,2,60,,Ammo,Orange,Ammo that packs a punch against monsters susceptible to fire. Capacity: 60
+575,Water Ammo,ammo,,2,20,2,60,,Ammo,DarkBlue,Ammo that packs a punch against monsters susceptible to water. Capacity: 60
+576,Thunder Ammo,ammo,,2,20,2,60,,Ammo,Gold,Ammo that packs a punch against monsters susceptible to thunder. Capacity: 60
+577,Freeze Ammo,ammo,,2,20,2,60,,Ammo,White,Ammo that packs a punch against monsters susceptible to ice. Capacity: 60
+578,Dragon Ammo,ammo,,3,,10,3,,Ammo,DarkRed,Elderseal-imbued ammo that packs a punch against monsters weak to dragon. Capacity: 3
+579,Poison Ammo 1,ammo,,2,15,2,12,,Ammo,Violet,"Poisons target, but may require several shots. Capacity: 12"
+580,Poison Ammo 2,ammo,,3,30,2,12,,Ammo,Violet,Enhanced ammo that inflicts poison. Some targets require multiple shots. Capacity: 12
+581,Paralysis Ammo 1,ammo,,2,15,3,12,,Ammo,Yellow,Ammo that causes paralysis. Some targets require multiple shots. Capacity: 12
+582,Paralysis Ammo 2,ammo,,3,30,5,8,,Ammo,Yellow,Enhanced ammo that causes paralysis. Some targets require multiple shots. Capacity: 8
+583,Sleep Ammo 1,ammo,,2,15,2,12,,Ammo,Cyan,Ammo that induces sleep. Some targets require multiple shots. Capacity: 12
+584,Sleep Ammo 2,ammo,,3,30,3,8,,Ammo,Cyan,Enhanced ammo that induces sleep. Some targets require multiple shots. Capacity: 8
+585,Exhaust Ammo 1,ammo,,2,15,3,12,,Ammo,DarkBlue,Ammo that drains a monster's stamina. Capacity: 12
+586,Exhaust Ammo 2,ammo,,3,30,5,8,,Ammo,DarkBlue,Enhanced ammo that drains a monster's stamina. Capacity: 8
+587,Recover Ammo 1,ammo,,2,8,2,12,,Ammo,Green,Ammo that restores a small amount of health to an ally upon impact. Capacity: 12
+588,Recover Ammo 2,ammo,,3,,2,12,,Ammo,Green,Ammo that restores a moderate amount of health to an ally upon impact. Capacity: 12
+589,Wyvern Ammo,ammo,,3,62,6,5,,Ammo,DarkBeige,Ammo created through years of research into Wyvern's Fire. Capacity: 5
+590,Slicing Ammo,ammo,,2,12,3,30,,Ammo,White,"Ammo that ejects sharp blades on impact, which can sever tails. Capacity: 30"
+591,Tranq Ammo,ammo,,3,45,4,8,,Ammo,Pink,Bowgun ammo used to capture monsters ensnared in traps. Capacity: 8
+592,Demon Ammo,ammo,,4,,9,5,,Ammo,Red,Ammo that fills the target with savage amounts of strength. Capacity: 5
+593,Armor Ammo,ammo,,4,,7,5,,Ammo,Beige,Ammo that makes the target's skin as hard as stone. Capacity: 5
+1183,Close-range Coating,ammo,,4,,,1,,Bottle,White,"Arrows designed to deal more damage to nearby targets, at the cost of a reduced maximum range."
+594,Power Coating,ammo,,2,20,2,50,,Bottle,Red,An arrow coating that increases the attack power of arrows. Capacity: 50
+595,Poison Coating,ammo,,3,17,2,20,,Bottle,Violet,An arrow coating that applies poison effects to arrows. Capacity: 20
+596,Paralysis Coating,ammo,,3,26,3,20,,Bottle,Yellow,An arrow coating that applies paralysis effects to arrows. Capacity: 20
+597,Sleep Coating,ammo,,3,17,2,20,,Bottle,Cyan,An arrow coating that induces sleep. Capacity: 20
+598,Blast Coating,ammo,,3,20,6,20,,Bottle,Lime,An arrow coating that applies explosive powder to arrows. Capacity: 20
+599,Mysterious Feystone,misc,appraisal,4,,,,,Feystone,Gray,A jewel that conceals faint traces of power within it. (Appraisal Item)
+600,Glowing Feystone,misc,appraisal,5,,,,,Feystone,Blue,A jewel that conceals an unknown power within it. (Appraisal Item)
+601,Worn Feystone,misc,appraisal,6,,,,,Feystone,Beige,A jewel that conceals considerable power within it. (Appraisal Item)
+602,Warped Feystone,misc,appraisal,7,,,,,Feystone,Red,A jewel that conceals a mystical power within it. (Appraisal Item)
+1066,Ancient Feystone,misc,appraisal,9,,,,,Feystone,Violet,A jewel that conceals an ancient power within it. (Appraisal Item)
+1067,Carved Feystone,misc,appraisal,10,,,,,Feystone,Green,A jewel that conceals immense power within it. (Appraisal Item)
+1068,Sealed Feystone,misc,appraisal,11,,,,,Feystone,Gold,A jewel that conceals overwhelming power within it. (Appraisal Item)
+1235,Steel Melding Feystone,misc,appraisal,6,,,,,Feystone,Gray,Unavailable
+1236,Silver Melding Feystone,misc,appraisal,7,,,,,Feystone,White,Unavailable
+1237,Gold Melding Feystone,misc,appraisal,10,,,,,Feystone,Gold,Unavailable
+1238,Astral Melding Feystone,misc,appraisal,11,,,,,Feystone,Cyan,Unavailable
+603,Sullied Streamstone,misc,appraisal,6,,,,,Streamstone,Gray,"Though dirty, this stone pulses with undeniable power. (Appraisal Item)"
+604,Shining Streamstone,misc,appraisal,8,,,,,Streamstone,Gold,A stone that shines with the brilliance of endless possibility. (Appraisal Item)
+659,Dissolved Weapon,misc,appraisal,4,,,,,Question,Gray,A weapon carved from Kulve Taroth. Must be repaired before it can be used. (Appraised after investigation)
+660,Melded Weapon,misc,appraisal,5,,,,,Question,White,A weapon carved from Kulve Taroth. Some parts have been infused with gold. (Appraised after investigation)
+661,Sublimated Weapon,misc,appraisal,6,,,,,Question,Gold,A weapon carved from Kulve Taroth Strengthened by being infused with gold. (Appraised after investigation)
+662,Incandescent Weapon,misc,appraisal,7,,,,,Question,Red,A weapon carved from Kulve Taroth. Born from the fusion of rare metals. (Appraised after investigation)
+605,White Liver,misc,account,2,,,,40,Meat,White,"A white-colored liver, popular for its juicy texture. (Account Item)"
+606,Wyvern Tear,misc,account,3,,,,200,Body,Blue,Bitter tears wept by wyverns on certain occasions. (Account Item)
+607,Large Wyvern Tear,misc,account,5,,,,500,Body,Blue,"Large, bitter tears wept by wyverns on certain occasions. (Account Item)"
+608,Dragon Treasure,misc,account,3,,,,800,Ore,Violet,A shiny rock that elder dragons like to collect. (Account Item)
+1184,Old Dragon Treasure,misc,account,9,,,,1600,Ore,Violet,"Stones hoarded by elder dragons. The older they are, the brighter they glow. (Account Item)"
+681,Transparent Stone,misc,account,5,,,,500,Decoration,White,"A mysterious stone filled with an odd, transparent radiance. (Account Item)"
+609,Sunbloom,misc,account,2,,,,12,Herb,Pink,A flower from the Ancient Forest. It's been bathed in the warmth of the sun. (Account Item)
+610,Shinebloom,misc,account,3,,,,27,Herb,Pink,A rare flower from the Ancient Forest. Has a scent of sunlight on its petals. (Account Item)
+611,Goldbloom,misc,account,4,,,,140,Herb,Pink,A precious flower from the Ancient Forest. It glitters brighter than gold. (Account Item)
+612,Gourmet Shroomcap,misc,account,2,,,,10,Mushroom,White,A mushroom from the Ancient Forest. Known for its unique tenderness. (Account Item)
+613,Exquisite Shroomcap,misc,account,3,,,,25,Mushroom,White,A rare mushroom from the Ancient Forest. Highly sought after by elite chefs. (Account Item)
+614,Spirit Shroomcap,misc,account,4,,,,150,Mushroom,White,A precious mushroom from the Ancient Forest. Possesses a fantastical glow. (Account Item)
+615,Bauble Cactus,misc,account,2,,,,14,Herb,Green,A cactus from the Wildspire Waste. Small but fleshy. (Account Item)
+616,Jewel Cactus,misc,account,3,,,,28,Herb,Green,A rare cactus from the Wildspire Waste. Big and meaty. (Account Item)
+617,Kingly Cactus,misc,account,4,,,,160,Herb,Green,A precious cactus from the Wildspire Waste. The undeniable prickle king. (Account Item)
+618,Hardfruit,misc,account,2,,,,12,Seed,Orange,"Fruit from the Wildspire Waste. Hard on the outside, juicy on the inside. (Account Item)"
+1185,Rockfruit,misc,account,3,,,,24,Seed,Orange,"Rare fruit from the Wildspire Waste. Tasty, but brutal on the chompers. (Account Item)"
+1186,Wildfruit,misc,account,4,,,,145,Seed,Orange,Precious fruit from the Wildspire Waste. Not for the faint of heart. (Account Item)
+619,Super Abalone,misc,account,2,,,,16,Sac,LightBeige,Coral Highlands seafood. A rare delicacy. (Account Item)
+620,Choice Abalone,misc,account,3,,,,36,Sac,LightBeige,"Rare Coral Highlands seafood. Big in size, big in flavor. (Account Item)"
+621,Precious Abalone,misc,account,4,,,,210,Sac,LightBeige,Precious Coral Highlands seafood. A delicacy among delicacies. (Account Item)
+622,Light Pearl,misc,account,2,,,,18,Charm,Gray,A jewel from the Coral Highlands. Gleams brilliantly. (Account Item)
+623,Deep Pearl,misc,account,3,,,,38,Charm,Gray,A rare jewel from the Coral Highlands. Glows with a profound luster. (Account Item)
+624,Innocent Pearl,misc,account,4,,,,180,Charm,Gray,A precious jewel from the Coral Highlands. Glistens with purity. (Account Item)
+625,Forgotten Fossil,misc,account,2,,,,15,Bone,DarkBeige,A fossil from the Rotten Vale. It bears tracks from antiquity. (Account Item)
+626,Legendary Fossil,misc,account,3,,,,35,Bone,DarkBeige,A rare fossil from the Rotten Vale. The life it holds is long extinct. (Account Item)
+627,Mystical Fossil,misc,account,4,,,,200,Bone,DarkBeige,A precious fossil from the Rotten Vale. The key to an ancient mystery. (Account Item)
+628,Underground Fruit,misc,account,2,,,,14,Seed,DarkRed,Fruit from the Rotten Vale. It grows to maturity without sun. (Account Item)
+629,Tainted Fruit,misc,account,3,,,,34,Seed,DarkRed,Rare fruit from the Rotten Vale. It thrives under arduous conditions. (Account Item)
+630,Elysian Fruit,misc,account,4,,,,190,Seed,DarkRed,Precious fruit from the Rotten Vale. Its aroma is not of this world. (Account Item)
+631,Gaia Amber,misc,account,2,,,,30,Ore,Beige,Amber from the Elder's Recess. A golden tear plucked from the earth. (Account Item)
+632,Dragonvein Amber,misc,account,3,,,,50,Ore,Beige,Rare amber from the Elder's Recess. It pulses with nature's raw energy. (Account Item)
+633,Ancient Amber,misc,account,4,,,,250,Ore,Beige,Precious amber from the Elder's Recess. A piece of antiquity. (Account Item)
+634,Blue Beryl,misc,account,2,,,,32,Ore,Blue,A gem from the Elder's Recess. It shines with the color of the waves. (Account Item)
+635,True Beryl,misc,account,3,,,,54,Ore,Blue,A rare gem from the Elder's Recess. It glints with the clarity of truth. (Account Item)
+636,Abyssal Beryl,misc,account,4,,,,260,Ore,Blue,"A precious gem from the Elder's Recess. Has a deep, hypnotic hue. (Account Item)"
+1317,Sunkissed Grass,misc,account,4,,,,100,Herb,Beige,
+637,Moonlit Mushroom,misc,account,4,,,,88,Mushroom,Violet,A special plant from the Ancient Forest. Radiates like the full moon. (Account Item)
+1187,Dragonbloom,misc,account,4,,,,84,Herb,Red,A special flower from the Wildspire Waste. Hard as dragon scale. (Account Item)
+1188,Divineapple,misc,account,4,,,,80,Seed,Gold,Special fruit from the Wildspire Waste. Quite difficult to cultivate. (Account Item)
+1189,Violet Abalone,misc,account,4,,,,78,Sac,Violet,Special seafood from the Coral Highlands. Unique in both taste and aroma. (Account Item)
+1190,Platinum Pearl,misc,account,4,,,,90,CharmOre,White,A special jewel from the Coral Highlands. Bears a metallic sheen. (Account Item)
+1191,Wicked Fossil,misc,account,4,,,,110,Bone,Violet,A special fossil from the Rotten Vale. Unspeakably ominous. (Account Item)
+1192,Heavenberry,misc,account,4,,,,90,Seed,Beige,Special fruit from the Rotten Vale. One bite'll send you to the pearly gates. (Account Item)
+1193,Twilight Stone,misc,account,4,,,,190,Ore,Orange,A special gem from the Elder's Recess. The color of a sinking sun. (Account Item)
+1194,Noahstone,misc,account,4,,,,210,Ore,Blue,A special gem from the Elder's Recess. Its brilliance engulfs all. (Account Item)
+1195,Decayed Scale,misc,account,4,,,,250,Scale,Gray,A dragon scale ravaged by time. (Account Item)
+1196,Luminous Scale,misc,account,4,,,,1000,Scale,White,"A dragon scale that glows bright, despite the years it has weathered. (Account Item)"
+1197,Young Butterbur,misc,account,2,,,,30,Seed,Lime,A vegetable from the Hoarfrost Reach. A precious source of nutrients for tundra wildlife. (Account Item)
+1198,Exquisite Butterbur,misc,account,3,,,,50,Seed,Lime,Rare vegetable from the Hoarfrost Reach. Contains enough nutrients to warm the body to its core. (Account Item)
+1199,Millennium Butterbur,misc,account,4,,,,250,Seed,Lime,Rare vegetable from the Hoarfrost Reach. Miraculously bloomed after centuries of patient waiting. (Account Item)
+1200,Icebloom,misc,account,2,,,,32,Herb,Blue,A flower from the Hoarfrost Reach. Its petals are translucent as ice. (Account Item)
+1201,Moonlight Icebloom,misc,account,3,,,,54,Herb,Blue,Rare flower from the Hoarfrost Reach. It shimmers in the snowfields by moonlight. (Account Item)
+1202,Snowpeak Icebloom,misc,account,4,,,,260,Herb,Blue,Rare flower from the Hoarfrost Reach. Said to bloom after the fiercest of blizzards. (Account Item)
+1203,Snow White,misc,account,4,,,,190,Seed,White,Rare vegetable from the Hoarfrost Reach. This shoot was protected by the pure white snow. (Account Item)
+1204,Petalcryst,misc,account,4,,,,210,Herb,Blue,"Rare flower from the Hoarfrost Reach. Beautiful as any jewel, evanescent as a flake of snow. (Account Item)"
+1205,Crystalized Bone Shard,misc,account,9,,,,100,Bone,Cyan,An unusual bone fragment found in the geological strata of the Guiding Lands. (Account Item)
+1206,Crystalized Monster Bone,misc,account,10,,,,250,Bone,Gold,An unusual monster bone from the Guiding Lands. Has a different glow in each region. (Account Item)
+1207,Crystalized Elder Dragon Bone,misc,account,11,,,,700,Bone,Violet,An elder dragon bone found in the Guiding Lands. Older than human comprehension. (Account Item)
+1249,Large Beast Tear,misc,account,5,,,,500,Body,Cyan,"Large, bitter tears wept by beasts on certain occasions. (Account Item)"
+638,First-aid Med,misc,supply,1,,,10,,Liquid,Green,Restores a small amount of health. (Supply Item)
+639,First-aid Med+,misc,supply,2,,,10,,Liquid,Green,Restores a moderate amount of health. (Supply Item)
+640,EZ Ration,misc,supply,1,,,10,,Meat,DarkBeige,Restores a small amount of stamina. (Supply Item)
+1214,EZ Lifepowder,misc,supply,2,,,,,Sac,LightBeige,Produces a healing cloud around the area that heals anyone that comes in contact with it. (Supply Item)
+1215,EZ Dust of Life,misc,supply,2,,,,,Sac,LightBeige,Releases a cloud around you that restores a large amount of health. (Supply Item)
+641,EZ Max Potion,misc,supply,2,,,2,,Pellets,LightBeige,Fully restores health and maximizes your Health Gauge. (Supply Item)
+1216,EZ Large Barrel Bomb,misc,supply,3,,,,,BarrelBomb,Orange,A powered-up large barrel bomb. Just as powerful as a mega barrel bomb. (Supply Item)
+642,EZ Shock Trap,misc,supply,3,,,1,,Trap,Yellow,Immobilizes a target for easy capture. (Supply Item)
+643,EZ Pitfall Trap,misc,supply,3,,,1,,Trap,DarkGreen,Activates a pitfall to catch monsters with. (Supply Item)
+1217,EZ Herbal Powder,misc,supply,4,,,,,Sac,Blue,Cures poison and restores a bit of health for everyone nearby. (Supply Item)
+1218,EZ Demon Powder,misc,supply,4,,,,,Sac,Red,Temporarily strengthens attacks for everyone nearby. (Supply Item)
+1219,EZ Hardshell Powder,misc,supply,4,,,,,Sac,Beige,Temporarily increases defense strength for everyone nearby. (Supply Item)
+644,EZ Flash Pod,misc,supply,2,,,3,,Slinger,Gold,Slinger ammo that flashes brightly on impact. (Supply Item)
+645,EZ Screamer Pod,misc,supply,2,,,3,,Slinger,Gray,Slinger ammo that emits an earsplitting sonic blast. (Supply Item)
+646,EZ Dung Pod,misc,supply,2,,,10,,Slinger,Beige,Releases a strong odor on impact. Causes certain monsters to flee. (Supply Item)
+647,Throwing Knife,misc,supply,1,,,10,,Knife,White,A knife that can be shot from your slinger. Can be coated with a range of chemicals. (Supply Item)
+648,Poison Knife,misc,supply,2,,,5,,Knife,Violet,A knife coated with poison that can be shot from your slinger. (Supply Item)
+649,Sleep Knife,misc,supply,2,,,5,,Knife,Cyan,A knife coated with a sedative that can be shot from your slinger. (Supply Item)
+650,Paralysis Knife,misc,supply,2,,,5,,Knife,Yellow,A knife coated with a paralyzing toxin that can be shot from your slinger. (Supply Item)
+651,Tranq Knife,misc,supply,3,,,8,,Knife,Pink,A knife coated with a tranquilizer that can be shot from your slinger. (Supply Item)
+652,EZ Farcaster,misc,supply,3,,,1,,Smoke,Green,Call for a wingdrake to transport you to the nearest camp. (Supply Item)
+653,EZ Tranq Bomb,misc,supply,3,,,8,,Smoke,Red,A hand grenade used to capture monsters ensnared in traps. (Supply Item)
+1063,Green Herb,misc,supply,2,,30,,,Herb,Green,A green herb native to the Arklay Mountains. Restores health and cures zombification. (Quest Only)
+1064,Red Herb,misc,supply,2,,20,,,Herb,Red,A red herb native to the Arklay Mountains. It can't be used as is. (Quest Only)
+1065,Mixed Herb (G+R),misc,supply,3,,100,,,Pellets,Beige,This blend of 2 different herbs will fully restore your health and cure zombification. (Quest Only)

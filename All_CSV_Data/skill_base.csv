@@ -1,0 +1,179 @@
+name_en,icon_color,secret,unlocks,description_en
+Poison Resistance,Violet,,,Reduces damage while poisoned.
+Paralysis Resistance,Yellow,,,Reduces the duration of paralysis.
+Sleep Resistance,Cyan,,,Reduces the duration of sleep.
+Stun Resistance,Gold,,,Reduces stun duration.
+Muck Resistance,Gray,,,Reduces impairments to mobility while stuck in monster muck.
+Blast Resistance,Orange,,,Grants protection against blastblight.
+Bleeding Resistance,Beige,,,Grants protection against bleeding.
+Iron Skin,Beige,,,Grants protection against Defense Down.
+Earplugs,White,,,Grants protection from large monsters' roars.
+Windproof,White,,,Grants protection against wind pressure.
+Tremor Resistance,Gray,,,Grants protection against ground tremors.
+Dungmaster,DarkBeige,,,Makes monsters hit with slinger dung pods more likely to run.
+Effluvial Expert,DarkBeige,,,Nullifies or reduces environmental damage in the Rotten Vale.
+Heat Guard,Beige,,,Nullifies damage from heat.
+Attack Boost,Red,,,Increases attack power. Also improves affinity at higher levels.
+Defense Boost,Beige,,,Increases defense. Level up to improve resistances as well.
+Health Boost,Green,,,Increases health.
+Recovery Up,Green,,,Increases the amount recovered when restoring health.
+Recovery Speed,Green,,,Speeds healing of recoverable damage (the red portion of the health gauge).
+Fire Resistance,Red,,,Increases fire resistance. Also improves defense at higher levels.
+Water Resistance,Blue,,,Increases water resistance. Also improves defense at higher levels.
+Ice Resistance,White,,,Increases ice resistance. Also improves defense at higher levels.
+Thunder Resistance,Gold,,,Increases thunder resistance. Also improves defense at higher levels.
+Dragon Resistance,DarkRed,,,Increases dragon resistance. Also improves defense at higher levels.
+Blight Resistance,DarkBlue,,,Grants protection against all elemental blights.
+Fire Attack,Red,,,Increases fire element attack power. (Elemental attack power has a maximum limit.)
+Water Attack,Blue,,,Increases water element attack power. (Elemental attack power has a maximum limit.)
+Ice Attack,White,,,Increases ice element attack power. (Elemental attack power has a maximum limit.)
+Thunder Attack,Gold,,,Increases thunder element attack power. (Elemental attack power has a maximum limit.)
+Dragon Attack,DarkRed,,,Increases dragon element attack power. (Elemental attack power has a maximum limit.)
+Poison Attack,Violet,,,Increases the rate of poison buildup. (Elemental buildup has a maximum limit.)
+Paralysis Attack,Yellow,,,Increases the rate of paralysis buildup. (Elemental buildup has a maximum limit.)
+Sleep Attack,Cyan,,,Increases the rate of sleep buildup. (Elemental buildup has a maximum limit.)
+Blast Attack,Orange,,,Increases the rate of blast buildup. (Elemental buildup has a maximum limit.)
+Normal Shots,White,,,Increases the attack power of normal ammo and normal arrows.
+Piercing Shots,Blue,,,Increases the attack power of piercing ammo and Dragon Piercer.
+Spread/Power Shots,DarkGreen,,,"Increases the attack power of spread ammo, power shot arrows, and Thousand Dragons."
+Free Elem/Ammo Up,Cyan,,,Unlocks your weapon's hidden element. Also increases bowgun loading capacity. (There is a cap to loading capacity.)
+Critical Eye,DarkBlue,,,Increases affinity.
+Critical Boost,DarkBlue,,,Increases the damage of critical hits.
+Weakness Exploit,DarkBlue,,,Increases the affinity of attacks that exploit a monster weak spot.
+Focus,LightBeige,,,Increases the fill rate for weapons with gauges and the charge rate for weapons with charge attacks.
+Power Prolonger,LightBeige,,,"Allows long swords, dual blades, insect glaives, switch axes, and charge blades to stay powered up longer."
+Handicraft,White,,,"Extends the weapon sharpness gauge. However, it will not increase the gauge past its maximum."
+Critical Draw,DarkBlue,,,Increases affinity when performing draw attacks.
+Partbreaker,Gray,,,Makes it easier to break or sever parts of large monsters.
+Slugger,Gold,2,,Makes it easier to stun monsters.
+Stamina Thief,Cyan,2,,Increases certain attacks' ability to exhaust monsters.
+Master Mounter,Blue,,,Makes it easier to mount monsters.
+Airborne,Blue,,,Increases the damage caused by jumping attacks.
+Latent Power,Red,2,,Temporarily increases affinity and reduces stamina depletion when certain conditions are met.
+Agitator,Red,2,,Increases attack power and affinity when large monsters become enraged.
+Peak Performance,Red,,,Increases attack when your health is full.
+Heroics,Red,2,,Increases attack power and defense when health drops to 35% or lower.
+Fortify,DarkRed,,,Temporarily increases your attack and defense every time you faint up to 2 times.
+Resentment,DarkRed,,,Increases attack when you have recoverable damage (the red portion of your health gauge).
+Resuscitate,Cyan,,,Improves evasion and reduces stamina depletion when afflicted with abnormal status effects.
+Horn Maestro,White,,,Increases the effect duration of hunting horn melodies.
+Capacity Boost,Gray,,,Increases the gunlance's shell capacity and charge blade's phial capacity.
+Special Ammo Boost,Gray,,,"Increases the power of bowgun special ammo, Dragon Piercer, and Thousand Dragons."
+Artillery,Gray,2,,"Strengthens explosive attacks like gunlance shells, Wyvern's Fire, charge blade phial attacks, and sticky ammo."
+Heavy Artillery,Gray,,,Increases the firepower of ballistae and cannons.
+Marathon Runner,Beige,,,Slows down stamina depletion for actions which continuously drain stamina (such as dashing).
+Constitution,Beige,,,"Reduces stamina depletion when performing stamina-draining moves such as evading, etc."
+Leap of Faith,Cyan,,,"Allows you to do a dive-evade when facing towards large monsters, and extends the dive-evade distance."
+Stamina Surge,Beige,,,Speeds up stamina recovery.
+Hunger Resistance,Beige,,,"Reduces maximum stamina depletion over time. However, does not work against cold environments that reduce stamina."
+Evade Window,Cyan,,,Extends the invulnerability period when evading.
+Evade Extender,Cyan,,,Increases evade distance.
+Guard,Gray,,,Reduces knockbacks and stamina depletion when guarding.
+Quick Sheath,LightBeige,,,Speeds up weapon sheathing.
+Wide-Range,White,,,Allows the effects of certain items to also affect nearby allies.
+Item Prolonger,LightBeige,,,Extends the duration of some item effects.
+Free Meal,LightBeige,2,,Gives you a predetermined chance of consuming a food or drink item for free.
+Speed Eating,Beige,,,Increases meat-eating and item-consumption speed.
+Speed Sharpening,Gold,,,Speeds up weapon sharpening when using a whetstone.
+Bombardier,Orange,2,,Increases the damage of explosive items.
+Mushroomancer,Violet,,,Lets you digest mushrooms that would otherwise be inedible and gain their advantageous effects.
+Master Fisher,Blue,,,Improves your skill at fishing.
+Pro Transporter,LightBeige,,,Increases your speed while transporting items and decreases the likelihood of dropping them.
+Master Gatherer,Lime,,,"Allows you to gather more quickly, and also prevents attacks from knocking you back while gathering."
+Honey Hunter,Beige,,,Increases the quantity of honey you receive when gathering in the field.
+Carving Pro,Gray,,,Prevents knockback from attacks while carving.
+Divine Blessing,Blue,2,,Has a predetermined chance of reducing the damage you take.
+Palico Rally,LightBeige,,,Powers up Palicoes.
+Botanist,Lime,,,Increases the quantity of herbs and other consumable items you gather.
+Geologist,LightBeige,,,Increases the number of times you can use a gathering point.
+Maximum Might,Red,2,,Increases affinity as long as stamina is kept full for a period of time.
+Slinger Capacity,Lime,2,,Increases loading capacity for slinger ammo obtained in the field. Limits the amount of ammo used when firing certain shots.
+Stealth,Gray,,,Makes it easier for monsters to lose sight of you.
+Flinch Free,Gray,,,Prevents knockbacks and other reactions to small damage.
+Scoutfly Range Up,Lime,,,Expands your scoutflies' detection range.
+Speed Crawler,White,,,Increases movement speed while crouching.
+Jump Master,Blue,,,Prevents attacks from knocking you back during a jump.
+Survival Expert,White,,,Extra health is recovered from environmental interactables like Sporepuffs or Wiggly Litchi.
+Aquatic/Polar Mobility,Blue,,,"Lets you move more freely in water. Also prevents you from being slowed down by terrain effects, such as deep snow."
+Cliffhanger,Beige,,,"Decreases stamina depletion when evading while clinging to walls or ivy, or when moving while grappling onto an enemy."
+Blindsider,Gold,,,Improves the effectiveness of flash attacks and items.
+Scholar,Lime,,,Speeds up progress on research levels and special investigations. (Effect is applied at the quest results screen.)
+Entomologist,Green,,,"Decreases the chances of destroying the bodies of small insect monsters, allowing them to be carved."
+Effluvia Resistance,DarkBeige,,,Gain a resistance to effluvial buildup.
+Scenthound,Beige,,,Increases your scoutflies' gauge fill rate when you find tracks and other traces left by monsters.
+Forager's Luck,White,,,Increases the chance of finding rare gathering points.
+Detector,White,,,Shows rare gathering points on the Wildlife Map.
+Tool Specialist,LightBeige,2,,Reduces the recharge time for specialized tools.
+Affinity Sliding,Red,,,Sliding increases your affinity for a short time.
+Intimidator,White,,,Reduces the chances small monsters will attack after spotting you. (No effect on certain monsters.)
+Hasten Recovery,,,,Regenerates your health as you continually attack a monster. Recovery varies by weapon.
+Super Recovery,,,,Allows recovery to exceed the red portion of the health gauge.
+Poison Duration Up,,,,Extends the duration of your poison's effect on monsters.
+Adrenaline,,,,Temporarily reduces stamina depletion when health is at 40% or lower.
+Stamina Cap Up,,,,Increases stamina cap.
+Critical Element,,,,"Increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+Mind's Eye/Ballistics,Red,,,Prevents attacks from being deflected. Also shortens the distance before ammo and arrows reach maximum power.
+Bludgeoner,,,,Raises attack as your weapon loses sharpness. Also boosts ranged weapon melee attacks and odds of stunning.
+Non-elemental Boost,DarkBeige,,,Powers up non-elemental weapons you have equipped.
+Capture Master,,,,High chance of increased capture rewards. (No effect when joining mid-quest.)
+Guard Up,,,,Allows you to guard against ordinarily unblockable attacks.
+Guts,,,,"Above a certain health threshold, you withstand an attack that would normally cart you (once only)."
+Master's Touch,,,,Prevents your weapon from losing sharpness during critical hits.
+Nullify Wind Pressure,,,,Negates all wind pressure.
+Razor Sharp/Spare Shot,,,,"Halves sharpness loss. For bows and bowguns, shots have a chance not to expend coatings or ammo."
+Critical Status,,,,"Increases abnormal status effect damage (paralysis, poison, sleep, blast) when landing critical hits."
+Great Luck,,,,High chance of increased quest rewards. (No effect when joining mid-quest.)
+Carving Master,,,,Lets you carve one additional time. (No effect when joining mid-quest.)
+Good Luck,,,,Good chance of increased quest rewards. (No effect when joining mid-quest.)
+Bow Charge Plus,Blue,,,Increases max bow charge level by one.
+Punishing Draw,,,,Adds a stun effect to draw attacks and slightly increases attack power.
+Protective Polish,DarkRed,,,Weapon sharpness does not decrease for a set time after sharpening.
+BBQ Master,,,,Improves your skill at cooking meat.
+Blast Functionality,Orange,,,Allows you to apply blast coatings.
+Elderseal Boost,DarkRed,,,Increases the Elderseal of weapons and dragon ammo.
+Para Functionality,Yellow,,,Allows you to apply paralysis coatings.
+Poison Functionality,Violet,,,Allows you to apply poison coatings.
+Sleep Functionality,Cyan,,,Allows you to apply sleep coatings.
+Elemental Airborne,,,,Elemental damage increased for jumping attacks.
+True Razor Sharp/Spare Shot,,,,Greatly reduces sharpness loss. Bows and bowguns have a chance not to expend coatings or ammo.
+Offensive Guard,White,,,Temporarily increases attack power after executing a perfectly-timed guard.
+Coalescence,Violet,,,Temporarily enhances attacks after recovering from blights or abnormal status.
+Frostcraft,,,,"An aura of frost builds when your weapon is sheathed, raising attack. Wanes each melee hit or shot fired."
+Element Acceleration,,,,Continually attacking a monster activates Free Element/Ammo Up Lv2 and increases elemental damage.
+True Element Acceleration,,,,Continually attacking a monster activates Free Element/Ammo Up Lv3 and increases elemental damage.
+Gaia's Veil,,,,"While wearing a mantle, gain Windproof Lv3, Earplugs Lv3, Tremor Res Lv3, and Flinch Free."
+True Gaia's Veil,,,,"While wearing a mantle, gain Tremor Resistance Lv3, Earplugs Lv5, max Windproof, and Flinch Free."
+Dragonvein Awakening,,,,"Elem., abnormal status, & affinity up with weapon drawn. Take damage when attacking, but can be recovered by continually attacking."
+True Dragonvein Awakening,,,,"Enhances attacks even more with weapon drawn. Take damage when attacking, but can be recovered by continually attacking."
+Free Meal Secret,,,Free Meal,Raises the maximum level of the Free Meal skill.
+Maximum Might Secret,,,Maximum Might,Raises the maximum level of the Maximum Might skill.
+Bombardier Secret,,,Bombardier,Raises the maximum level of the Bombardier skill.
+Slugger Secret,,,Slugger,Raises the maximum level of the Slugger skill.
+Agitator Secret,,,Agitator,Raises the maximum level of the Agitator skill.
+Artillery Secret,,,Artillery,Raises the maximum level of the Artillery skill.
+Stamina Thief Secret,,,Stamina Thief,Raises the maximum level of the Stamina Thief skill.
+Tool Specialist Secret,,,Tool Specialist,Raises the maximum level of the Tool Specialist skill.
+Latent Power Secret,,,Latent Power,Raises the maximum level of the Latent Power skill.
+Divine Blessing Secret,,,Divine Blessing,Raises the maximum level of the Divine Blessing skill.
+Slinger Ammo Secret,,,Slinger Capacity,Raises the maximum level of the Slinger Capacity skill.
+Heroics Secret,,,Heroics,Raises the maximum level of the Heroics skill.
+True Critical Status,,,,"Greatly increases status effect damage (paralysis, poison, sleep, blast) when landing critical hits."
+True Critical Element,,,,"Greatly increases elemental damage (fire, water, thunder, ice, dragon) when landing critical hits."
+Joy's Gift,,,,Increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)
+Joy's Gratitude,,,,Greatly increases odds of getting special Holiday Joy rewards. (No effect when joining mid-quest.)
+Gratitude's Gift,,,,Increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)
+Gratitude's Blessing,,,,Greatly increases odds of getting special Grand Appreciation rewards. (No effect when joining mid-quest.)
+Full Bloom's Gift,,,,Increases odds of getting special Full Bloom rewards. (No effect when joining mid-quest.)
+Full Bloom Gratitude,,,,Greatly increases odds of getting special Full Bloom rewards. (No effect when joining mid-quest.)
+Element Conversion,Violet,,,Equipped weapon's elemental power increases as your armor's elemental resistance increases.
+All Elemental Resistance,Violet,,,Increases all elemental resistances +20%.
+Clutch Claw Boost,Red,,,"Clutch claw weapon attacks wound monsters easier, and have a better chance of dropping slinger ammo."
+Inheritance,,,,Removes the skill level cap for the skill secrets.
+Transcendance,,,,Grants True Razor Sharp/Spare Shot. Health/Stamina +100 at the start of a quest or after fainting. (Effect doesn't stack.)
+Fun Fright's Gift,,,,Increases odds of getting special Fun Fright rewards. (No effect when joining mid-quest.)
+Fun Fright's Gratitude,,,,Greatly increases odds of getting special Fun Fright rewards. (No effect when joining mid-quest.)
+Sizzling Gift,,,,Increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)
+Sizzling Gratitude,,,,Greatly increases odds of getting special Sizzling Spice rewards. (No effect when joining mid-quest.)
+Coldproof,White,,,Nullifies the effects of cold weather.
+Provoker,Orange,,,Increases the attention drawn when attacking a monster.
+Safe Landing,Blue,,,Allows you to quickly recover from heavy attacks that blow you back when you have your weapon unsheathed.

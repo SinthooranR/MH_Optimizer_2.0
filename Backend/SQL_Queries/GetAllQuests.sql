@@ -1,0 +1,8 @@
+CREATE PROCEDURE GetAllQuests
+
+AS 
+BEGIN
+
+SELECT * FROM Quest
+
+END

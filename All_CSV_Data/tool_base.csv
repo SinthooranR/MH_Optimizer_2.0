@@ -1,0 +1,21 @@
+tool_id,name_en,tool_type,duration,duration_upgraded,recharge,slot_1,slot_2,slot_3,description_en
+1,Ghillie Mantle+,mantle,120,,300,3,3,0,Conceals you from enemy view temporarily. The effect expires if you perform an attack or take damage.
+2,Temporal Mantle+,mantle,120,,300,1,1,0,Nullifies damage from powerful attacks by automatically evading.
+3,Health Booster+,booster,60,100,150,0,0,0,Places a smoker that gradually restores your health.
+4,Rocksteady Mantle+,mantle,90,,360,1,1,0,"Eliminates damage reactions, prevents wind effects, protects your hearing, and grants tremor resistance. You also receive less damage from attacks."
+5,Challenger Mantle+,mantle,180,,300,3,3,0,Prompts monsters to target you more often and makes them easier to lure. The effect expires if you are attacked.
+6,Vitality Mantle+,mantle,120,,360,4,2,0,"Negates a fixed amount of damage, after which the effect expires."
+7,Fireproof Mantle+,mantle,180,,210,2,2,0,"Reduces fire damage, nullifies fireblight and blastblight, and prevents damage from hot environments."
+8,Waterproof Mantle+,mantle,180,,210,2,2,0,"Reduces water damage, nullifies waterblight, reduces mobility restrictions in muck and negates them entirely for deep water."
+9,Iceproof Mantle+,mantle,180,,210,2,2,0,Reduces ice damage and nullifies iceblight.
+10,Thunderproof Mantle+,mantle,180,,210,2,2,0,Reduces thunder damage and nullifies thunderblight and paralysis.
+11,Dragonproof Mantle+,mantle,120,,300,2,1,0,"Reduces dragon damage, nullifies dragonblight, and powers up your weapon's dragon properties."
+12,Cleanser Booster+,booster,60,120,150,0,0,0,Places a smoker that removes any abnormal status effects and elemental blights.
+13,Glider Mantle+,mantle,180,,120,4,4,0,Increases jump airtime and grants the power to ride strong winds. Also makes it easier to mount monsters.
+14,Evasion Mantle+,mantle,90,,300,2,2,0,Increases the invulnerability window while evading and grants a temporary attack boost for evading a monster attack at the very last moment.
+15,Impact Mantle+,mantle,90,,360,3,2,0,Adds a stun effect to most attacks or increases the potency of an existing stun effect.
+16,Apothecary Mantle+,mantle,60,,210,3,2,0,Increases the probability of triggering status buildup when attacking with weapons that induce abnormal statuses.
+17,Immunity Mantle+,mantle,120,,210,3,2,0,Removes and nullifies all abnormal status effects for the duration of the effect.
+18,Affinity Booster+,booster,60,,180,0,0,0,Places a smoker that increases affinity.
+19,Bandit Mantle+,mantle,180,,210,3,1,0,Causes monsters to drop rare trade-in items when you attack them.
+20,Assassin's Hood+,mantle,360,,180,3,2,0,"Increases movement speed and allows you to hide quicker. Deals big damage to a monster caught unaware, then the effect ends."
