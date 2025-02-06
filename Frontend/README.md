@@ -1,5 +1,12 @@
 # EquipmentOptimizer20
 
+## CSV and Image Source I Used
+
+- [gatheringhallstudios](https://github.com/gatheringhallstudios/MHWorldData)
+  Utilized the CSVs with my own script to push certain data to SQL Server
+
+## Generated Notes from CLI:
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.4.
 
 ## Development server

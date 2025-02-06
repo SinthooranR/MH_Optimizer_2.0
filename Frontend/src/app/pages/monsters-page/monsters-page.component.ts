@@ -13,6 +13,7 @@ import { apiUrl } from '../../constants';
   styleUrl: './monsters-page.component.scss',
 })
 export class MonstersPageComponent {
+  title = 'Monsters';
   monsters: Monster[] = [];
 
   constructor(private monsterService: MonsterService) {}
