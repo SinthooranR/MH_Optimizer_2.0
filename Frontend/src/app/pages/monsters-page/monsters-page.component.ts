@@ -6,10 +6,11 @@ import { MonsterCardComponent } from '../../components/monster-card/monster-card
 import { apiUrl } from '../../constants';
 
 @Component({
-    selector: 'app-monsters-page',
-    imports: [CommonModule, MonsterCardComponent],
-    templateUrl: './monsters-page.component.html',
-    styleUrl: './monsters-page.component.scss'
+  selector: 'app-monsters-page',
+  imports: [CommonModule, MonsterCardComponent],
+  templateUrl: './monsters-page.component.html',
+  styleUrl: './monsters-page.component.scss',
+  standalone: true,
 })
 export class MonstersPageComponent {
   title = 'Monsters';
