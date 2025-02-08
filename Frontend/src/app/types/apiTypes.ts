@@ -35,15 +35,3 @@ export interface PaginationParams {
   page: number;
   perPage: number;
 }
-
-export interface Monster {
-  id: number;
-  monsterId: number;
-  name: string;
-  ecology?: string;
-  size: string;
-  pitfallTrap?: string;
-  shockTrap?: string;
-  vineTrap?: string;
-  description?: string;
-}

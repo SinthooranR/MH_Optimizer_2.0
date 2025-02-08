@@ -1,4 +1,5 @@
 ﻿using MHW_Optimizer_API.Services;
+using MHW_Optimizer_Library.Models.Dto;
 using Microsoft.AspNetCore.Mvc;
 
 namespace MHW_Optimizer_API.Controllers
@@ -32,7 +33,8 @@ namespace MHW_Optimizer_API.Controllers
         }
 
         [HttpGet("{monsterName}")]
-        public async Task<IActionResult> getLargeMonsterById(string monsterName)
+        [ProducesDefaultResponseType(typeof(MonsterDetails))]
+        public async Task<IActionResult> getLargeMonsterByName(string monsterName)
         {
             var monsterInfo = await _monsterService.GetMonsterDetails(monsterName);
 

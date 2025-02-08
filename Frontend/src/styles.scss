@@ -1,41 +1,21 @@
-// Custom Theming for Angular Material
-// For more information: https://material.angular.io/guide/theming
-@use "@angular/material" as mat;
-
-html {
-  @include mat.theme(
-    (
-      color: (
-        primary: mat.$violet-palette,
-        tertiary: mat.$orange-palette,
-        theme-type: dark,
-      ),
-      typography: Roboto,
-      density: 0,
-    )
-  );
-} /* You can add global styles to this file, and also import other style files */
-// $primary-color: #4a752c;
-// $secondary-color: #8c4a2f;
-// $accent-color: #c1a65c;
-// $background-color: #1e1e1e;
-// $card-color: #2c2c2c;
-// $highlight-color: #4c9fdd;
-// $error-color: #d2372c;
-// $success-color: #68a357;
-// $text-color: #ffffff;
+$primary-color: #4a752c;
+$secondary-color: #8c4a2f;
+$accent-color: #c1a65c;
+$background-color: #1e1e1e;
+$card-color: #2c2c2c;
+$highlight-color: #4c9fdd;
+$error-color: #d2372c;
+$success-color: #68a357;
+$text-color: #ffffff;
 
 body {
-  //   background-color: $background-color;
-  //   color: $text-color;
+  background-color: $background-color;
+  color: $text-color;
   margin: 0;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
 }
 
 html,
 body {
   height: 100%;
-}
-body {
-  margin: 0;
-  font-family: Roboto, "Helvetica Neue", sans-serif;
 }

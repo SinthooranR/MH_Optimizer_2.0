@@ -1,9 +1,9 @@
 import { Component } from '@angular/core';
-import { Monster } from '../../types';
 import { MonsterService } from '../../services/monster.service';
 import { CommonModule } from '@angular/common';
 import { MonsterCardComponent } from '../../components/monster-card/monster-card.component';
 import { apiUrl } from '../../constants';
+import { IMonster } from '../../types/monsterTypes';
 
 @Component({
   selector: 'app-monsters-page',
@@ -14,14 +14,14 @@ import { apiUrl } from '../../constants';
 })
 export class MonstersPageComponent {
   title = 'Monsters';
-  monsters: Monster[] = [];
+  monsters: IMonster[] = [];
 
   constructor(private monsterService: MonsterService) {}
 
   getMonsters = () => {
     return this.monsterService
-      .get(`${apiUrl}/Monster`)
-      .subscribe((monsters: Monster[]) => {
+      .getAllMonsters(`${apiUrl}/Monster`)
+      .subscribe((monsters: IMonster[]) => {
         this.monsters = monsters;
       });
   };

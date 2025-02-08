@@ -1,5 +1,5 @@
-import { Component, Input, SimpleChanges } from '@angular/core';
-import { Monster } from '../../types';
+import { Component, Input } from '@angular/core';
+import { IMonster } from '../../types/monsterTypes';
 
 @Component({
   selector: 'app-monster-card',
@@ -9,13 +9,15 @@ import { Monster } from '../../types';
   standalone: true,
 })
 export class MonsterCardComponent {
-  @Input() monsterInfo!: Monster;
+  @Input() monsterInfo!: IMonster;
   imageUrl: string = '';
+  hrefUrl: string = '';
 
   ngOnInit() {
     // Set the imageUrl after the @Input() property is populated
     this.imageUrl = `assets/monster/${
       this.monsterInfo?.monsterId || 'default'
     }.png`;
+    this.hrefUrl = `/monsters/${this.monsterInfo.name}`;
   }
 }
