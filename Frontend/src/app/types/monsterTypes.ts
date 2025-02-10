@@ -18,7 +18,7 @@ export interface IMonsterDetails {
   monster_Weaknesses: IMonsterWeakness[];
   monster_Breaks: IMonsterBreak[];
   monster_Hitzones: IMonsterHitzone[];
-  monster_Rewards: IMonsterRewards[];
+  monster_Rewards: IMonsterReward[];
   monster_Habitats: IMonsterHabitat[];
 }
 
@@ -88,7 +88,7 @@ export interface IMonsterHitzone {
   ko: string;
 }
 
-export interface IMonsterRewards {
+export interface IMonsterReward {
   id: number;
   name: string;
   rank: string;

@@ -1,4 +1,4 @@
-<nav>
+<!-- <nav>
   <a class="homeIcon" href="/">
     <img [src]="iconUrl" />
     <h2>MH Optimizer</h2>
@@ -7,4 +7,32 @@
   <a href="/equipment">Equipment</a>
   <a href="/builder">Builder</a>
   <a href="/profile">Profile</a>
-</nav>
+  <div class="card flex justify-center">
+    <p-button label="Check" />
+  </div>
+</nav> -->
+<div class="card">
+  <p-menubar [model]="items">
+    <ng-template #start>
+      <a href="/">
+        <img class="homeIcon" [src]="iconUrl" />
+      </a>
+    </ng-template>
+    <ng-template #item let-item let-root="root">
+      <a pRipple class="flex items-center p-menubar-item-link">
+        <span>{{ item.label }}</span>
+
+        <i
+          *ngIf="item.items"
+          [ngClass]="['ml-auto pi', root ? 'pi-angle-down' : 'pi-angle-right']"
+        ></i>
+      </a>
+    </ng-template>
+    <ng-template #end>
+      <div class="flex items-center gap-2">
+        <!-- <input type="text" pInputText placeholder="Search" class="w-36" /> -->
+        <p-avatar [image]="settingIconUrl" shape="circle" class="homeIcon" />
+      </div>
+    </ng-template>
+  </p-menubar>
+</div>

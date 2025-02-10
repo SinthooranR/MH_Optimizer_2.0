@@ -1,1 +1,14 @@
-<p>monster-hitzone works!</p>
+<p>HITZONES!</p>
+
+<div *ngFor="let hitzone of hitzones">
+  <div *ngIf="hitzone.hitzone">{{ hitzone.hitzone }}</div>
+  <div *ngIf="hitzone.cut">{{ hitzone.cut }}</div>
+  <div *ngIf="hitzone.impact">{{ hitzone.impact }}</div>
+  <div *ngIf="hitzone.shot">{{ hitzone.shot }}</div>
+  <div *ngIf="hitzone.fire">{{ hitzone.fire }}</div>
+  <div *ngIf="hitzone.water">{{ hitzone.water }}</div>
+  <div *ngIf="hitzone.thunder">{{ hitzone.thunder }}</div>
+  <div *ngIf="hitzone.ice">{{ hitzone.ice }}</div>
+  <div *ngIf="hitzone.dragon">{{ hitzone.dragon }}</div>
+  <div *ngIf="hitzone.ko">{{ hitzone.ko }}</div>
+</div>

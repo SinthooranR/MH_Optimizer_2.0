@@ -1,3 +1,4 @@
-<div>
-  <img [src]="imageUrl" />
+<div *ngFor="let habitat of habitats; let i = index">
+  <p>{{ habitat.map }}</p>
+  <img [src]="imageUrls[i]" />
 </div>

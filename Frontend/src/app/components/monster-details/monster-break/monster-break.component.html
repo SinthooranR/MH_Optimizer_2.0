@@ -1,1 +1,9 @@
-<p>monster-break works!</p>
+<p>BREAK!</p>
+
+<div *ngFor="let break of breaks">
+  <div *ngIf="break.part">{{ break.part }}</div>
+  <div *ngIf="break.flinch">{{ break.flinch }}</div>
+  <div *ngIf="break.wound">{{ break.wound }}</div>
+  <div *ngIf="break.sever">{{ break.sever }}</div>
+  <div *ngIf="break.extract">{{ break.extract }}</div>
+</div>

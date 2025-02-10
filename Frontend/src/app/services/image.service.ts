@@ -8,7 +8,10 @@ export class ImageService {
   // Ancient Forest
   // ic_location_ancient_forest.svg
   imageUrlFinder(name: string, urlList: string[]): string {
-    const newName = name.toLowerCase().replaceAll(' ', '_');
+    const newName = name
+      .toLowerCase()
+      .replace(/[' ]/g, (match) => (match === ' ' ? '_' : ''));
+
     return urlList.find((url) => url.includes(newName)) as string;
   }
 }

@@ -1,82 +1,27 @@
 <div class="container">
   <p>{{ monsterName }}</p>
 
-  <div *ngFor="let ailment of monsterDetails.monster_Ailments">
-    <div *ngIf="ailment.roar">Roar: {{ ailment.roar }}</div>
-    <div *ngIf="ailment.wind">Wind: {{ ailment.wind }}</div>
-    <div *ngIf="ailment.tremor">Tremor: {{ ailment.tremor }}</div>
-    <div *ngIf="ailment.defenseDown">
-      Defense Down: {{ ailment.defenseDown }}
-    </div>
-    <div *ngIf="ailment.fireblight">Fireblight: {{ ailment.fireblight }}</div>
-    <div *ngIf="ailment.waterblight">
-      Waterblight: {{ ailment.waterblight }}
-    </div>
-    <div *ngIf="ailment.thunderblight">
-      Thurnderblight: {{ ailment.thunderblight }}
-    </div>
-    <div *ngIf="ailment.iceblight">Iceblight: {{ ailment.iceblight }}</div>
-    <div *ngIf="ailment.dragonblight">
-      Dragonblight: {{ ailment.dragonblight }}
-    </div>
-    <div *ngIf="ailment.blastblight">
-      Blastblight: {{ ailment.blastblight }}
-    </div>
-    <div *ngIf="ailment.regional">Terrain damage: {{ ailment.regional }}</div>
-    <div *ngIf="ailment.poison">Poison: {{ ailment.poison }}</div>
-    <div *ngIf="ailment.sleep">Sleep: {{ ailment.sleep }}</div>
-    <div *ngIf="ailment.paralysis">Paralysis: {{ ailment.paralysis }}</div>
-    <div *ngIf="ailment.bleed">Bleed: {{ ailment.bleed }}</div>
-    <div *ngIf="ailment.stun">Stun: {{ ailment.stun }}</div>
-    <div *ngIf="ailment.mud">Mud: {{ ailment.mud }}</div>
-    <div *ngIf="ailment.effluvia">Effluvia: {{ ailment.effluvia }}</div>
-  </div>
+  <app-monster-ailment
+    [ailments]="monsterDetails.monster_Ailments"
+  ></app-monster-ailment>
 
-  <div *ngFor="let weakness of monsterDetails.monster_Weaknesses">
-    <!-- <div *ngIf="weakness.form">{{ weakness.form }}</div> -->
-    <div *ngIf="weakness.altDescription">{{ weakness.altDescription }}</div>
-    <div *ngIf="weakness.fire">{{ weakness.fire }}</div>
-    <div *ngIf="weakness.water">{{ weakness.water }}</div>
-    <div *ngIf="weakness.thunder">{{ weakness.thunder }}</div>
-    <div *ngIf="weakness.ice">{{ weakness.ice }}</div>
-    <div *ngIf="weakness.dragon">{{ weakness.dragon }}</div>
-    <div *ngIf="weakness.poison">{{ weakness.poison }}</div>
-    <div *ngIf="weakness.sleep">{{ weakness.sleep }}</div>
-    <div *ngIf="weakness.paralysis">{{ weakness.paralysis }}</div>
-    <div *ngIf="weakness.blast">{{ weakness.blast }}</div>
-    <div *ngIf="weakness.stun">{{ weakness.stun }}</div>
-  </div>
+  <app-monster-weakness
+    [weaknesses]="monsterDetails.monster_Weaknesses"
+  ></app-monster-weakness>
 
-  <div *ngFor="let break of monsterDetails.monster_Breaks">
-    <div *ngIf="break.part">{{ break.part }}</div>
-    <div *ngIf="break.flinch">{{ break.flinch }}</div>
-    <div *ngIf="break.wound">{{ break.wound }}</div>
-    <div *ngIf="break.sever">{{ break.sever }}</div>
-    <div *ngIf="break.extract">{{ break.extract }}</div>
-  </div>
+  <app-monster-break
+    [breaks]="monsterDetails.monster_Breaks"
+  ></app-monster-break>
 
-  <div *ngFor="let hitzone of monsterDetails.monster_Hitzones">
-    <div *ngIf="hitzone.hitzone">{{ hitzone.hitzone }}</div>
-    <div *ngIf="hitzone.cut">{{ hitzone.cut }}</div>
-    <div *ngIf="hitzone.impact">{{ hitzone.impact }}</div>
-    <div *ngIf="hitzone.shot">{{ hitzone.shot }}</div>
-    <div *ngIf="hitzone.fire">{{ hitzone.fire }}</div>
-    <div *ngIf="hitzone.water">{{ hitzone.water }}</div>
-    <div *ngIf="hitzone.thunder">{{ hitzone.thunder }}</div>
-    <div *ngIf="hitzone.ice">{{ hitzone.ice }}</div>
-    <div *ngIf="hitzone.dragon">{{ hitzone.dragon }}</div>
-    <div *ngIf="hitzone.ko">{{ hitzone.ko }}</div>
-  </div>
+  <app-monster-hitzone
+    [hitzones]="monsterDetails.monster_Hitzones"
+  ></app-monster-hitzone>
 
-  <div *ngFor="let reward of monsterDetails.monster_Rewards">
-    <div *ngIf="reward.rank">{{ reward.rank }}</div>
-    <div *ngIf="reward.condition">{{ reward.condition }}</div>
-    <div *ngIf="reward.item">{{ reward.item }}</div>
-    <div *ngIf="reward.stack">{{ reward.stack }}</div>
-    <div *ngIf="reward.percentage">{{ reward.percentage }}</div>
-  </div>
+  <app-monster-reward
+    [rewards]="monsterDetails.monster_Rewards"
+  ></app-monster-reward>
 
-  <div *ngFor="let habitat of monsterDetails.monster_Habitats">
-    <app-monster-habitat [habitat]="habitat.map"></app-monster-habitat>
-  </div>
+  <app-monster-habitat
+    [habitats]="monsterDetails.monster_Habitats"
+  ></app-monster-habitat>
 </div>

@@ -1,1 +1,9 @@
-<p>monster-reward works!</p>
+<p>Rewards!</p>
+
+<div *ngFor="let reward of rewards">
+  <div *ngIf="reward.rank">{{ reward.rank }}</div>
+  <div *ngIf="reward.condition">{{ reward.condition }}</div>
+  <div *ngIf="reward.item">{{ reward.item }}</div>
+  <div *ngIf="reward.stack">{{ reward.stack }}</div>
+  <div *ngIf="reward.percentage">{{ reward.percentage }}</div>
+</div>

@@ -1,0 +1,22 @@
+.weaknessesContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.starsContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-self: center;
+  img {
+    height: 40px;
+    width: 40px;
+  }
+  h3 {
+    margin: 0;
+    height: 40px;
+    display: flex;
+    align-items: center;
+  }
+}

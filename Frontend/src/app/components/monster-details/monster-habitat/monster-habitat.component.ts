@@ -2,6 +2,7 @@ import { CommonModule } from '@angular/common';
 import { Component, Input } from '@angular/core';
 import { ImageService } from '../../../services/image.service';
 import { IMonsterHabitat } from '../../../types/monsterTypes';
+import { habitatUrls } from '../../../constants';
 
 @Component({
   selector: 'app-monster-habitat',
@@ -12,16 +13,14 @@ import { IMonsterHabitat } from '../../../types/monsterTypes';
 export class MonsterHabitatComponent {
   constructor(private imageService: ImageService) {}
 
-  @Input() habitat!: string;
-  imageUrl = '';
+  @Input() habitats!: IMonsterHabitat[] | undefined;
+  imageUrls: string[] = [];
 
-  ngOnInit(): void {
-    this.imageUrl = this.imageService.imageUrlFinder(this.habitat, [
-      'assets/locations/ic_locations_coral_highlands.svg',
-      'assets/locations/ic_locations_elders_recess.svg',
-      'assets/locations/ic_locations_rotten_vale.svg',
-      'assets/locations/ic_locations_wildspire_waste.svg',
-      'assets/locations/ic_location_ancient_forest.svg',
-    ]);
+  ngOnChanges(): void {
+    if (this.habitats) {
+      this.imageUrls = this.habitats.map((habitat) =>
+        this.imageService.imageUrlFinder(habitat.map, habitatUrls)
+      );
+    }
   }
 }

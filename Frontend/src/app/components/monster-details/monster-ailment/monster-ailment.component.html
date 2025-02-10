@@ -1,1 +1,26 @@
-<p>monster-ailment works!</p>
+<p>AILMENTS!</p>
+
+<div *ngFor="let ailment of ailments">
+  <div *ngIf="ailment.roar">Roar: {{ ailment.roar }}</div>
+  <div *ngIf="ailment.wind">Wind: {{ ailment.wind }}</div>
+  <div *ngIf="ailment.tremor">Tremor: {{ ailment.tremor }}</div>
+  <div *ngIf="ailment.defenseDown">Defense Down: {{ ailment.defenseDown }}</div>
+  <div *ngIf="ailment.fireblight">Fireblight: {{ ailment.fireblight }}</div>
+  <div *ngIf="ailment.waterblight">Waterblight: {{ ailment.waterblight }}</div>
+  <div *ngIf="ailment.thunderblight">
+    Thurnderblight: {{ ailment.thunderblight }}
+  </div>
+  <div *ngIf="ailment.iceblight">Iceblight: {{ ailment.iceblight }}</div>
+  <div *ngIf="ailment.dragonblight">
+    Dragonblight: {{ ailment.dragonblight }}
+  </div>
+  <div *ngIf="ailment.blastblight">Blastblight: {{ ailment.blastblight }}</div>
+  <div *ngIf="ailment.regional">Terrain damage: {{ ailment.regional }}</div>
+  <div *ngIf="ailment.poison">Poison: {{ ailment.poison }}</div>
+  <div *ngIf="ailment.sleep">Sleep: {{ ailment.sleep }}</div>
+  <div *ngIf="ailment.paralysis">Paralysis: {{ ailment.paralysis }}</div>
+  <div *ngIf="ailment.bleed">Bleed: {{ ailment.bleed }}</div>
+  <div *ngIf="ailment.stun">Stun: {{ ailment.stun }}</div>
+  <div *ngIf="ailment.mud">Mud: {{ ailment.mud }}</div>
+  <div *ngIf="ailment.effluvia">Effluvia: {{ ailment.effluvia }}</div>
+</div>

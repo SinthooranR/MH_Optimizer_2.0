@@ -5,10 +5,23 @@ import { apiUrl } from '../../constants';
 import { IMonsterDetails } from '../../types/monsterTypes';
 import { CommonModule } from '@angular/common';
 import { MonsterHabitatComponent } from '../../components/monster-details/monster-habitat/monster-habitat.component';
+import { MonsterWeaknessComponent } from '../../components/monster-details/monster-weakness/monster-weakness.component';
+import { MonsterBreakComponent } from '../../components/monster-details/monster-break/monster-break.component';
+import { MonsterHitzoneComponent } from '../../components/monster-details/monster-hitzone/monster-hitzone.component';
+import { MonsterAilmentComponent } from '../../components/monster-details/monster-ailment/monster-ailment.component';
+import { MonsterRewardComponent } from '../../components/monster-details/monster-reward/monster-reward.component';
 
 @Component({
   selector: 'app-monster-details-page',
-  imports: [CommonModule, MonsterHabitatComponent],
+  imports: [
+    CommonModule,
+    MonsterHabitatComponent,
+    MonsterWeaknessComponent,
+    MonsterBreakComponent,
+    MonsterHitzoneComponent,
+    MonsterAilmentComponent,
+    MonsterRewardComponent,
+  ],
   templateUrl: './monster-details-page.component.html',
   styleUrl: './monster-details-page.component.scss',
   standalone: true,

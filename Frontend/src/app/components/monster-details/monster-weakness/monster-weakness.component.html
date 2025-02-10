@@ -1,1 +1,15 @@
-<p>monster-weakness works!</p>
+<div>WEAKNESSES!</div>
+<div class="weaknessesContainer">
+  <div *ngFor="let weakness of weaknesses">
+    <div *ngIf="weakness.altDescription">{{ weakness.altDescription }}</div>
+
+    <ng-container *ngFor="let type of weaknessTypes">
+      <div *ngIf="weakness[type.key]" class="starsContainer">
+        <h3>{{ type.label }}:</h3>
+        <div *ngFor="let _ of getWeaknessArray(weakness, type.key)">
+          <img src="assets/ui/ic_ui_effective_star.svg" />
+        </div>
+      </div>
+    </ng-container>
+  </div>
+</div>

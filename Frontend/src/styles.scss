@@ -1,3 +1,5 @@
+@import "primeicons/primeicons.css";
+
 $primary-color: #4a752c;
 $secondary-color: #8c4a2f;
 $accent-color: #c1a65c;
@@ -9,7 +11,7 @@ $success-color: #68a357;
 $text-color: #ffffff;
 
 body {
-  background-color: $background-color;
+  // background-color: $background-color;
   color: $text-color;
   margin: 0;
   font-family: Roboto, "Helvetica Neue", sans-serif;
