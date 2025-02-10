@@ -1,5 +1,6 @@
 import { Component, Input } from '@angular/core';
 import { IMonster } from '../../types/monsterTypes';
+import { NgOptimizedImage } from '@angular/common';
 
 @Component({
   selector: 'app-monster-card',

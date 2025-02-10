@@ -18,8 +18,8 @@ export interface IMonsterDetails {
   monster_Weaknesses: IMonsterWeakness[];
   monster_Breaks: IMonsterBreak[];
   monster_Hitzones: IMonsterHitzone[];
-  monster_Rewards: IMonsterRewards;
-  monster_Habitats: IMonsterHabitat;
+  monster_Rewards: IMonsterRewards[];
+  monster_Habitats: IMonsterHabitat[];
 }
 
 export interface IMonsterAilment {
@@ -95,7 +95,7 @@ export interface IMonsterRewards {
   condition: string;
   item: string;
   stack: number;
-  percentage: string;
+  percentage: number;
 }
 
 export interface IMonsterHabitat {

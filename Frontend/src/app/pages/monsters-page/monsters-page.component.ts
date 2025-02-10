@@ -4,10 +4,12 @@ import { CommonModule } from '@angular/common';
 import { MonsterCardComponent } from '../../components/monster-card/monster-card.component';
 import { apiUrl } from '../../constants';
 import { IMonster } from '../../types/monsterTypes';
+import { LoadSpinnerComponent } from '../../components/common/load-spinner/load-spinner.component';
+import { delay } from 'rxjs';
 
 @Component({
   selector: 'app-monsters-page',
-  imports: [CommonModule, MonsterCardComponent],
+  imports: [CommonModule, MonsterCardComponent, LoadSpinnerComponent],
   templateUrl: './monsters-page.component.html',
   styleUrl: './monsters-page.component.scss',
   standalone: true,
@@ -15,14 +17,23 @@ import { IMonster } from '../../types/monsterTypes';
 export class MonstersPageComponent {
   title = 'Monsters';
   monsters: IMonster[] = [];
+  loading = true;
 
   constructor(private monsterService: MonsterService) {}
 
   getMonsters = () => {
     return this.monsterService
       .getAllMonsters(`${apiUrl}/Monster`)
-      .subscribe((monsters: IMonster[]) => {
-        this.monsters = monsters;
+      .pipe(delay(500))
+      .subscribe({
+        next: (data) => {
+          this.monsters = data;
+          this.loading = false;
+        },
+        error: (err) => {
+          console.error('Error getting monsters', err);
+          this.loading = false;
+        },
       });
   };
 

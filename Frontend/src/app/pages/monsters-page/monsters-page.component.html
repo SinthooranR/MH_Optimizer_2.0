@@ -1,5 +1,11 @@
 <div class="container">
-  <div *ngFor="let monster of monsters">
-    <app-monster-card [monsterInfo]="monster"></app-monster-card>
+  <div *ngIf="loading">
+    <app-load-spinner></app-load-spinner>
+  </div>
+
+  <div *ngIf="!loading" class="container">
+    <div *ngFor="let monster of monsters">
+      <app-monster-card [monsterInfo]="monster"></app-monster-card>
+    </div>
   </div>
 </div>

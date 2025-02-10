@@ -1,0 +1,15 @@
+.spinnerContainer {
+  height: 200px;
+  width: 200px;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.spinner {
+  transform-origin: center;
+  animation: spin 2s linear infinite;
+}
